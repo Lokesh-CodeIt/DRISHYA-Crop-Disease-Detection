@@ -1,0 +1,81 @@
+﻿python : <string>:287: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a 
+future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+At line:1 char:1
++ python -c "
++ ~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (<string>:287: D...(datetime.UTC).:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+============================================================
+LeafLens Phase 5B ΓÇö Final Split Verification
+============================================================
+
+========================================
+  TURMERIC
+========================================
+  Γ£à CHECK 1 ΓÇö Total rows: train=870, val=187, test=186, TOTAL=1243
+  Γ£à CHECK 2 ΓÇö train: All 4 expected classes present
+  Γ£à CHECK 2 ΓÇö val: All 4 expected classes present
+  Γ£à CHECK 2 ΓÇö test: All 4 expected classes present
+  Γ£à CHECK 3 ΓÇö train: No intra-partition SHA-256 duplicates
+  Γ£à CHECK 3 ΓÇö val: No intra-partition SHA-256 duplicates
+  Γ£à CHECK 3 ΓÇö test: No intra-partition SHA-256 duplicates
+  Γ£à CHECK 4 ΓÇö Zero SHA-256 cross-partition leakage (train/val/test)
+  Γ£à CHECK 5 ΓÇö No duplicate group ID cross-partition leakage
+  Γ£à CHECK 7+8 ΓÇö train: No missing paths or labels
+  Γ£à CHECK 7+8 ΓÇö val: No missing paths or labels
+  Γ£à CHECK 7+8 ΓÇö test: No missing paths or labels
+  Γ¥î CHECK 9 ΓÇö train: 870 image files NOT found on disk
+  Γ¥î   Example: DATASET/Turmeric Plant Disease Dataset Advancing AI for Agricultural Sustainability.zip#Turmeric Plant Disease Dataset Advancing AI for Agricultural Sustainability/Turmeric Plant Disease.zip#Turmeric Plant Disease/Dry Leaf/Dry Leaf00182.JPG
+  Γ¥î   Example: DATASET/Turmeric Plant Disease Dataset Advancing AI for Agricultural Sustainability.zip#Turmeric Plant Disease Dataset Advancing AI for Agricultural Sustainability/Turmeric Plant Disease.zip#Turmeric Plant Disease/Dry Leaf/Dry Leaf00038.JPG
+  Γ¥î   Example: DATASET/Turmeric Plant Disease Dataset Advancing AI for Agricultural Sustainability.zip#Turmeric Plant Disease Dataset Advancing AI for Agricultural Sustainability/Turmeric Plant Disease.zip#Turmeric Plant Disease/Dry Leaf/Dry Leaf00061.JPG
+  Γ¥î CHECK 9 ΓÇö val: 187 image files NOT found on disk
+  Γ¥î   Example: DATASET/Turmeric Plant Disease Dataset Advancing AI for Agricultural Sustainability.zip#Turmeric Plant Disease Dataset Advancing AI for Agricultural Sustainability/Turmeric Plant Disease.zip#Turmeric Plant Disease/Dry Leaf/Dry Leaf00154.JPG
+  Γ¥î   Example: DATASET/Turmeric Plant Disease Dataset Advancing AI for Agricultural Sustainability.zip#Turmeric Plant Disease Dataset Advancing AI for Agricultural Sustainability/Turmeric Plant Disease.zip#Turmeric Plant Disease/Dry Leaf/Dry Leaf00018.JPG
+  Γ¥î   Example: DATASET/Turmeric Plant Disease Dataset Advancing AI for Agricultural Sustainability.zip#Turmeric Plant Disease Dataset Advancing AI for Agricultural Sustainability/Turmeric Plant Disease.zip#Turmeric Plant Disease/Dry Leaf/Dry Leaf00050.JPG
+  Γ¥î CHECK 9 ΓÇö test: 186 image files NOT found on disk
+  Γ¥î   Example: DATASET/Turmeric Plant Disease Dataset Advancing AI for Agricultural Sustainability.zip#Turmeric Plant Disease Dataset Advancing AI for Agricultural Sustainability/Turmeric Plant Disease.zip#Turmeric Plant Disease/Dry Leaf/Dry Leaf00115.JPG
+  Γ¥î   Example: DATASET/Turmeric Plant Disease Dataset Advancing AI for Agricultural Sustainability.zip#Turmeric Plant Disease Dataset Advancing AI for Agricultural Sustainability/Turmeric Plant Disease.zip#Turmeric Plant Disease/Dry Leaf/Dry Leaf00057.JPG
+  Γ¥î   Example: DATASET/Turmeric Plant Disease Dataset Advancing AI for Agricultural Sustainability.zip#Turmeric Plant Disease Dataset Advancing AI for Agricultural Sustainability/Turmeric Plant Disease.zip#Turmeric Plant Disease/Dry Leaf/Dry Leaf00108.JPG
+
+========================================
+  CITRUS
+========================================
+  Γ£à CHECK 1 ΓÇö Total rows: train=10435, val=2235, test=2241, TOTAL=14911
+  Γ£à CHECK 2 ΓÇö train: All 18 expected classes present
+  Γ£à CHECK 2 ΓÇö val: All 18 expected classes present
+  Γ£à CHECK 2 ΓÇö test: All 18 expected classes present
+  Γ£à CHECK 3 ΓÇö train: No intra-partition SHA-256 duplicates
+  Γ£à CHECK 3 ΓÇö val: No intra-partition SHA-256 duplicates
+  Γ£à CHECK 3 ΓÇö test: No intra-partition SHA-256 duplicates
+  Γ£à CHECK 4 ΓÇö Zero SHA-256 cross-partition leakage (train/val/test)
+  Γ£à CHECK 5 ΓÇö No duplicate group ID cross-partition leakage
+  Γ£à CHECK 7+8 ΓÇö train: No missing paths or labels
+  Γ£à CHECK 7+8 ΓÇö val: No missing paths or labels
+  Γ£à CHECK 7+8 ΓÇö test: No missing paths or labels
+  Γ¥î CHECK 9 ΓÇö train: 10435 image files NOT found on disk
+  Γ¥î   Example: DATASET/Large-Scale Lemon Leaf Disease and Pest Image Data.zip#Large-Scale Lemon Leaf Disease and Pest Image Data/Algal_Leaf_Spot/Algal_Leaf_Spot_797.jpg
+  Γ¥î   Example: DATASET/Large-Scale Lemon Leaf Disease and Pest Image Data.zip#Large-Scale Lemon Leaf Disease and Pest Image Data/Algal_Leaf_Spot/Algal_Leaf_Spot_795.jpg
+  Γ¥î   Example: DATASET/Large-Scale Lemon Leaf Disease and Pest Image Data.zip#Large-Scale Lemon Leaf Disease and Pest Image Data/Algal_Leaf_Spot/Algal_Leaf_Spot_412.jpg
+  Γ¥î CHECK 9 ΓÇö val: 2235 image files NOT found on disk
+  Γ¥î   Example: DATASET/Large-Scale Lemon Leaf Disease and Pest Image Data.zip#Large-Scale Lemon Leaf Disease and Pest Image Data/Algal_Leaf_Spot/Algal_Leaf_Spot_095.jpg
+  Γ¥î   Example: DATASET/Large-Scale Lemon Leaf Disease and Pest Image Data.zip#Large-Scale Lemon Leaf Disease and Pest Image Data/Algal_Leaf_Spot/Algal_Leaf_Spot_195.jpg
+  Γ¥î   Example: DATASET/Large-Scale Lemon Leaf Disease and Pest Image Data.zip#Large-Scale Lemon Leaf Disease and Pest Image Data/Algal_Leaf_Spot/Algal_Leaf_Spot_417.jpg
+  Γ¥î CHECK 9 ΓÇö test: 2241 image files NOT found on disk
+  Γ¥î   Example: DATASET/Large-Scale Lemon Leaf Disease and Pest Image Data.zip#Large-Scale Lemon Leaf Disease and Pest Image Data/Algal_Leaf_Spot/Algal_Leaf_Spot_837.jpg
+  Γ¥î   Example: DATASET/Large-Scale Lemon Leaf Disease and Pest Image Data.zip#Large-Scale Lemon Leaf Disease and Pest Image Data/Algal_Leaf_Spot/Algal_Leaf_Spot_272.jpg
+  Γ¥î   Example: DATASET/Large-Scale Lemon Leaf Disease and Pest Image Data.zip#Large-Scale Lemon Leaf Disease and Pest Image Data/Algal_Leaf_Spot/Algal_Leaf_Spot_146.jpg
+
+========================================
+  EXTERNAL TEST (CITRUS)
+========================================
+  Γ£à CHECK EXT-1 ΓÇö External test: 609 rows, 5 classes
+  Γ£à CHECK EXT-2 ΓÇö External: No blank paths or labels
+  Γ£à CHECK 6 ΓÇö No external image contamination in citrus_train
+  Γ£à CHECK 6 ΓÇö No external image contamination in citrus_val
+  Γ£à CHECK 6 ΓÇö No external image contamination in citrus_test
+  Γ¥î CHECK EXT-3 ΓÇö External: 609 missing image files
+
+Γ£à Report written ΓåÆ data\reports\phase5_split_final_verification.md
+
+Γ¥î STOP: 25 error(s) found. Fix before training.

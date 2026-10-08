@@ -1,0 +1,139 @@
+table,crop,architecture,seed,split,metric,raw_value,rounded_value,unit,source,temperature
+7.1,turmeric,ConvNeXt-Tiny,42,test,accuracy,0.989247311827957,98.92,%,ml/calibration/cache/turmeric_test_logits.npz,1.0
+7.1,turmeric,ConvNeXt-Tiny,42,test,macro_f1,0.9897353609163622,0.9897,score,ml/calibration/cache/turmeric_test_logits.npz,1.0
+7.1,turmeric,ConvNeXt-Tiny,42,test,macro_precision,0.99212158808933,0.9921,score,ml/calibration/cache/turmeric_test_logits.npz,1.0
+7.1,turmeric,ConvNeXt-Tiny,42,test,macro_recall,0.9875331564986738,0.9875,score,ml/calibration/cache/turmeric_test_logits.npz,1.0
+7.1,citrus,EfficientNetV2-S,42,test,accuracy,0.927264614011602,92.73,%,ml/calibration/cache/citrus_test_logits.npz,1.0
+7.1,citrus,EfficientNetV2-S,42,test,macro_f1,0.8863479433188739,0.8863,score,ml/calibration/cache/citrus_test_logits.npz,1.0
+7.1,citrus,EfficientNetV2-S,42,test,macro_precision,0.8822263744383104,0.8822,score,ml/calibration/cache/citrus_test_logits.npz,1.0
+7.1,citrus,EfficientNetV2-S,42,test,macro_recall,0.8915087202565294,0.8915,score,ml/calibration/cache/citrus_test_logits.npz,1.0
+7.2,turmeric,ConvNeXt-Tiny,42,test,Dry Leaf_precision,1.0,1.0,score,ml/calibration/cache/turmeric_test_logits.npz,1.0
+7.2,turmeric,ConvNeXt-Tiny,42,test,Dry Leaf_recall,1.0,1.0,score,ml/calibration/cache/turmeric_test_logits.npz,1.0
+7.2,turmeric,ConvNeXt-Tiny,42,test,Dry Leaf_f1,1.0,1.0,score,ml/calibration/cache/turmeric_test_logits.npz,1.0
+7.2,turmeric,ConvNeXt-Tiny,42,test,Dry Leaf_support,31,31,count,ml/calibration/cache/turmeric_test_logits.npz,1.0
+7.2,turmeric,ConvNeXt-Tiny,42,test,Healthy_precision,0.9838709677419355,0.9839,score,ml/calibration/cache/turmeric_test_logits.npz,1.0
+7.2,turmeric,ConvNeXt-Tiny,42,test,Healthy_recall,1.0,1.0,score,ml/calibration/cache/turmeric_test_logits.npz,1.0
+7.2,turmeric,ConvNeXt-Tiny,42,test,Healthy_f1,0.991869918699187,0.9919,score,ml/calibration/cache/turmeric_test_logits.npz,1.0
+7.2,turmeric,ConvNeXt-Tiny,42,test,Healthy_support,61,61,count,ml/calibration/cache/turmeric_test_logits.npz,1.0
+7.2,turmeric,ConvNeXt-Tiny,42,test,Leaf Blotch_precision,0.9846153846153847,0.9846,score,ml/calibration/cache/turmeric_test_logits.npz,1.0
+7.2,turmeric,ConvNeXt-Tiny,42,test,Leaf Blotch_recall,0.9846153846153847,0.9846,score,ml/calibration/cache/turmeric_test_logits.npz,1.0
+7.2,turmeric,ConvNeXt-Tiny,42,test,Leaf Blotch_f1,0.9846153846153847,0.9846,score,ml/calibration/cache/turmeric_test_logits.npz,1.0
+7.2,turmeric,ConvNeXt-Tiny,42,test,Leaf Blotch_support,65,65,count,ml/calibration/cache/turmeric_test_logits.npz,1.0
+7.2,turmeric,ConvNeXt-Tiny,42,test,Leaf Spot_precision,1.0,1.0,score,ml/calibration/cache/turmeric_test_logits.npz,1.0
+7.2,turmeric,ConvNeXt-Tiny,42,test,Leaf Spot_recall,0.9655172413793104,0.9655,score,ml/calibration/cache/turmeric_test_logits.npz,1.0
+7.2,turmeric,ConvNeXt-Tiny,42,test,Leaf Spot_f1,0.9824561403508771,0.9825,score,ml/calibration/cache/turmeric_test_logits.npz,1.0
+7.2,turmeric,ConvNeXt-Tiny,42,test,Leaf Spot_support,29,29,count,ml/calibration/cache/turmeric_test_logits.npz,1.0
+7.3,citrus,EfficientNetV2-S,42,test,Algal_Leaf_Spot_precision,1.0,1.0,score,ml/calibration/cache/citrus_test_logits.npz,1.0
+7.3,citrus,EfficientNetV2-S,42,test,Algal_Leaf_Spot_recall,1.0,1.0,score,ml/calibration/cache/citrus_test_logits.npz,1.0
+7.3,citrus,EfficientNetV2-S,42,test,Algal_Leaf_Spot_f1,1.0,1.0,score,ml/calibration/cache/citrus_test_logits.npz,1.0
+7.3,citrus,EfficientNetV2-S,42,test,Algal_Leaf_Spot_support,126,126,count,ml/calibration/cache/citrus_test_logits.npz,1.0
+7.3,citrus,EfficientNetV2-S,42,test,Anthracnose_precision,0.8473282442748091,0.8473,score,ml/calibration/cache/citrus_test_logits.npz,1.0
+7.3,citrus,EfficientNetV2-S,42,test,Anthracnose_recall,0.8809523809523809,0.881,score,ml/calibration/cache/citrus_test_logits.npz,1.0
+7.3,citrus,EfficientNetV2-S,42,test,Anthracnose_f1,0.8638132295719845,0.8638,score,ml/calibration/cache/citrus_test_logits.npz,1.0
+7.3,citrus,EfficientNetV2-S,42,test,Anthracnose_support,126,126,count,ml/calibration/cache/citrus_test_logits.npz,1.0
+7.3,citrus,EfficientNetV2-S,42,test,Bacterial Blight_precision,0.45454545454545453,0.4545,score,ml/calibration/cache/citrus_test_logits.npz,1.0
+7.3,citrus,EfficientNetV2-S,42,test,Bacterial Blight_recall,0.5263157894736842,0.5263,score,ml/calibration/cache/citrus_test_logits.npz,1.0
+7.3,citrus,EfficientNetV2-S,42,test,Bacterial Blight_f1,0.4878048780487805,0.4878,score,ml/calibration/cache/citrus_test_logits.npz,1.0
+7.3,citrus,EfficientNetV2-S,42,test,Bacterial Blight_support,19,19,count,ml/calibration/cache/citrus_test_logits.npz,1.0
+7.3,citrus,EfficientNetV2-S,42,test,Black Spot_precision,0.9705882352941176,0.9706,score,ml/calibration/cache/citrus_test_logits.npz,1.0
+7.3,citrus,EfficientNetV2-S,42,test,Black Spot_recall,0.9428571428571428,0.9429,score,ml/calibration/cache/citrus_test_logits.npz,1.0
+7.3,citrus,EfficientNetV2-S,42,test,Black Spot_f1,0.9565217391304348,0.9565,score,ml/calibration/cache/citrus_test_logits.npz,1.0
+7.3,citrus,EfficientNetV2-S,42,test,Black Spot_support,105,105,count,ml/calibration/cache/citrus_test_logits.npz,1.0
+7.3,citrus,EfficientNetV2-S,42,test,Citrus Canker_precision,0.9419642857142857,0.942,score,ml/calibration/cache/citrus_test_logits.npz,1.0
+7.3,citrus,EfficientNetV2-S,42,test,Citrus Canker_recall,0.9377777777777778,0.9378,score,ml/calibration/cache/citrus_test_logits.npz,1.0
+7.3,citrus,EfficientNetV2-S,42,test,Citrus Canker_f1,0.9398663697104677,0.9399,score,ml/calibration/cache/citrus_test_logits.npz,1.0
+7.3,citrus,EfficientNetV2-S,42,test,Citrus Canker_support,225,225,count,ml/calibration/cache/citrus_test_logits.npz,1.0
+7.3,citrus,EfficientNetV2-S,42,test,Citrus Hindu Mite_precision,0.8953488372093024,0.8953,score,ml/calibration/cache/citrus_test_logits.npz,1.0
+7.3,citrus,EfficientNetV2-S,42,test,Citrus Hindu Mite_recall,0.9506172839506173,0.9506,score,ml/calibration/cache/citrus_test_logits.npz,1.0
+7.3,citrus,EfficientNetV2-S,42,test,Citrus Hindu Mite_f1,0.9221556886227545,0.9222,score,ml/calibration/cache/citrus_test_logits.npz,1.0
+7.3,citrus,EfficientNetV2-S,42,test,Citrus Hindu Mite_support,81,81,count,ml/calibration/cache/citrus_test_logits.npz,1.0
+7.3,citrus,EfficientNetV2-S,42,test,Citrus Leafminer_precision,0.8807339449541285,0.8807,score,ml/calibration/cache/citrus_test_logits.npz,1.0
+7.3,citrus,EfficientNetV2-S,42,test,Citrus Leafminer_recall,0.8205128205128205,0.8205,score,ml/calibration/cache/citrus_test_logits.npz,1.0
+7.3,citrus,EfficientNetV2-S,42,test,Citrus Leafminer_f1,0.8495575221238938,0.8496,score,ml/calibration/cache/citrus_test_logits.npz,1.0
+7.3,citrus,EfficientNetV2-S,42,test,Citrus Leafminer_support,117,117,count,ml/calibration/cache/citrus_test_logits.npz,1.0
+7.3,citrus,EfficientNetV2-S,42,test,Citrus_Pest_precision,1.0,1.0,score,ml/calibration/cache/citrus_test_logits.npz,1.0
+7.3,citrus,EfficientNetV2-S,42,test,Citrus_Pest_recall,1.0,1.0,score,ml/calibration/cache/citrus_test_logits.npz,1.0
+7.3,citrus,EfficientNetV2-S,42,test,Citrus_Pest_f1,1.0,1.0,score,ml/calibration/cache/citrus_test_logits.npz,1.0
+7.3,citrus,EfficientNetV2-S,42,test,Citrus_Pest_support,82,82,count,ml/calibration/cache/citrus_test_logits.npz,1.0
+7.3,citrus,EfficientNetV2-S,42,test,Citrus_Scab_precision,1.0,1.0,score,ml/calibration/cache/citrus_test_logits.npz,1.0
+7.3,citrus,EfficientNetV2-S,42,test,Citrus_Scab_recall,1.0,1.0,score,ml/calibration/cache/citrus_test_logits.npz,1.0
+7.3,citrus,EfficientNetV2-S,42,test,Citrus_Scab_f1,1.0,1.0,score,ml/calibration/cache/citrus_test_logits.npz,1.0
+7.3,citrus,EfficientNetV2-S,42,test,Citrus_Scab_support,50,50,count,ml/calibration/cache/citrus_test_logits.npz,1.0
+7.3,citrus,EfficientNetV2-S,42,test,Curl Leaf_precision,0.9067796610169492,0.9068,score,ml/calibration/cache/citrus_test_logits.npz,1.0
+7.3,citrus,EfficientNetV2-S,42,test,Curl Leaf_recall,0.9106382978723404,0.9106,score,ml/calibration/cache/citrus_test_logits.npz,1.0
+7.3,citrus,EfficientNetV2-S,42,test,Curl Leaf_f1,0.9087048832271762,0.9087,score,ml/calibration/cache/citrus_test_logits.npz,1.0
+7.3,citrus,EfficientNetV2-S,42,test,Curl Leaf_support,235,235,count,ml/calibration/cache/citrus_test_logits.npz,1.0
+7.3,citrus,EfficientNetV2-S,42,test,Dry Leaf_precision,0.7333333333333333,0.7333,score,ml/calibration/cache/citrus_test_logits.npz,1.0
+7.3,citrus,EfficientNetV2-S,42,test,Dry Leaf_recall,0.7333333333333333,0.7333,score,ml/calibration/cache/citrus_test_logits.npz,1.0
+7.3,citrus,EfficientNetV2-S,42,test,Dry Leaf_f1,0.7333333333333333,0.7333,score,ml/calibration/cache/citrus_test_logits.npz,1.0
+7.3,citrus,EfficientNetV2-S,42,test,Dry Leaf_support,30,30,count,ml/calibration/cache/citrus_test_logits.npz,1.0
+7.3,citrus,EfficientNetV2-S,42,test,Greening_precision,0.895910780669145,0.8959,score,ml/calibration/cache/citrus_test_logits.npz,1.0
+7.3,citrus,EfficientNetV2-S,42,test,Greening_recall,0.9198473282442748,0.9198,score,ml/calibration/cache/citrus_test_logits.npz,1.0
+7.3,citrus,EfficientNetV2-S,42,test,Greening_f1,0.9077212806026366,0.9077,score,ml/calibration/cache/citrus_test_logits.npz,1.0
+7.3,citrus,EfficientNetV2-S,42,test,Greening_support,262,262,count,ml/calibration/cache/citrus_test_logits.npz,1.0
+7.3,citrus,EfficientNetV2-S,42,test,Healthy_precision,0.975103734439834,0.9751,score,ml/calibration/cache/citrus_test_logits.npz,1.0
+7.3,citrus,EfficientNetV2-S,42,test,Healthy_recall,0.9591836734693877,0.9592,score,ml/calibration/cache/citrus_test_logits.npz,1.0
+7.3,citrus,EfficientNetV2-S,42,test,Healthy_f1,0.9670781893004116,0.9671,score,ml/calibration/cache/citrus_test_logits.npz,1.0
+7.3,citrus,EfficientNetV2-S,42,test,Healthy_support,245,245,count,ml/calibration/cache/citrus_test_logits.npz,1.0
+7.3,citrus,EfficientNetV2-S,42,test,Lemon_Sooty_Mold_precision,1.0,1.0,score,ml/calibration/cache/citrus_test_logits.npz,1.0
+7.3,citrus,EfficientNetV2-S,42,test,Lemon_Sooty_Mold_recall,1.0,1.0,score,ml/calibration/cache/citrus_test_logits.npz,1.0
+7.3,citrus,EfficientNetV2-S,42,test,Lemon_Sooty_Mold_f1,1.0,1.0,score,ml/calibration/cache/citrus_test_logits.npz,1.0
+7.3,citrus,EfficientNetV2-S,42,test,Lemon_Sooty_Mold_support,239,239,count,ml/calibration/cache/citrus_test_logits.npz,1.0
+7.3,citrus,EfficientNetV2-S,42,test,Melanose_precision,0.6333333333333333,0.6333,score,ml/calibration/cache/citrus_test_logits.npz,1.0
+7.3,citrus,EfficientNetV2-S,42,test,Melanose_recall,0.6785714285714286,0.6786,score,ml/calibration/cache/citrus_test_logits.npz,1.0
+7.3,citrus,EfficientNetV2-S,42,test,Melanose_f1,0.6551724137931034,0.6552,score,ml/calibration/cache/citrus_test_logits.npz,1.0
+7.3,citrus,EfficientNetV2-S,42,test,Melanose_support,28,28,count,ml/calibration/cache/citrus_test_logits.npz,1.0
+7.3,citrus,EfficientNetV2-S,42,test,Spider Mites_precision,0.85,0.85,score,ml/calibration/cache/citrus_test_logits.npz,1.0
+7.3,citrus,EfficientNetV2-S,42,test,Spider Mites_recall,0.9444444444444444,0.9444,score,ml/calibration/cache/citrus_test_logits.npz,1.0
+7.3,citrus,EfficientNetV2-S,42,test,Spider Mites_f1,0.8947368421052632,0.8947,score,ml/calibration/cache/citrus_test_logits.npz,1.0
+7.3,citrus,EfficientNetV2-S,42,test,Spider Mites_support,18,18,count,ml/calibration/cache/citrus_test_logits.npz,1.0
+7.3,citrus,EfficientNetV2-S,42,test,Swallowtail Larval Herbivory (Deficiency)_precision,0.8951048951048951,0.8951,score,ml/calibration/cache/citrus_test_logits.npz,1.0
+7.3,citrus,EfficientNetV2-S,42,test,Swallowtail Larval Herbivory (Deficiency)_recall,0.8421052631578947,0.8421,score,ml/calibration/cache/citrus_test_logits.npz,1.0
+7.3,citrus,EfficientNetV2-S,42,test,Swallowtail Larval Herbivory (Deficiency)_f1,0.8677966101694915,0.8678,score,ml/calibration/cache/citrus_test_logits.npz,1.0
+7.3,citrus,EfficientNetV2-S,42,test,Swallowtail Larval Herbivory (Deficiency)_support,152,152,count,ml/calibration/cache/citrus_test_logits.npz,1.0
+7.3,citrus,EfficientNetV2-S,42,test,Yellow_Spot_precision,1.0,1.0,score,ml/calibration/cache/citrus_test_logits.npz,1.0
+7.3,citrus,EfficientNetV2-S,42,test,Yellow_Spot_recall,1.0,1.0,score,ml/calibration/cache/citrus_test_logits.npz,1.0
+7.3,citrus,EfficientNetV2-S,42,test,Yellow_Spot_f1,1.0,1.0,score,ml/calibration/cache/citrus_test_logits.npz,1.0
+7.3,citrus,EfficientNetV2-S,42,test,Yellow_Spot_support,101,101,count,ml/calibration/cache/citrus_test_logits.npz,1.0
+7.5,turmeric,,42,test,temperature_T,0.101698,0.101698,scalar,ml/calibration/turmeric_temperature.json,
+7.5,turmeric,,42,test,ece_before,0.005247,0.0052,score,ml/calibration/calibration_report.json,
+7.5,turmeric,,42,test,ece_after,0.010745,0.0107,score,ml/calibration/calibration_report.json,
+7.5,turmeric,,42,val,ece_before,0.006385,0.0064,score,ml/calibration/calibration_report.json,
+7.5,turmeric,,42,val,ece_after,0.0,0.0,score,ml/calibration/calibration_report.json,
+7.5,citrus,,42,test,temperature_T,2.218093,2.218093,scalar,ml/calibration/citrus_temperature.json,
+7.5,citrus,,42,test,ece_before,0.058998,0.059,score,ml/calibration/calibration_report.json,
+7.5,citrus,,42,test,ece_after,0.026995,0.027,score,ml/calibration/calibration_report.json,
+7.5,citrus,,42,val,ece_before,0.062936,0.0629,score,ml/calibration/calibration_report.json,
+7.5,citrus,,42,val,ece_after,0.032162,0.0322,score,ml/calibration/calibration_report.json,
+7.7,turmeric,,42,production,file_size_mb,106.2,106.2,MB,ml\models\turmeric\convnext_tiny\seed_42\best_model.pt,
+7.7,turmeric,,42,production,parameters_M,27.82,27.82,M,ml\models\turmeric\convnext_tiny\seed_42\best_model.pt,
+7.7,turmeric,,42,production,cpu_median_ms,168.39,168.39,ms,live 50-run benchmark,
+7.7,turmeric,,42,production,cpu_std_ms,39.46,39.46,ms,live 50-run benchmark,
+7.7,citrus,,42,production,file_size_mb,77.92,77.92,MB,ml\models\citrus\efficientnet_v2_s\seed_42\best_model.pt,
+7.7,citrus,,42,production,parameters_M,20.2,20.2,M,ml\models\citrus\efficientnet_v2_s\seed_42\best_model.pt,
+7.7,citrus,,42,production,cpu_median_ms,336.16,336.16,ms,live 50-run benchmark,
+7.7,citrus,,42,production,cpu_std_ms,22.86,22.86,ms,live 50-run benchmark,
+7.4,citrus,EfficientNetV2-S,42,test_indataset,macro_f1,0.8863478419655002,0.8863,score,ml/calibration/cache/citrus_test_logits.npz,
+7.4,citrus,EfficientNetV2-S,42,ext_5class,accuracy,0.6600985221674877,66.01,%,data/metadata/splits/citrus_external_test.csv,
+7.4,citrus,EfficientNetV2-S,42,ext_5class,macro_f1,0.4892190182006133,0.4892,score,data/metadata/splits/citrus_external_test.csv,
+7.4,citrus,EfficientNetV2-S,42,ext_5class,pct_drop_f1,44.8,44.8,%,computed,
+7.4_perclass,citrus,EfficientNetV2-S,42,ext_5class,Black Spot_precision,0.7667,0.7667,score,data/metadata/splits/citrus_external_test.csv,
+7.4_perclass,citrus,EfficientNetV2-S,42,ext_5class,Black Spot_recall,0.269,0.269,score,data/metadata/splits/citrus_external_test.csv,
+7.4_perclass,citrus,EfficientNetV2-S,42,ext_5class,Black Spot_f1,0.3983,0.3983,score,data/metadata/splits/citrus_external_test.csv,
+7.4_perclass,citrus,EfficientNetV2-S,42,ext_5class,Black Spot_support,171,171,count,data/metadata/splits/citrus_external_test.csv,
+7.4_perclass,citrus,EfficientNetV2-S,42,ext_5class,Citrus Canker_precision,0.9325,0.9325,score,data/metadata/splits/citrus_external_test.csv,
+7.4_perclass,citrus,EfficientNetV2-S,42,ext_5class,Citrus Canker_recall,0.9325,0.9325,score,data/metadata/splits/citrus_external_test.csv,
+7.4_perclass,citrus,EfficientNetV2-S,42,ext_5class,Citrus Canker_f1,0.9325,0.9325,score,data/metadata/splits/citrus_external_test.csv,
+7.4_perclass,citrus,EfficientNetV2-S,42,ext_5class,Citrus Canker_support,163,163,count,data/metadata/splits/citrus_external_test.csv,
+7.4_perclass,citrus,EfficientNetV2-S,42,ext_5class,Greening_precision,0.5497,0.5497,score,data/metadata/splits/citrus_external_test.csv,
+7.4_perclass,citrus,EfficientNetV2-S,42,ext_5class,Greening_recall,0.9216,0.9216,score,data/metadata/splits/citrus_external_test.csv,
+7.4_perclass,citrus,EfficientNetV2-S,42,ext_5class,Greening_f1,0.6886,0.6886,score,data/metadata/splits/citrus_external_test.csv,
+7.4_perclass,citrus,EfficientNetV2-S,42,ext_5class,Greening_support,204,204,count,data/metadata/splits/citrus_external_test.csv,
+7.4_perclass,citrus,EfficientNetV2-S,42,ext_5class,Healthy_precision,0.9412,0.9412,score,data/metadata/splits/citrus_external_test.csv,
+7.4_perclass,citrus,EfficientNetV2-S,42,ext_5class,Healthy_recall,0.2759,0.2759,score,data/metadata/splits/citrus_external_test.csv,
+7.4_perclass,citrus,EfficientNetV2-S,42,ext_5class,Healthy_f1,0.4267,0.4267,score,data/metadata/splits/citrus_external_test.csv,
+7.4_perclass,citrus,EfficientNetV2-S,42,ext_5class,Healthy_support,58,58,count,data/metadata/splits/citrus_external_test.csv,
+7.4_perclass,citrus,EfficientNetV2-S,42,ext_5class,Melanose_precision,0.0,0.0,score,data/metadata/splits/citrus_external_test.csv,
+7.4_perclass,citrus,EfficientNetV2-S,42,ext_5class,Melanose_recall,0.0,0.0,score,data/metadata/splits/citrus_external_test.csv,
+7.4_perclass,citrus,EfficientNetV2-S,42,ext_5class,Melanose_f1,0.0,0.0,score,data/metadata/splits/citrus_external_test.csv,
+7.4_perclass,citrus,EfficientNetV2-S,42,ext_5class,Melanose_support,13,13,count,data/metadata/splits/citrus_external_test.csv,

@@ -1,0 +1,58 @@
+{
+  "schema_version": "1.0.0",
+  "project": "LeafLens",
+  "status": "schema_initialized_pending_expert_vetting",
+  "description": "Standardized schema for crop disease advisories. Treatment recommendations will be populated during the advisory curation stage and strictly vetted against ICAR (Indian Council of Agricultural Research) and KVK (Krishi Vigyan Kendra) package of practices.",
+  "supported_languages": [
+    "en",
+    "hi",
+    "mr"
+  ],
+  "supported_crops": [
+    "turmeric",
+    "citrus"
+  ],
+  "schema_definition": {
+    "disease_id": "Unique slug identifying disease and crop (e.g., turmeric_leaf_blotch)",
+    "crop": "Target crop (turmeric | citrus)",
+    "scientific_name": "Botanical/pathological name of the causal agent",
+    "common_names": {
+      "en": "English common name",
+      "hi": "Hindi common name",
+      "mr": "Marathi common name"
+    },
+    "symptoms": {
+      "en": "Key visual leaf symptoms",
+      "hi": "लक्षणे (Hindi)",
+      "mr": "लक्षणे (Marathi)"
+    },
+    "cultural_preventative_measures": {
+      "en": ["Field sanitation, drainage, spacing"],
+      "hi": ["खेत की स्वच्छता, जल निकासी"],
+      "mr": ["शेताची स्वच्छता, निचरा व्यवस्थापन"]
+    },
+    "organic_biological_controls": {
+      "en": ["Bio-fungicides, neem formulations, antagonistic organisms"],
+      "hi": ["जैविक नियंत्रण उपाय"],
+      "mr": ["जैविक बुरशीनाशके आणि प्रतिबंधक उपाय"]
+    },
+    "chemical_controls": {
+      "en": ["Recommended chemical sprays with precise dosage and pre-harvest intervals"],
+      "hi": ["अनुशंसित रासायनिक उपचार (सटीक मात्रा)"],
+      "mr": ["शिफारस केलेली रासायनिक औषधे आणि प्रमाण"]
+    },
+    "safety_warnings": {
+      "en": "Protective equipment and environmental cautions",
+      "hi": "सुरक्षा सावधानियां",
+      "mr": "सुरक्षा खबरदारी"
+    },
+    "authoritative_sources": [
+      {
+        "institution": "e.g., ICAR-IISR / ICAR-CCRI",
+        "document_title": "Package of Practices / Technical Bulletin",
+        "url_or_reference": "Citation or bulletin ID"
+      }
+    ]
+  },
+  "advisories": []
+}

@@ -1,0 +1,1922 @@
+{
+  "turmeric": {
+    "arch": "ConvNeXt-Tiny",
+    "seed": 42,
+    "classes": [
+      "Dry Leaf",
+      "Healthy",
+      "Leaf Blotch",
+      "Leaf Spot"
+    ],
+    "T": 0.101698,
+    "val": {
+      "raw": {
+        "accuracy": 1.0,
+        "macro_f1": 1.0,
+        "macro_precision": 1.0,
+        "macro_recall": 1.0,
+        "per_class": {
+          "Dry Leaf": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "support": 30
+          },
+          "Healthy": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "support": 62
+          },
+          "Leaf Blotch": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "support": 66
+          },
+          "Leaf Spot": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "support": 29
+          }
+        },
+        "ece_10bin": {
+          "ece": 0.0063848355237175435,
+          "n_bins": 10,
+          "bins": [
+            {
+              "bin_index": 0,
+              "bin_lower": 0.0,
+              "bin_upper": 0.1,
+              "sample_count": 0,
+              "bin_accuracy": null,
+              "bin_confidence": null,
+              "calibration_gap": 0.0
+            },
+            {
+              "bin_index": 1,
+              "bin_lower": 0.1,
+              "bin_upper": 0.2,
+              "sample_count": 0,
+              "bin_accuracy": null,
+              "bin_confidence": null,
+              "calibration_gap": 0.0
+            },
+            {
+              "bin_index": 2,
+              "bin_lower": 0.2,
+              "bin_upper": 0.3,
+              "sample_count": 0,
+              "bin_accuracy": null,
+              "bin_confidence": null,
+              "calibration_gap": 0.0
+            },
+            {
+              "bin_index": 3,
+              "bin_lower": 0.3,
+              "bin_upper": 0.4,
+              "sample_count": 0,
+              "bin_accuracy": null,
+              "bin_confidence": null,
+              "calibration_gap": 0.0
+            },
+            {
+              "bin_index": 4,
+              "bin_lower": 0.4,
+              "bin_upper": 0.5,
+              "sample_count": 0,
+              "bin_accuracy": null,
+              "bin_confidence": null,
+              "calibration_gap": 0.0
+            },
+            {
+              "bin_index": 5,
+              "bin_lower": 0.5,
+              "bin_upper": 0.6,
+              "sample_count": 0,
+              "bin_accuracy": null,
+              "bin_confidence": null,
+              "calibration_gap": 0.0
+            },
+            {
+              "bin_index": 6,
+              "bin_lower": 0.6,
+              "bin_upper": 0.7,
+              "sample_count": 0,
+              "bin_accuracy": null,
+              "bin_confidence": null,
+              "calibration_gap": 0.0
+            },
+            {
+              "bin_index": 7,
+              "bin_lower": 0.7,
+              "bin_upper": 0.8,
+              "sample_count": 1,
+              "bin_accuracy": 1.0,
+              "bin_confidence": 0.787977,
+              "calibration_gap": 0.212023
+            },
+            {
+              "bin_index": 8,
+              "bin_lower": 0.8,
+              "bin_upper": 0.9,
+              "sample_count": 1,
+              "bin_accuracy": 1.0,
+              "bin_confidence": 0.859276,
+              "calibration_gap": 0.140724
+            },
+            {
+              "bin_index": 9,
+              "bin_lower": 0.9,
+              "bin_upper": 1.0,
+              "sample_count": 185,
+              "bin_accuracy": 1.0,
+              "bin_confidence": 0.995453,
+              "calibration_gap": 0.004547
+            }
+          ]
+        },
+        "n_samples": 187,
+        "T": 1.0
+      },
+      "cal": {
+        "accuracy": 1.0,
+        "macro_f1": 1.0,
+        "macro_precision": 1.0,
+        "macro_recall": 1.0,
+        "per_class": {
+          "Dry Leaf": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "support": 30
+          },
+          "Healthy": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "support": 62
+          },
+          "Leaf Blotch": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "support": 66
+          },
+          "Leaf Spot": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "support": 29
+          }
+        },
+        "ece_10bin": {
+          "ece": 0.0,
+          "n_bins": 10,
+          "bins": [
+            {
+              "bin_index": 0,
+              "bin_lower": 0.0,
+              "bin_upper": 0.1,
+              "sample_count": 0,
+              "bin_accuracy": null,
+              "bin_confidence": null,
+              "calibration_gap": 0.0
+            },
+            {
+              "bin_index": 1,
+              "bin_lower": 0.1,
+              "bin_upper": 0.2,
+              "sample_count": 0,
+              "bin_accuracy": null,
+              "bin_confidence": null,
+              "calibration_gap": 0.0
+            },
+            {
+              "bin_index": 2,
+              "bin_lower": 0.2,
+              "bin_upper": 0.3,
+              "sample_count": 0,
+              "bin_accuracy": null,
+              "bin_confidence": null,
+              "calibration_gap": 0.0
+            },
+            {
+              "bin_index": 3,
+              "bin_lower": 0.3,
+              "bin_upper": 0.4,
+              "sample_count": 0,
+              "bin_accuracy": null,
+              "bin_confidence": null,
+              "calibration_gap": 0.0
+            },
+            {
+              "bin_index": 4,
+              "bin_lower": 0.4,
+              "bin_upper": 0.5,
+              "sample_count": 0,
+              "bin_accuracy": null,
+              "bin_confidence": null,
+              "calibration_gap": 0.0
+            },
+            {
+              "bin_index": 5,
+              "bin_lower": 0.5,
+              "bin_upper": 0.6,
+              "sample_count": 0,
+              "bin_accuracy": null,
+              "bin_confidence": null,
+              "calibration_gap": 0.0
+            },
+            {
+              "bin_index": 6,
+              "bin_lower": 0.6,
+              "bin_upper": 0.7,
+              "sample_count": 0,
+              "bin_accuracy": null,
+              "bin_confidence": null,
+              "calibration_gap": 0.0
+            },
+            {
+              "bin_index": 7,
+              "bin_lower": 0.7,
+              "bin_upper": 0.8,
+              "sample_count": 0,
+              "bin_accuracy": null,
+              "bin_confidence": null,
+              "calibration_gap": 0.0
+            },
+            {
+              "bin_index": 8,
+              "bin_lower": 0.8,
+              "bin_upper": 0.9,
+              "sample_count": 0,
+              "bin_accuracy": null,
+              "bin_confidence": null,
+              "calibration_gap": 0.0
+            },
+            {
+              "bin_index": 9,
+              "bin_lower": 0.9,
+              "bin_upper": 1.0,
+              "sample_count": 187,
+              "bin_accuracy": 1.0,
+              "bin_confidence": 1.0,
+              "calibration_gap": 0.0
+            }
+          ]
+        },
+        "n_samples": 187,
+        "T": 0.101698
+      }
+    },
+    "test": {
+      "raw": {
+        "accuracy": 0.989247311827957,
+        "macro_f1": 0.9897353609163622,
+        "macro_precision": 0.99212158808933,
+        "macro_recall": 0.9875331564986738,
+        "per_class": {
+          "Dry Leaf": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "support": 31
+          },
+          "Healthy": {
+            "precision": 0.9838709677419355,
+            "recall": 1.0,
+            "f1": 0.991869918699187,
+            "support": 61
+          },
+          "Leaf Blotch": {
+            "precision": 0.9846153846153847,
+            "recall": 0.9846153846153847,
+            "f1": 0.9846153846153847,
+            "support": 65
+          },
+          "Leaf Spot": {
+            "precision": 1.0,
+            "recall": 0.9655172413793104,
+            "f1": 0.9824561403508771,
+            "support": 29
+          }
+        },
+        "ece_10bin": {
+          "ece": 0.004682092576898561,
+          "n_bins": 10,
+          "bins": [
+            {
+              "bin_index": 0,
+              "bin_lower": 0.0,
+              "bin_upper": 0.1,
+              "sample_count": 0,
+              "bin_accuracy": null,
+              "bin_confidence": null,
+              "calibration_gap": 0.0
+            },
+            {
+              "bin_index": 1,
+              "bin_lower": 0.1,
+              "bin_upper": 0.2,
+              "sample_count": 0,
+              "bin_accuracy": null,
+              "bin_confidence": null,
+              "calibration_gap": 0.0
+            },
+            {
+              "bin_index": 2,
+              "bin_lower": 0.2,
+              "bin_upper": 0.3,
+              "sample_count": 0,
+              "bin_accuracy": null,
+              "bin_confidence": null,
+              "calibration_gap": 0.0
+            },
+            {
+              "bin_index": 3,
+              "bin_lower": 0.3,
+              "bin_upper": 0.4,
+              "sample_count": 0,
+              "bin_accuracy": null,
+              "bin_confidence": null,
+              "calibration_gap": 0.0
+            },
+            {
+              "bin_index": 4,
+              "bin_lower": 0.4,
+              "bin_upper": 0.5,
+              "sample_count": 0,
+              "bin_accuracy": null,
+              "bin_confidence": null,
+              "calibration_gap": 0.0
+            },
+            {
+              "bin_index": 5,
+              "bin_lower": 0.5,
+              "bin_upper": 0.6,
+              "sample_count": 0,
+              "bin_accuracy": null,
+              "bin_confidence": null,
+              "calibration_gap": 0.0
+            },
+            {
+              "bin_index": 6,
+              "bin_lower": 0.6,
+              "bin_upper": 0.7,
+              "sample_count": 2,
+              "bin_accuracy": 0.5,
+              "bin_confidence": 0.665929,
+              "calibration_gap": 0.165929
+            },
+            {
+              "bin_index": 7,
+              "bin_lower": 0.7,
+              "bin_upper": 0.8,
+              "sample_count": 1,
+              "bin_accuracy": 1.0,
+              "bin_confidence": 0.713814,
+              "calibration_gap": 0.286186
+            },
+            {
+              "bin_index": 8,
+              "bin_lower": 0.8,
+              "bin_upper": 0.9,
+              "sample_count": 0,
+              "bin_accuracy": null,
+              "bin_confidence": null,
+              "calibration_gap": 0.0
+            },
+            {
+              "bin_index": 9,
+              "bin_lower": 0.9,
+              "bin_upper": 1.0,
+              "sample_count": 183,
+              "bin_accuracy": 0.994536,
+              "bin_confidence": 0.995917,
+              "calibration_gap": 0.001382
+            }
+          ]
+        },
+        "n_samples": 186,
+        "T": 1.0
+      },
+      "cal": {
+        "accuracy": 0.989247311827957,
+        "macro_f1": 0.9897353609163622,
+        "macro_precision": 0.99212158808933,
+        "macro_recall": 0.9875331564986738,
+        "per_class": {
+          "Dry Leaf": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "support": 31
+          },
+          "Healthy": {
+            "precision": 0.9838709677419355,
+            "recall": 1.0,
+            "f1": 0.991869918699187,
+            "support": 61
+          },
+          "Leaf Blotch": {
+            "precision": 0.9846153846153847,
+            "recall": 0.9846153846153847,
+            "f1": 0.9846153846153847,
+            "support": 65
+          },
+          "Leaf Spot": {
+            "precision": 1.0,
+            "recall": 0.9655172413793104,
+            "f1": 0.9824561403508771,
+            "support": 29
+          }
+        },
+        "ece_10bin": {
+          "ece": 0.010744999172866976,
+          "n_bins": 10,
+          "bins": [
+            {
+              "bin_index": 0,
+              "bin_lower": 0.0,
+              "bin_upper": 0.1,
+              "sample_count": 0,
+              "bin_accuracy": null,
+              "bin_confidence": null,
+              "calibration_gap": 0.0
+            },
+            {
+              "bin_index": 1,
+              "bin_lower": 0.1,
+              "bin_upper": 0.2,
+              "sample_count": 0,
+              "bin_accuracy": null,
+              "bin_confidence": null,
+              "calibration_gap": 0.0
+            },
+            {
+              "bin_index": 2,
+              "bin_lower": 0.2,
+              "bin_upper": 0.3,
+              "sample_count": 0,
+              "bin_accuracy": null,
+              "bin_confidence": null,
+              "calibration_gap": 0.0
+            },
+            {
+              "bin_index": 3,
+              "bin_lower": 0.3,
+              "bin_upper": 0.4,
+              "sample_count": 0,
+              "bin_accuracy": null,
+              "bin_confidence": null,
+              "calibration_gap": 0.0
+            },
+            {
+              "bin_index": 4,
+              "bin_lower": 0.4,
+              "bin_upper": 0.5,
+              "sample_count": 0,
+              "bin_accuracy": null,
+              "bin_confidence": null,
+              "calibration_gap": 0.0
+            },
+            {
+              "bin_index": 5,
+              "bin_lower": 0.5,
+              "bin_upper": 0.6,
+              "sample_count": 0,
+              "bin_accuracy": null,
+              "bin_confidence": null,
+              "calibration_gap": 0.0
+            },
+            {
+              "bin_index": 6,
+              "bin_lower": 0.6,
+              "bin_upper": 0.7,
+              "sample_count": 0,
+              "bin_accuracy": null,
+              "bin_confidence": null,
+              "calibration_gap": 0.0
+            },
+            {
+              "bin_index": 7,
+              "bin_lower": 0.7,
+              "bin_upper": 0.8,
+              "sample_count": 0,
+              "bin_accuracy": null,
+              "bin_confidence": null,
+              "calibration_gap": 0.0
+            },
+            {
+              "bin_index": 8,
+              "bin_lower": 0.8,
+              "bin_upper": 0.9,
+              "sample_count": 0,
+              "bin_accuracy": null,
+              "bin_confidence": null,
+              "calibration_gap": 0.0
+            },
+            {
+              "bin_index": 9,
+              "bin_lower": 0.9,
+              "bin_upper": 1.0,
+              "sample_count": 186,
+              "bin_accuracy": 0.989247,
+              "bin_confidence": 0.999992,
+              "calibration_gap": 0.010745
+            }
+          ]
+        },
+        "n_samples": 186,
+        "T": 0.101698
+      }
+    },
+    "cross_dataset": {
+      "status": "NOT_AVAILABLE",
+      "reason": "Source-separated training (TURM_CROSS_B_TO_A, TURM_CROSS_A_TO_B) not run."
+    }
+  },
+  "citrus": {
+    "arch": "EfficientNetV2-S",
+    "seed": 42,
+    "classes": [
+      "Algal_Leaf_Spot",
+      "Anthracnose",
+      "Bacterial Blight",
+      "Black Spot",
+      "Citrus Canker",
+      "Citrus Hindu Mite",
+      "Citrus Leafminer",
+      "Citrus_Pest",
+      "Citrus_Scab",
+      "Curl Leaf",
+      "Dry Leaf",
+      "Greening",
+      "Healthy",
+      "Lemon_Sooty_Mold",
+      "Melanose",
+      "Spider Mites",
+      "Swallowtail Larval Herbivory (Deficiency)",
+      "Yellow_Spot"
+    ],
+    "T": 2.218093,
+    "val": {
+      "raw": {
+        "accuracy": 0.9234899328859061,
+        "macro_f1": 0.8923962188618408,
+        "macro_precision": 0.8864908726063084,
+        "macro_recall": 0.9006922991242214,
+        "per_class": {
+          "Algal_Leaf_Spot": {
+            "precision": 1.0,
+            "recall": 0.9920634920634921,
+            "f1": 0.9960159362549801,
+            "support": 126
+          },
+          "Anthracnose": {
+            "precision": 0.8769230769230769,
+            "recall": 0.8976377952755905,
+            "f1": 0.8871595330739299,
+            "support": 127
+          },
+          "Bacterial Blight": {
+            "precision": 0.5789473684210527,
+            "recall": 0.6111111111111112,
+            "f1": 0.5945945945945946,
+            "support": 18
+          },
+          "Black Spot": {
+            "precision": 0.9494949494949495,
+            "recall": 0.9038461538461539,
+            "f1": 0.9261083743842364,
+            "support": 104
+          },
+          "Citrus Canker": {
+            "precision": 0.954954954954955,
+            "recall": 0.9464285714285714,
+            "f1": 0.9506726457399103,
+            "support": 224
+          },
+          "Citrus Hindu Mite": {
+            "precision": 0.9186046511627907,
+            "recall": 0.9634146341463414,
+            "f1": 0.9404761904761905,
+            "support": 82
+          },
+          "Citrus Leafminer": {
+            "precision": 0.8440366972477065,
+            "recall": 0.7931034482758621,
+            "f1": 0.8177777777777778,
+            "support": 116
+          },
+          "Citrus_Pest": {
+            "precision": 1.0,
+            "recall": 0.9876543209876543,
+            "f1": 0.9937888198757764,
+            "support": 81
+          },
+          "Citrus_Scab": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "support": 50
+          },
+          "Curl Leaf": {
+            "precision": 0.8760330578512396,
+            "recall": 0.905982905982906,
+            "f1": 0.8907563025210085,
+            "support": 234
+          },
+          "Dry Leaf": {
+            "precision": 0.7,
+            "recall": 0.7241379310344828,
+            "f1": 0.711864406779661,
+            "support": 29
+          },
+          "Greening": {
+            "precision": 0.889763779527559,
+            "recall": 0.8659003831417624,
+            "f1": 0.8776699029126214,
+            "support": 261
+          },
+          "Healthy": {
+            "precision": 0.9486166007905138,
+            "recall": 0.975609756097561,
+            "f1": 0.9619238476953907,
+            "support": 246
+          },
+          "Lemon_Sooty_Mold": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "support": 239
+          },
+          "Melanose": {
+            "precision": 0.6486486486486487,
+            "recall": 0.8571428571428571,
+            "f1": 0.7384615384615385,
+            "support": 28
+          },
+          "Spider Mites": {
+            "precision": 0.8571428571428571,
+            "recall": 0.9473684210526315,
+            "f1": 0.9,
+            "support": 19
+          },
+          "Swallowtail Larval Herbivory (Deficiency)": {
+            "precision": 0.9136690647482014,
+            "recall": 0.8410596026490066,
+            "f1": 0.8758620689655172,
+            "support": 151
+          },
+          "Yellow_Spot": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "support": 100
+          }
+        },
+        "ece_10bin": {
+          "ece": 0.062936409047786,
+          "n_bins": 10,
+          "bins": [
+            {
+              "bin_index": 0,
+              "bin_lower": 0.0,
+              "bin_upper": 0.1,
+              "sample_count": 0,
+              "bin_accuracy": null,
+              "bin_confidence": null,
+              "calibration_gap": 0.0
+            },
+            {
+              "bin_index": 1,
+              "bin_lower": 0.1,
+              "bin_upper": 0.2,
+              "sample_count": 0,
+              "bin_accuracy": null,
+              "bin_confidence": null,
+              "calibration_gap": 0.0
+            },
+            {
+              "bin_index": 2,
+              "bin_lower": 0.2,
+              "bin_upper": 0.3,
+              "sample_count": 0,
+              "bin_accuracy": null,
+              "bin_confidence": null,
+              "calibration_gap": 0.0
+            },
+            {
+              "bin_index": 3,
+              "bin_lower": 0.3,
+              "bin_upper": 0.4,
+              "sample_count": 2,
+              "bin_accuracy": 0.5,
+              "bin_confidence": 0.357897,
+              "calibration_gap": 0.142103
+            },
+            {
+              "bin_index": 4,
+              "bin_lower": 0.4,
+              "bin_upper": 0.5,
+              "sample_count": 1,
+              "bin_accuracy": 0.0,
+              "bin_confidence": 0.488759,
+              "calibration_gap": 0.488759
+            },
+            {
+              "bin_index": 5,
+              "bin_lower": 0.5,
+              "bin_upper": 0.6,
+              "sample_count": 22,
+              "bin_accuracy": 0.318182,
+              "bin_confidence": 0.558018,
+              "calibration_gap": 0.239837
+            },
+            {
+              "bin_index": 6,
+              "bin_lower": 0.6,
+              "bin_upper": 0.7,
+              "sample_count": 11,
+              "bin_accuracy": 0.363636,
+              "bin_confidence": 0.647647,
+              "calibration_gap": 0.28401
+            },
+            {
+              "bin_index": 7,
+              "bin_lower": 0.7,
+              "bin_upper": 0.8,
+              "sample_count": 22,
+              "bin_accuracy": 0.545455,
+              "bin_confidence": 0.750906,
+              "calibration_gap": 0.205451
+            },
+            {
+              "bin_index": 8,
+              "bin_lower": 0.8,
+              "bin_upper": 0.9,
+              "sample_count": 37,
+              "bin_accuracy": 0.432432,
+              "bin_confidence": 0.858654,
+              "calibration_gap": 0.426222
+            },
+            {
+              "bin_index": 9,
+              "bin_lower": 0.9,
+              "bin_upper": 1.0,
+              "sample_count": 2140,
+              "bin_accuracy": 0.945794,
+              "bin_confidence": 0.997757,
+              "calibration_gap": 0.051962
+            }
+          ]
+        },
+        "n_samples": 2235,
+        "T": 1.0
+      },
+      "cal": {
+        "accuracy": 0.9234899328859061,
+        "macro_f1": 0.8923962188618408,
+        "macro_precision": 0.8864908726063084,
+        "macro_recall": 0.9006922991242214,
+        "per_class": {
+          "Algal_Leaf_Spot": {
+            "precision": 1.0,
+            "recall": 0.9920634920634921,
+            "f1": 0.9960159362549801,
+            "support": 126
+          },
+          "Anthracnose": {
+            "precision": 0.8769230769230769,
+            "recall": 0.8976377952755905,
+            "f1": 0.8871595330739299,
+            "support": 127
+          },
+          "Bacterial Blight": {
+            "precision": 0.5789473684210527,
+            "recall": 0.6111111111111112,
+            "f1": 0.5945945945945946,
+            "support": 18
+          },
+          "Black Spot": {
+            "precision": 0.9494949494949495,
+            "recall": 0.9038461538461539,
+            "f1": 0.9261083743842364,
+            "support": 104
+          },
+          "Citrus Canker": {
+            "precision": 0.954954954954955,
+            "recall": 0.9464285714285714,
+            "f1": 0.9506726457399103,
+            "support": 224
+          },
+          "Citrus Hindu Mite": {
+            "precision": 0.9186046511627907,
+            "recall": 0.9634146341463414,
+            "f1": 0.9404761904761905,
+            "support": 82
+          },
+          "Citrus Leafminer": {
+            "precision": 0.8440366972477065,
+            "recall": 0.7931034482758621,
+            "f1": 0.8177777777777778,
+            "support": 116
+          },
+          "Citrus_Pest": {
+            "precision": 1.0,
+            "recall": 0.9876543209876543,
+            "f1": 0.9937888198757764,
+            "support": 81
+          },
+          "Citrus_Scab": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "support": 50
+          },
+          "Curl Leaf": {
+            "precision": 0.8760330578512396,
+            "recall": 0.905982905982906,
+            "f1": 0.8907563025210085,
+            "support": 234
+          },
+          "Dry Leaf": {
+            "precision": 0.7,
+            "recall": 0.7241379310344828,
+            "f1": 0.711864406779661,
+            "support": 29
+          },
+          "Greening": {
+            "precision": 0.889763779527559,
+            "recall": 0.8659003831417624,
+            "f1": 0.8776699029126214,
+            "support": 261
+          },
+          "Healthy": {
+            "precision": 0.9486166007905138,
+            "recall": 0.975609756097561,
+            "f1": 0.9619238476953907,
+            "support": 246
+          },
+          "Lemon_Sooty_Mold": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "support": 239
+          },
+          "Melanose": {
+            "precision": 0.6486486486486487,
+            "recall": 0.8571428571428571,
+            "f1": 0.7384615384615385,
+            "support": 28
+          },
+          "Spider Mites": {
+            "precision": 0.8571428571428571,
+            "recall": 0.9473684210526315,
+            "f1": 0.9,
+            "support": 19
+          },
+          "Swallowtail Larval Herbivory (Deficiency)": {
+            "precision": 0.9136690647482014,
+            "recall": 0.8410596026490066,
+            "f1": 0.8758620689655172,
+            "support": 151
+          },
+          "Yellow_Spot": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "support": 100
+          }
+        },
+        "ece_10bin": {
+          "ece": 0.02012454823359545,
+          "n_bins": 10,
+          "bins": [
+            {
+              "bin_index": 0,
+              "bin_lower": 0.0,
+              "bin_upper": 0.1,
+              "sample_count": 0,
+              "bin_accuracy": null,
+              "bin_confidence": null,
+              "calibration_gap": 0.0
+            },
+            {
+              "bin_index": 1,
+              "bin_lower": 0.1,
+              "bin_upper": 0.2,
+              "sample_count": 0,
+              "bin_accuracy": null,
+              "bin_confidence": null,
+              "calibration_gap": 0.0
+            },
+            {
+              "bin_index": 2,
+              "bin_lower": 0.2,
+              "bin_upper": 0.3,
+              "sample_count": 1,
+              "bin_accuracy": 0.0,
+              "bin_confidence": 0.248145,
+              "calibration_gap": 0.248145
+            },
+            {
+              "bin_index": 3,
+              "bin_lower": 0.3,
+              "bin_upper": 0.4,
+              "sample_count": 13,
+              "bin_accuracy": 0.230769,
+              "bin_confidence": 0.358306,
+              "calibration_gap": 0.127537
+            },
+            {
+              "bin_index": 4,
+              "bin_lower": 0.4,
+              "bin_upper": 0.5,
+              "sample_count": 25,
+              "bin_accuracy": 0.44,
+              "bin_confidence": 0.459003,
+              "calibration_gap": 0.019003
+            },
+            {
+              "bin_index": 5,
+              "bin_lower": 0.5,
+              "bin_upper": 0.6,
+              "sample_count": 35,
+              "bin_accuracy": 0.542857,
+              "bin_confidence": 0.552124,
+              "calibration_gap": 0.009267
+            },
+            {
+              "bin_index": 6,
+              "bin_lower": 0.6,
+              "bin_upper": 0.7,
+              "sample_count": 46,
+              "bin_accuracy": 0.369565,
+              "bin_confidence": 0.652155,
+              "calibration_gap": 0.282589
+            },
+            {
+              "bin_index": 7,
+              "bin_lower": 0.7,
+              "bin_upper": 0.8,
+              "sample_count": 65,
+              "bin_accuracy": 0.615385,
+              "bin_confidence": 0.750348,
+              "calibration_gap": 0.134964
+            },
+            {
+              "bin_index": 8,
+              "bin_lower": 0.8,
+              "bin_upper": 0.9,
+              "sample_count": 107,
+              "bin_accuracy": 0.71028,
+              "bin_confidence": 0.858397,
+              "calibration_gap": 0.148117
+            },
+            {
+              "bin_index": 9,
+              "bin_lower": 0.9,
+              "bin_upper": 1.0,
+              "sample_count": 1943,
+              "bin_accuracy": 0.97684,
+              "bin_confidence": 0.974445,
+              "calibration_gap": 0.002395
+            }
+          ]
+        },
+        "n_samples": 2235,
+        "T": 2.218093
+      }
+    },
+    "test": {
+      "raw": {
+        "accuracy": 0.927264614011602,
+        "macro_f1": 0.8863479433188739,
+        "macro_precision": 0.8822263744383104,
+        "macro_recall": 0.8915087202565294,
+        "per_class": {
+          "Algal_Leaf_Spot": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "support": 126
+          },
+          "Anthracnose": {
+            "precision": 0.8473282442748091,
+            "recall": 0.8809523809523809,
+            "f1": 0.8638132295719845,
+            "support": 126
+          },
+          "Bacterial Blight": {
+            "precision": 0.45454545454545453,
+            "recall": 0.5263157894736842,
+            "f1": 0.4878048780487805,
+            "support": 19
+          },
+          "Black Spot": {
+            "precision": 0.9705882352941176,
+            "recall": 0.9428571428571428,
+            "f1": 0.9565217391304348,
+            "support": 105
+          },
+          "Citrus Canker": {
+            "precision": 0.9419642857142857,
+            "recall": 0.9377777777777778,
+            "f1": 0.9398663697104677,
+            "support": 225
+          },
+          "Citrus Hindu Mite": {
+            "precision": 0.8953488372093024,
+            "recall": 0.9506172839506173,
+            "f1": 0.9221556886227545,
+            "support": 81
+          },
+          "Citrus Leafminer": {
+            "precision": 0.8807339449541285,
+            "recall": 0.8205128205128205,
+            "f1": 0.8495575221238938,
+            "support": 117
+          },
+          "Citrus_Pest": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "support": 82
+          },
+          "Citrus_Scab": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "support": 50
+          },
+          "Curl Leaf": {
+            "precision": 0.9067796610169492,
+            "recall": 0.9106382978723404,
+            "f1": 0.9087048832271762,
+            "support": 235
+          },
+          "Dry Leaf": {
+            "precision": 0.7333333333333333,
+            "recall": 0.7333333333333333,
+            "f1": 0.7333333333333333,
+            "support": 30
+          },
+          "Greening": {
+            "precision": 0.895910780669145,
+            "recall": 0.9198473282442748,
+            "f1": 0.9077212806026366,
+            "support": 262
+          },
+          "Healthy": {
+            "precision": 0.975103734439834,
+            "recall": 0.9591836734693877,
+            "f1": 0.9670781893004116,
+            "support": 245
+          },
+          "Lemon_Sooty_Mold": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "support": 239
+          },
+          "Melanose": {
+            "precision": 0.6333333333333333,
+            "recall": 0.6785714285714286,
+            "f1": 0.6551724137931034,
+            "support": 28
+          },
+          "Spider Mites": {
+            "precision": 0.85,
+            "recall": 0.9444444444444444,
+            "f1": 0.8947368421052632,
+            "support": 18
+          },
+          "Swallowtail Larval Herbivory (Deficiency)": {
+            "precision": 0.8951048951048951,
+            "recall": 0.8421052631578947,
+            "f1": 0.8677966101694915,
+            "support": 152
+          },
+          "Yellow_Spot": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "support": 101
+          }
+        },
+        "ece_10bin": {
+          "ece": 0.058663043458245835,
+          "n_bins": 10,
+          "bins": [
+            {
+              "bin_index": 0,
+              "bin_lower": 0.0,
+              "bin_upper": 0.1,
+              "sample_count": 0,
+              "bin_accuracy": null,
+              "bin_confidence": null,
+              "calibration_gap": 0.0
+            },
+            {
+              "bin_index": 1,
+              "bin_lower": 0.1,
+              "bin_upper": 0.2,
+              "sample_count": 0,
+              "bin_accuracy": null,
+              "bin_confidence": null,
+              "calibration_gap": 0.0
+            },
+            {
+              "bin_index": 2,
+              "bin_lower": 0.2,
+              "bin_upper": 0.3,
+              "sample_count": 0,
+              "bin_accuracy": null,
+              "bin_confidence": null,
+              "calibration_gap": 0.0
+            },
+            {
+              "bin_index": 3,
+              "bin_lower": 0.3,
+              "bin_upper": 0.4,
+              "sample_count": 1,
+              "bin_accuracy": 1.0,
+              "bin_confidence": 0.35643,
+              "calibration_gap": 0.64357
+            },
+            {
+              "bin_index": 4,
+              "bin_lower": 0.4,
+              "bin_upper": 0.5,
+              "sample_count": 4,
+              "bin_accuracy": 0.5,
+              "bin_confidence": 0.432759,
+              "calibration_gap": 0.067241
+            },
+            {
+              "bin_index": 5,
+              "bin_lower": 0.5,
+              "bin_upper": 0.6,
+              "sample_count": 19,
+              "bin_accuracy": 0.421053,
+              "bin_confidence": 0.560682,
+              "calibration_gap": 0.13963
+            },
+            {
+              "bin_index": 6,
+              "bin_lower": 0.6,
+              "bin_upper": 0.7,
+              "sample_count": 16,
+              "bin_accuracy": 0.4375,
+              "bin_confidence": 0.656051,
+              "calibration_gap": 0.218551
+            },
+            {
+              "bin_index": 7,
+              "bin_lower": 0.7,
+              "bin_upper": 0.8,
+              "sample_count": 28,
+              "bin_accuracy": 0.5,
+              "bin_confidence": 0.762098,
+              "calibration_gap": 0.262098
+            },
+            {
+              "bin_index": 8,
+              "bin_lower": 0.8,
+              "bin_upper": 0.9,
+              "sample_count": 35,
+              "bin_accuracy": 0.6,
+              "bin_confidence": 0.85252,
+              "calibration_gap": 0.25252
+            },
+            {
+              "bin_index": 9,
+              "bin_lower": 0.9,
+              "bin_upper": 1.0,
+              "sample_count": 2138,
+              "bin_accuracy": 0.947147,
+              "bin_confidence": 0.997766,
+              "calibration_gap": 0.05062
+            }
+          ]
+        },
+        "n_samples": 2241,
+        "T": 1.0
+      },
+      "cal": {
+        "accuracy": 0.927264614011602,
+        "macro_f1": 0.8863479433188739,
+        "macro_precision": 0.8822263744383104,
+        "macro_recall": 0.8915087202565294,
+        "per_class": {
+          "Algal_Leaf_Spot": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "support": 126
+          },
+          "Anthracnose": {
+            "precision": 0.8473282442748091,
+            "recall": 0.8809523809523809,
+            "f1": 0.8638132295719845,
+            "support": 126
+          },
+          "Bacterial Blight": {
+            "precision": 0.45454545454545453,
+            "recall": 0.5263157894736842,
+            "f1": 0.4878048780487805,
+            "support": 19
+          },
+          "Black Spot": {
+            "precision": 0.9705882352941176,
+            "recall": 0.9428571428571428,
+            "f1": 0.9565217391304348,
+            "support": 105
+          },
+          "Citrus Canker": {
+            "precision": 0.9419642857142857,
+            "recall": 0.9377777777777778,
+            "f1": 0.9398663697104677,
+            "support": 225
+          },
+          "Citrus Hindu Mite": {
+            "precision": 0.8953488372093024,
+            "recall": 0.9506172839506173,
+            "f1": 0.9221556886227545,
+            "support": 81
+          },
+          "Citrus Leafminer": {
+            "precision": 0.8807339449541285,
+            "recall": 0.8205128205128205,
+            "f1": 0.8495575221238938,
+            "support": 117
+          },
+          "Citrus_Pest": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "support": 82
+          },
+          "Citrus_Scab": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "support": 50
+          },
+          "Curl Leaf": {
+            "precision": 0.9067796610169492,
+            "recall": 0.9106382978723404,
+            "f1": 0.9087048832271762,
+            "support": 235
+          },
+          "Dry Leaf": {
+            "precision": 0.7333333333333333,
+            "recall": 0.7333333333333333,
+            "f1": 0.7333333333333333,
+            "support": 30
+          },
+          "Greening": {
+            "precision": 0.895910780669145,
+            "recall": 0.9198473282442748,
+            "f1": 0.9077212806026366,
+            "support": 262
+          },
+          "Healthy": {
+            "precision": 0.975103734439834,
+            "recall": 0.9591836734693877,
+            "f1": 0.9670781893004116,
+            "support": 245
+          },
+          "Lemon_Sooty_Mold": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "support": 239
+          },
+          "Melanose": {
+            "precision": 0.6333333333333333,
+            "recall": 0.6785714285714286,
+            "f1": 0.6551724137931034,
+            "support": 28
+          },
+          "Spider Mites": {
+            "precision": 0.85,
+            "recall": 0.9444444444444444,
+            "f1": 0.8947368421052632,
+            "support": 18
+          },
+          "Swallowtail Larval Herbivory (Deficiency)": {
+            "precision": 0.8951048951048951,
+            "recall": 0.8421052631578947,
+            "f1": 0.8677966101694915,
+            "support": 152
+          },
+          "Yellow_Spot": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "support": 101
+          }
+        },
+        "ece_10bin": {
+          "ece": 0.022961508331422204,
+          "n_bins": 10,
+          "bins": [
+            {
+              "bin_index": 0,
+              "bin_lower": 0.0,
+              "bin_upper": 0.1,
+              "sample_count": 0,
+              "bin_accuracy": null,
+              "bin_confidence": null,
+              "calibration_gap": 0.0
+            },
+            {
+              "bin_index": 1,
+              "bin_lower": 0.1,
+              "bin_upper": 0.2,
+              "sample_count": 0,
+              "bin_accuracy": null,
+              "bin_confidence": null,
+              "calibration_gap": 0.0
+            },
+            {
+              "bin_index": 2,
+              "bin_lower": 0.2,
+              "bin_upper": 0.3,
+              "sample_count": 2,
+              "bin_accuracy": 0.5,
+              "bin_confidence": 0.294252,
+              "calibration_gap": 0.205748
+            },
+            {
+              "bin_index": 3,
+              "bin_lower": 0.3,
+              "bin_upper": 0.4,
+              "sample_count": 12,
+              "bin_accuracy": 0.416667,
+              "bin_confidence": 0.347575,
+              "calibration_gap": 0.069092
+            },
+            {
+              "bin_index": 4,
+              "bin_lower": 0.4,
+              "bin_upper": 0.5,
+              "sample_count": 25,
+              "bin_accuracy": 0.28,
+              "bin_confidence": 0.454509,
+              "calibration_gap": 0.174509
+            },
+            {
+              "bin_index": 5,
+              "bin_lower": 0.5,
+              "bin_upper": 0.6,
+              "sample_count": 42,
+              "bin_accuracy": 0.642857,
+              "bin_confidence": 0.548887,
+              "calibration_gap": 0.09397
+            },
+            {
+              "bin_index": 6,
+              "bin_lower": 0.6,
+              "bin_upper": 0.7,
+              "sample_count": 52,
+              "bin_accuracy": 0.538462,
+              "bin_confidence": 0.651044,
+              "calibration_gap": 0.112583
+            },
+            {
+              "bin_index": 7,
+              "bin_lower": 0.7,
+              "bin_upper": 0.8,
+              "sample_count": 62,
+              "bin_accuracy": 0.564516,
+              "bin_confidence": 0.749093,
+              "calibration_gap": 0.184577
+            },
+            {
+              "bin_index": 8,
+              "bin_lower": 0.8,
+              "bin_upper": 0.9,
+              "sample_count": 97,
+              "bin_accuracy": 0.701031,
+              "bin_confidence": 0.858077,
+              "calibration_gap": 0.157046
+            },
+            {
+              "bin_index": 9,
+              "bin_lower": 0.9,
+              "bin_upper": 1.0,
+              "sample_count": 1949,
+              "bin_accuracy": 0.97845,
+              "bin_confidence": 0.97364,
+              "calibration_gap": 0.00481
+            }
+          ]
+        },
+        "n_samples": 2241,
+        "T": 2.218093
+      }
+    },
+    "cross_dataset": {
+      "n_external": 609,
+      "shared_classes": [
+        "Black Spot",
+        "Citrus Canker",
+        "Greening",
+        "Healthy",
+        "Melanose"
+      ],
+      "n_shared": 609,
+      "accuracy": 0.6600985221674877,
+      "macro_f1": 0.4892190182006133,
+      "indataset_macro_f1": 0.8863478419655002,
+      "pct_drop": 44.8,
+      "per_class": {
+        "Black Spot": {
+          "precision": 0.7667,
+          "recall": 0.269,
+          "f1": 0.3983,
+          "support": 171
+        },
+        "Citrus Canker": {
+          "precision": 0.9325,
+          "recall": 0.9325,
+          "f1": 0.9325,
+          "support": 163
+        },
+        "Greening": {
+          "precision": 0.5497,
+          "recall": 0.9216,
+          "f1": 0.6886,
+          "support": 204
+        },
+        "Healthy": {
+          "precision": 0.9412,
+          "recall": 0.2759,
+          "f1": 0.4267,
+          "support": 58
+        },
+        "Melanose": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 13
+        }
+      },
+      "source_csv": "data/metadata/splits/citrus_external_test.csv",
+      "method": "EfficientNetV2-S forward pass on external 609-image dataset, 5-class submatrix evaluation"
+    }
+  },
+  "deployment": {
+    "turmeric": {
+      "checkpoint": "ml\\models\\turmeric\\convnext_tiny\\seed_42\\best_model.pt",
+      "file_size_mb": 106.2,
+      "total_parameters": 27823204,
+      "total_parameters_M": 27.82,
+      "img_size": 224,
+      "runtime": "PyTorch CPU torch.no_grad()",
+      "cpu_inference_ms": {
+        "median_ms": 168.39,
+        "mean_ms": 166.68,
+        "std_ms": 39.46,
+        "n_runs": 50
+      }
+    },
+    "citrus": {
+      "checkpoint": "ml\\models\\citrus\\efficientnet_v2_s\\seed_42\\best_model.pt",
+      "file_size_mb": 77.92,
+      "total_parameters": 20200546,
+      "total_parameters_M": 20.2,
+      "img_size": 384,
+      "runtime": "PyTorch CPU torch.no_grad()",
+      "cpu_inference_ms": {
+        "median_ms": 336.16,
+        "mean_ms": 337.49,
+        "std_ms": 22.86,
+        "n_runs": 50
+      }
+    }
+  },
+  "calibration": {
+    "turmeric": {
+      "temperature": 0.101698,
+      "val_ece_before": 0.006385,
+      "val_ece_after": 0.0,
+      "test_ece_before": 0.005247,
+      "test_ece_after": 0.010745,
+      "test_nll_before": 0.042529,
+      "test_nll_after": 0.317621
+    },
+    "citrus": {
+      "temperature": 2.218093,
+      "val_ece_before": 0.062936,
+      "val_ece_after": 0.032162,
+      "test_ece_before": 0.058998,
+      "test_ece_after": 0.026995,
+      "test_nll_before": 0.450731,
+      "test_nll_after": 0.270024
+    }
+  },
+  "figure_7_1": {
+    "turmeric_test_uncal": {
+      "ece": 0.004682092576898561,
+      "n_bins": 10,
+      "bins": [
+        {
+          "bin_index": 0,
+          "bin_lower": 0.0,
+          "bin_upper": 0.1,
+          "sample_count": 0,
+          "bin_accuracy": null,
+          "bin_confidence": null,
+          "calibration_gap": 0.0
+        },
+        {
+          "bin_index": 1,
+          "bin_lower": 0.1,
+          "bin_upper": 0.2,
+          "sample_count": 0,
+          "bin_accuracy": null,
+          "bin_confidence": null,
+          "calibration_gap": 0.0
+        },
+        {
+          "bin_index": 2,
+          "bin_lower": 0.2,
+          "bin_upper": 0.3,
+          "sample_count": 0,
+          "bin_accuracy": null,
+          "bin_confidence": null,
+          "calibration_gap": 0.0
+        },
+        {
+          "bin_index": 3,
+          "bin_lower": 0.3,
+          "bin_upper": 0.4,
+          "sample_count": 0,
+          "bin_accuracy": null,
+          "bin_confidence": null,
+          "calibration_gap": 0.0
+        },
+        {
+          "bin_index": 4,
+          "bin_lower": 0.4,
+          "bin_upper": 0.5,
+          "sample_count": 0,
+          "bin_accuracy": null,
+          "bin_confidence": null,
+          "calibration_gap": 0.0
+        },
+        {
+          "bin_index": 5,
+          "bin_lower": 0.5,
+          "bin_upper": 0.6,
+          "sample_count": 0,
+          "bin_accuracy": null,
+          "bin_confidence": null,
+          "calibration_gap": 0.0
+        },
+        {
+          "bin_index": 6,
+          "bin_lower": 0.6,
+          "bin_upper": 0.7,
+          "sample_count": 2,
+          "bin_accuracy": 0.5,
+          "bin_confidence": 0.665929,
+          "calibration_gap": 0.165929
+        },
+        {
+          "bin_index": 7,
+          "bin_lower": 0.7,
+          "bin_upper": 0.8,
+          "sample_count": 1,
+          "bin_accuracy": 1.0,
+          "bin_confidence": 0.713814,
+          "calibration_gap": 0.286186
+        },
+        {
+          "bin_index": 8,
+          "bin_lower": 0.8,
+          "bin_upper": 0.9,
+          "sample_count": 0,
+          "bin_accuracy": null,
+          "bin_confidence": null,
+          "calibration_gap": 0.0
+        },
+        {
+          "bin_index": 9,
+          "bin_lower": 0.9,
+          "bin_upper": 1.0,
+          "sample_count": 183,
+          "bin_accuracy": 0.994536,
+          "bin_confidence": 0.995917,
+          "calibration_gap": 0.001382
+        }
+      ]
+    },
+    "turmeric_test_cal": {
+      "ece": 0.010744999172866976,
+      "n_bins": 10,
+      "bins": [
+        {
+          "bin_index": 0,
+          "bin_lower": 0.0,
+          "bin_upper": 0.1,
+          "sample_count": 0,
+          "bin_accuracy": null,
+          "bin_confidence": null,
+          "calibration_gap": 0.0
+        },
+        {
+          "bin_index": 1,
+          "bin_lower": 0.1,
+          "bin_upper": 0.2,
+          "sample_count": 0,
+          "bin_accuracy": null,
+          "bin_confidence": null,
+          "calibration_gap": 0.0
+        },
+        {
+          "bin_index": 2,
+          "bin_lower": 0.2,
+          "bin_upper": 0.3,
+          "sample_count": 0,
+          "bin_accuracy": null,
+          "bin_confidence": null,
+          "calibration_gap": 0.0
+        },
+        {
+          "bin_index": 3,
+          "bin_lower": 0.3,
+          "bin_upper": 0.4,
+          "sample_count": 0,
+          "bin_accuracy": null,
+          "bin_confidence": null,
+          "calibration_gap": 0.0
+        },
+        {
+          "bin_index": 4,
+          "bin_lower": 0.4,
+          "bin_upper": 0.5,
+          "sample_count": 0,
+          "bin_accuracy": null,
+          "bin_confidence": null,
+          "calibration_gap": 0.0
+        },
+        {
+          "bin_index": 5,
+          "bin_lower": 0.5,
+          "bin_upper": 0.6,
+          "sample_count": 0,
+          "bin_accuracy": null,
+          "bin_confidence": null,
+          "calibration_gap": 0.0
+        },
+        {
+          "bin_index": 6,
+          "bin_lower": 0.6,
+          "bin_upper": 0.7,
+          "sample_count": 0,
+          "bin_accuracy": null,
+          "bin_confidence": null,
+          "calibration_gap": 0.0
+        },
+        {
+          "bin_index": 7,
+          "bin_lower": 0.7,
+          "bin_upper": 0.8,
+          "sample_count": 0,
+          "bin_accuracy": null,
+          "bin_confidence": null,
+          "calibration_gap": 0.0
+        },
+        {
+          "bin_index": 8,
+          "bin_lower": 0.8,
+          "bin_upper": 0.9,
+          "sample_count": 0,
+          "bin_accuracy": null,
+          "bin_confidence": null,
+          "calibration_gap": 0.0
+        },
+        {
+          "bin_index": 9,
+          "bin_lower": 0.9,
+          "bin_upper": 1.0,
+          "sample_count": 186,
+          "bin_accuracy": 0.989247,
+          "bin_confidence": 0.999992,
+          "calibration_gap": 0.010745
+        }
+      ]
+    },
+    "citrus_test_uncal": {
+      "ece": 0.058663043458245835,
+      "n_bins": 10,
+      "bins": [
+        {
+          "bin_index": 0,
+          "bin_lower": 0.0,
+          "bin_upper": 0.1,
+          "sample_count": 0,
+          "bin_accuracy": null,
+          "bin_confidence": null,
+          "calibration_gap": 0.0
+        },
+        {
+          "bin_index": 1,
+          "bin_lower": 0.1,
+          "bin_upper": 0.2,
+          "sample_count": 0,
+          "bin_accuracy": null,
+          "bin_confidence": null,
+          "calibration_gap": 0.0
+        },
+        {
+          "bin_index": 2,
+          "bin_lower": 0.2,
+          "bin_upper": 0.3,
+          "sample_count": 0,
+          "bin_accuracy": null,
+          "bin_confidence": null,
+          "calibration_gap": 0.0
+        },
+        {
+          "bin_index": 3,
+          "bin_lower": 0.3,
+          "bin_upper": 0.4,
+          "sample_count": 1,
+          "bin_accuracy": 1.0,
+          "bin_confidence": 0.35643,
+          "calibration_gap": 0.64357
+        },
+        {
+          "bin_index": 4,
+          "bin_lower": 0.4,
+          "bin_upper": 0.5,
+          "sample_count": 4,
+          "bin_accuracy": 0.5,
+          "bin_confidence": 0.432759,
+          "calibration_gap": 0.067241
+        },
+        {
+          "bin_index": 5,
+          "bin_lower": 0.5,
+          "bin_upper": 0.6,
+          "sample_count": 19,
+          "bin_accuracy": 0.421053,
+          "bin_confidence": 0.560682,
+          "calibration_gap": 0.13963
+        },
+        {
+          "bin_index": 6,
+          "bin_lower": 0.6,
+          "bin_upper": 0.7,
+          "sample_count": 16,
+          "bin_accuracy": 0.4375,
+          "bin_confidence": 0.656051,
+          "calibration_gap": 0.218551
+        },
+        {
+          "bin_index": 7,
+          "bin_lower": 0.7,
+          "bin_upper": 0.8,
+          "sample_count": 28,
+          "bin_accuracy": 0.5,
+          "bin_confidence": 0.762098,
+          "calibration_gap": 0.262098
+        },
+        {
+          "bin_index": 8,
+          "bin_lower": 0.8,
+          "bin_upper": 0.9,
+          "sample_count": 35,
+          "bin_accuracy": 0.6,
+          "bin_confidence": 0.85252,
+          "calibration_gap": 0.25252
+        },
+        {
+          "bin_index": 9,
+          "bin_lower": 0.9,
+          "bin_upper": 1.0,
+          "sample_count": 2138,
+          "bin_accuracy": 0.947147,
+          "bin_confidence": 0.997766,
+          "calibration_gap": 0.05062
+        }
+      ]
+    },
+    "citrus_test_cal": {
+      "ece": 0.022961508331422204,
+      "n_bins": 10,
+      "bins": [
+        {
+          "bin_index": 0,
+          "bin_lower": 0.0,
+          "bin_upper": 0.1,
+          "sample_count": 0,
+          "bin_accuracy": null,
+          "bin_confidence": null,
+          "calibration_gap": 0.0
+        },
+        {
+          "bin_index": 1,
+          "bin_lower": 0.1,
+          "bin_upper": 0.2,
+          "sample_count": 0,
+          "bin_accuracy": null,
+          "bin_confidence": null,
+          "calibration_gap": 0.0
+        },
+        {
+          "bin_index": 2,
+          "bin_lower": 0.2,
+          "bin_upper": 0.3,
+          "sample_count": 2,
+          "bin_accuracy": 0.5,
+          "bin_confidence": 0.294252,
+          "calibration_gap": 0.205748
+        },
+        {
+          "bin_index": 3,
+          "bin_lower": 0.3,
+          "bin_upper": 0.4,
+          "sample_count": 12,
+          "bin_accuracy": 0.416667,
+          "bin_confidence": 0.347575,
+          "calibration_gap": 0.069092
+        },
+        {
+          "bin_index": 4,
+          "bin_lower": 0.4,
+          "bin_upper": 0.5,
+          "sample_count": 25,
+          "bin_accuracy": 0.28,
+          "bin_confidence": 0.454509,
+          "calibration_gap": 0.174509
+        },
+        {
+          "bin_index": 5,
+          "bin_lower": 0.5,
+          "bin_upper": 0.6,
+          "sample_count": 42,
+          "bin_accuracy": 0.642857,
+          "bin_confidence": 0.548887,
+          "calibration_gap": 0.09397
+        },
+        {
+          "bin_index": 6,
+          "bin_lower": 0.6,
+          "bin_upper": 0.7,
+          "sample_count": 52,
+          "bin_accuracy": 0.538462,
+          "bin_confidence": 0.651044,
+          "calibration_gap": 0.112583
+        },
+        {
+          "bin_index": 7,
+          "bin_lower": 0.7,
+          "bin_upper": 0.8,
+          "sample_count": 62,
+          "bin_accuracy": 0.564516,
+          "bin_confidence": 0.749093,
+          "calibration_gap": 0.184577
+        },
+        {
+          "bin_index": 8,
+          "bin_lower": 0.8,
+          "bin_upper": 0.9,
+          "sample_count": 97,
+          "bin_accuracy": 0.701031,
+          "bin_confidence": 0.858077,
+          "calibration_gap": 0.157046
+        },
+        {
+          "bin_index": 9,
+          "bin_lower": 0.9,
+          "bin_upper": 1.0,
+          "sample_count": 1949,
+          "bin_accuracy": 0.97845,
+          "bin_confidence": 0.97364,
+          "calibration_gap": 0.00481
+        }
+      ]
+    }
+  },
+  "not_available": {
+    "Table_7_4_turmeric": {
+      "reason": "No source-separated checkpoint. Need TURM_CROSS_B_TO_A and TURM_CROSS_A_TO_B experiments."
+    },
+    "Table_7_1_3seed_mean_sd": {
+      "reason": "Only seed=42 present. Seeds 123,7 not in ml/models/."
+    },
+    "Table_7_6_gradcam": {
+      "reason": "Grad-CAM++ not implemented. No lesion GT annotations. No pointing-game or background-masking experiment."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+# LeafLens Core Dependencies
+
+# Web Backend
+fastapi>=0.115.0
+uvicorn>=0.32.0
+pydantic>=2.10.0
+pydantic-settings>=2.7.0
+python-multipart>=0.0.18
+sqlalchemy>=2.0.0
+bcrypt>=4.0.0
+python-jose>=3.3.0
+
+
+
+# Computer Vision & Deep Learning
+torch>=2.1.0
+torchvision>=0.16.0
+pillow>=10.0.0
+opencv-python>=4.8.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+pyyaml>=6.0
+
+# Model Export & CPU Deployment Inference
+onnx>=1.14.0
+onnxruntime>=1.16.0
+
+# Testing & Development
+pytest>=7.4.0
+httpx>=0.25.0

@@ -1,0 +1,449 @@
+[
+  {
+    "case_id": "turmeric_healthy",
+    "crop": "turmeric",
+    "expected_label": "healthy",
+    "predicted_class": "Healthy",
+    "raw_confidence": 0.9967415928840637,
+    "calibrated_confidence": null,
+    "active_percentage": 100,
+    "is_calibration_active": false,
+    "temperature": null,
+    "is_rejected": false,
+    "has_gradcam_overlay": true,
+    "target_layer": "features.7",
+    "region_count": 1,
+    "regions": [
+      {
+        "region_id": 1,
+        "x": 0,
+        "y": 328,
+        "width": 2097,
+        "height": 1107,
+        "attention_score": 0.4859,
+        "score_percent": 49,
+        "thumbnail_bytes_len": 347452
+      }
+    ],
+    "candidates": [
+      {
+        "class_name": "Healthy",
+        "probability": 0.9967415928840637,
+        "raw_probability": 0.9967415928840637,
+        "calibrated_probability": null,
+        "active_prob": 0.9967415928840637,
+        "percent": 100
+      },
+      {
+        "class_name": "Leaf Blotch",
+        "probability": 0.0017896778881549835,
+        "raw_probability": 0.0017896778881549835,
+        "calibrated_probability": null,
+        "active_prob": 0.0017896778881549835,
+        "percent": 0
+      },
+      {
+        "class_name": "Leaf Spot",
+        "probability": 0.0010826204670593143,
+        "raw_probability": 0.0010826204670593143,
+        "calibrated_probability": null,
+        "active_prob": 0.0010826204670593143,
+        "percent": 0
+      },
+      {
+        "class_name": "Dry Leaf",
+        "probability": 0.0003861120785586536,
+        "raw_probability": 0.0003861120785586536,
+        "calibrated_probability": null,
+        "active_prob": 0.0003861120785586536,
+        "percent": 0
+      }
+    ]
+  },
+  {
+    "case_id": "turmeric_leaf_blotch",
+    "crop": "turmeric",
+    "expected_label": "leaf_blotch",
+    "predicted_class": "Leaf Blotch",
+    "raw_confidence": 0.9974479675292969,
+    "calibrated_confidence": null,
+    "active_percentage": 100,
+    "is_calibration_active": false,
+    "temperature": null,
+    "is_rejected": false,
+    "has_gradcam_overlay": true,
+    "target_layer": "features.7",
+    "region_count": 3,
+    "regions": [
+      {
+        "region_id": 1,
+        "x": 679,
+        "y": 803,
+        "width": 222,
+        "height": 197,
+        "attention_score": 0.5761,
+        "score_percent": 58,
+        "thumbnail_bytes_len": 13064
+      },
+      {
+        "region_id": 2,
+        "x": 0,
+        "y": 0,
+        "width": 165,
+        "height": 293,
+        "attention_score": 0.4407,
+        "score_percent": 44,
+        "thumbnail_bytes_len": 21432
+      },
+      {
+        "region_id": 3,
+        "x": 414,
+        "y": 125,
+        "width": 188,
+        "height": 234,
+        "attention_score": 0.4549,
+        "score_percent": 45,
+        "thumbnail_bytes_len": 20320
+      }
+    ],
+    "candidates": [
+      {
+        "class_name": "Leaf Blotch",
+        "probability": 0.9974479675292969,
+        "raw_probability": 0.9974479675292969,
+        "calibrated_probability": null,
+        "active_prob": 0.9974479675292969,
+        "percent": 100
+      },
+      {
+        "class_name": "Healthy",
+        "probability": 0.0018602614291012287,
+        "raw_probability": 0.0018602614291012287,
+        "calibrated_probability": null,
+        "active_prob": 0.0018602614291012287,
+        "percent": 0
+      },
+      {
+        "class_name": "Leaf Spot",
+        "probability": 0.00040322027052752674,
+        "raw_probability": 0.00040322027052752674,
+        "calibrated_probability": null,
+        "active_prob": 0.00040322027052752674,
+        "percent": 0
+      },
+      {
+        "class_name": "Dry Leaf",
+        "probability": 0.00028855999698862433,
+        "raw_probability": 0.00028855999698862433,
+        "calibrated_probability": null,
+        "active_prob": 0.00028855999698862433,
+        "percent": 0
+      }
+    ]
+  },
+  {
+    "case_id": "citrus_healthy",
+    "crop": "citrus",
+    "expected_label": "healthy",
+    "predicted_class": "Healthy",
+    "raw_confidence": 0.9999898672103882,
+    "calibrated_confidence": 0.9805833101272583,
+    "active_percentage": 98,
+    "is_calibration_active": true,
+    "temperature": 2.218093,
+    "is_rejected": false,
+    "has_gradcam_overlay": true,
+    "target_layer": "features.7",
+    "region_count": 1,
+    "regions": [
+      {
+        "region_id": 1,
+        "x": 136,
+        "y": 97,
+        "width": 265,
+        "height": 366,
+        "attention_score": 0.7708,
+        "score_percent": 77,
+        "thumbnail_bytes_len": 50728
+      }
+    ],
+    "candidates": [
+      {
+        "class_name": "Healthy",
+        "probability": 0.9999898672103882,
+        "raw_probability": 0.9999898672103882,
+        "calibrated_probability": 0.9805833101272583,
+        "active_prob": 0.9805833101272583,
+        "percent": 98
+      },
+      {
+        "class_name": "Greening",
+        "probability": 3.571346496755723e-06,
+        "raw_probability": 3.571346496755723e-06,
+        "calibrated_probability": 0.0034331881906837225,
+        "active_prob": 0.0034331881906837225,
+        "percent": 0
+      },
+      {
+        "class_name": "Black Spot",
+        "probability": 2.0639781723730266e-06,
+        "raw_probability": 2.0639781723730266e-06,
+        "calibrated_probability": 0.002681272802874446,
+        "active_prob": 0.002681272802874446,
+        "percent": 0
+      },
+      {
+        "class_name": "Anthracnose",
+        "probability": 1.6006846408345154e-06,
+        "raw_probability": 1.6006846408345154e-06,
+        "calibrated_probability": 0.0023909402079880238,
+        "active_prob": 0.0023909402079880238,
+        "percent": 0
+      }
+    ]
+  },
+  {
+    "case_id": "citrus_canker",
+    "crop": "citrus",
+    "expected_label": "citrus_canker",
+    "predicted_class": "Citrus Canker",
+    "raw_confidence": 0.9999581575393677,
+    "calibrated_confidence": 0.9596766233444214,
+    "active_percentage": 96,
+    "is_calibration_active": true,
+    "temperature": 2.218093,
+    "is_rejected": false,
+    "has_gradcam_overlay": true,
+    "target_layer": "features.7",
+    "region_count": 1,
+    "regions": [
+      {
+        "region_id": 1,
+        "x": 65,
+        "y": 37,
+        "width": 219,
+        "height": 363,
+        "attention_score": 0.6347,
+        "score_percent": 63,
+        "thumbnail_bytes_len": 38392
+      }
+    ],
+    "candidates": [
+      {
+        "class_name": "Citrus Canker",
+        "probability": 0.9999581575393677,
+        "raw_probability": 0.9999581575393677,
+        "calibrated_probability": 0.9596766233444214,
+        "active_prob": 0.9596766233444214,
+        "percent": 96
+      },
+      {
+        "class_name": "Curl Leaf",
+        "probability": 1.6773979950812645e-05,
+        "raw_probability": 1.6773979950812645e-05,
+        "calibrated_probability": 0.006748681887984276,
+        "active_prob": 0.006748681887984276,
+        "percent": 1
+      },
+      {
+        "class_name": "Black Spot",
+        "probability": 6.383416348398896e-06,
+        "raw_probability": 6.383416348398896e-06,
+        "calibrated_probability": 0.004365711472928524,
+        "active_prob": 0.004365711472928524,
+        "percent": 0
+      },
+      {
+        "class_name": "Swallowtail Larval Herbivory (Deficiency)",
+        "probability": 4.065789198648417e-06,
+        "raw_probability": 4.065789198648417e-06,
+        "calibrated_probability": 0.0035623149015009403,
+        "active_prob": 0.0035623149015009403,
+        "percent": 0
+      }
+    ]
+  },
+  {
+    "case_id": "citrus_greening_mismatch",
+    "crop": "citrus",
+    "expected_label": "greening",
+    "predicted_class": "Citrus Leafminer",
+    "raw_confidence": 0.9482522010803223,
+    "calibrated_confidence": 0.685454785823822,
+    "active_percentage": 69,
+    "is_calibration_active": true,
+    "temperature": 2.218093,
+    "is_rejected": false,
+    "has_gradcam_overlay": true,
+    "target_layer": "features.7",
+    "region_count": 1,
+    "regions": [
+      {
+        "region_id": 1,
+        "x": 113,
+        "y": 103,
+        "width": 203,
+        "height": 264,
+        "attention_score": 0.5682,
+        "score_percent": 57,
+        "thumbnail_bytes_len": 30292
+      }
+    ],
+    "candidates": [
+      {
+        "class_name": "Citrus Leafminer",
+        "probability": 0.9482522010803223,
+        "raw_probability": 0.9482522010803223,
+        "calibrated_probability": 0.685454785823822,
+        "active_prob": 0.685454785823822,
+        "percent": 69
+      },
+      {
+        "class_name": "Anthracnose",
+        "probability": 0.044522397220134735,
+        "raw_probability": 0.044522397220134735,
+        "calibrated_probability": 0.1726277470588684,
+        "active_prob": 0.1726277470588684,
+        "percent": 17
+      },
+      {
+        "class_name": "Curl Leaf",
+        "probability": 0.006784043274819851,
+        "raw_probability": 0.006784043274819851,
+        "calibrated_probability": 0.073915496468544,
+        "active_prob": 0.073915496468544,
+        "percent": 7
+      },
+      {
+        "class_name": "Bacterial Blight",
+        "probability": 0.00014580335118807852,
+        "raw_probability": 0.00014580335118807852,
+        "calibrated_probability": 0.01308771688491106,
+        "active_prob": 0.01308771688491106,
+        "percent": 1
+      }
+    ]
+  },
+  {
+    "case_id": "citrus_spider_mites",
+    "crop": "citrus",
+    "expected_label": "spider_mites",
+    "predicted_class": "Spider Mites",
+    "raw_confidence": 0.9998699426651001,
+    "calibrated_confidence": 0.9665775895118713,
+    "active_percentage": 97,
+    "is_calibration_active": true,
+    "temperature": 2.218093,
+    "is_rejected": false,
+    "has_gradcam_overlay": true,
+    "target_layer": "features.7",
+    "region_count": 1,
+    "regions": [
+      {
+        "region_id": 1,
+        "x": 107,
+        "y": 172,
+        "width": 394,
+        "height": 249,
+        "attention_score": 0.6072,
+        "score_percent": 61,
+        "thumbnail_bytes_len": 19340
+      }
+    ],
+    "candidates": [
+      {
+        "class_name": "Spider Mites",
+        "probability": 0.9998699426651001,
+        "raw_probability": 0.9998699426651001,
+        "calibrated_probability": 0.9665775895118713,
+        "active_prob": 0.9665775895118713,
+        "percent": 97
+      },
+      {
+        "class_name": "Citrus Leafminer",
+        "probability": 0.00012262466771062464,
+        "raw_probability": 0.00012262466771062464,
+        "calibrated_probability": 0.016666539013385773,
+        "active_prob": 0.016666539013385773,
+        "percent": 2
+      },
+      {
+        "class_name": "Greening",
+        "probability": 2.001075927182683e-06,
+        "raw_probability": 2.001075927182683e-06,
+        "calibrated_probability": 0.0026064934208989143,
+        "active_prob": 0.0026064934208989143,
+        "percent": 0
+      },
+      {
+        "class_name": "Bacterial Blight",
+        "probability": 1.444013378204545e-06,
+        "raw_probability": 1.444013378204545e-06,
+        "calibrated_probability": 0.0022499687038362026,
+        "active_prob": 0.0022499687038362026,
+        "percent": 0
+      }
+    ]
+  },
+  {
+    "case_id": "citrus_dry_leaf_rejected",
+    "crop": "citrus",
+    "expected_label": "dry_leaf",
+    "predicted_class": "Bacterial Blight",
+    "raw_confidence": 0.5274190306663513,
+    "calibrated_confidence": 0.36995336413383484,
+    "active_percentage": 37,
+    "is_calibration_active": true,
+    "temperature": 2.218093,
+    "is_rejected": true,
+    "has_gradcam_overlay": true,
+    "target_layer": "features.7",
+    "region_count": 1,
+    "regions": [
+      {
+        "region_id": 1,
+        "x": 129,
+        "y": 178,
+        "width": 210,
+        "height": 273,
+        "attention_score": 0.4973,
+        "score_percent": 50,
+        "thumbnail_bytes_len": 15292
+      }
+    ],
+    "candidates": [
+      {
+        "class_name": "Bacterial Blight",
+        "probability": 0.5274190306663513,
+        "raw_probability": 0.5274190306663513,
+        "calibrated_probability": 0.36995336413383484,
+        "active_prob": 0.36995336413383484,
+        "percent": 37
+      },
+      {
+        "class_name": "Greening",
+        "probability": 0.2844991981983185,
+        "raw_probability": 0.2844991981983185,
+        "calibrated_probability": 0.2800842523574829,
+        "active_prob": 0.2800842523574829,
+        "percent": 28
+      },
+      {
+        "class_name": "Swallowtail Larval Herbivory (Deficiency)",
+        "probability": 0.1842159777879715,
+        "raw_probability": 0.1842159777879715,
+        "calibrated_probability": 0.2302456498146057,
+        "active_prob": 0.2302456498146057,
+        "percent": 23
+      },
+      {
+        "class_name": "Black Spot",
+        "probability": 0.0016955069731920958,
+        "raw_probability": 0.0016955069731920958,
+        "calibrated_probability": 0.027814628556370735,
+        "active_prob": 0.027814628556370735,
+        "percent": 3
+      }
+    ]
+  }
+]

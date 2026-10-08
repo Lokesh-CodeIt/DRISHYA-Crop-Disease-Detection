@@ -1,0 +1,35 @@
+# LeafLens Experiment Configuration Template: Citrus Disease Detection
+project:
+  name: "LeafLens"
+  task: "citrus_disease_detection"
+  seed: 42
+
+dataset:
+  raw_dir: "ml/datasets/raw/citrus"
+  cleaned_dir: "ml/datasets/cleaned/citrus"
+  splits_dir: "ml/datasets/splits/citrus"
+  image_size: [224, 224]
+  batch_size: 32
+  num_workers: 4
+
+model:
+  architecture: "efficientnet_v2_s"
+  pretrained: true
+  num_classes: null # Determined dynamically from inspected dataset classes
+  dropout_rate: 0.2
+
+training:
+  epochs: 30
+  learning_rate: 1e-4
+  weight_decay: 1e-2
+  optimizer: "adamw"
+  scheduler: "cosine_annealing"
+  early_stopping_patience: 5
+
+calibration:
+  method: "temperature_scaling"
+  uncertainty_threshold: 0.65
+
+explainability:
+  target_layer: "features.7"
+  method: "gradcam"

@@ -1,0 +1,269 @@
+/* DRISHYA - Editorial Agricultural Intelligence Design System */
+
+:root {
+  /* Brand Editorial Palette (from DRISHYA Logo Concept) */
+  --c-ink: #1C110A;
+  --c-deep-ink: #140C07;
+  --c-bark: #3A2412;
+  --c-bronze: #8A5A2B;
+  --c-antique-gold: #C99A3C;
+  --c-lamp-glow: #F2C14E;
+  --c-parchment: #F4EAD3;
+  --c-ivory: #FBF6EA;
+  --c-dust: #D8C7A3;
+  --c-moss: #5E6B38;
+  --c-geru: #A24A2B;
+  --c-dusk: #6F5F52;
+
+  /* Typography Stacks */
+  --font-display: 'Fraunces', Georgia, serif;
+  --font-devanagari-display: 'Tiro Devanagari Hindi', 'Tiro Devanagari Marathi', serif;
+  --font-body: 'Mukta', 'Plus Jakarta Sans', system-ui, sans-serif;
+  --font-sans: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+
+  /* UI Tokens */
+  --bg-deep: #140C07;
+  --bg-surface: #1C110A;
+  --bg-panel: #23160E;
+  --border-rich: rgba(201, 154, 60, 0.32);
+  --border-subtle: rgba(201, 154, 60, 0.16);
+  --border-parchment: rgba(244, 234, 211, 0.12);
+
+  --text-main: #FBF6EA;
+  --text-muted: #D8C7A3;
+  --text-dim: #8F7F70;
+  --text-dusk: #6F5F52;
+
+  --accent-lamp: #F2C14E;
+  --accent-gold: #C99A3C;
+  --accent-bronze: #8A5A2B;
+  --accent-moss: #5E6B38;
+  --accent-geru: #A24A2B;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  background-color: var(--c-ink);
+  color: var(--c-ivory);
+  font-family: var(--font-body);
+  min-height: 100vh;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  line-height: 1.5;
+  overflow-x: hidden;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-display);
+  font-weight: 700;
+  color: var(--c-ivory);
+}
+
+/* Subtle botanical paper texture */
+.drishya-welcome-screen {
+  position: relative;
+  min-height: 100vh;
+  width: 100%;
+  background-color: var(--c-ink);
+  background-image: 
+    radial-gradient(circle at 75% 25%, rgba(201, 154, 60, 0.08) 0%, transparent 55%),
+    radial-gradient(circle at 20% 80%, rgba(58, 36, 18, 0.25) 0%, transparent 60%);
+  color: var(--c-parchment);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  overflow-x: hidden;
+  padding: 1.75rem 2rem;
+}
+
+@media (max-width: 768px) {
+  .drishya-welcome-screen {
+    padding: 1.25rem 1rem;
+  }
+}
+
+/* Header container */
+.drishya-header {
+  width: 100%;
+  max-width: 1240px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 0.5rem 0 1rem;
+  position: relative;
+  z-index: 20;
+}
+
+/* Main hero layout */
+.drishya-main-grid {
+  width: 100%;
+  max-width: 1240px;
+  margin: auto auto;
+  display: grid;
+  grid-template-columns: 1.1fr 0.9fr;
+  align-items: center;
+  gap: 3.5rem;
+  padding: 2.5rem 0;
+  position: relative;
+  z-index: 10;
+}
+
+@media (max-width: 960px) {
+  .drishya-main-grid {
+    grid-template-columns: 1fr;
+    gap: 2.5rem;
+    padding: 1.5rem 0;
+  }
+}
+
+/* Aperture Positioner & Mobile Optimization */
+.drishya-aperture-positioner {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 120%;
+  height: 120%;
+  z-index: 0;
+  opacity: 0.85;
+  pointer-events: none;
+  transition: opacity 0.3s ease;
+}
+
+@media (max-width: 768px) {
+  .drishya-aperture-positioner {
+    opacity: 0.28;
+    transform: translate(-50%, -50%) scale(0.85);
+  }
+}
+
+/* Editorial Auth Panel - No glassmorphism, grounded solid bark & antique gold */
+.drishya-auth-panel {
+  background: var(--bg-panel);
+  border: 1px solid var(--border-rich);
+  border-radius: 18px;
+  padding: 2.2rem 2.4rem;
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.7);
+  width: 100%;
+  max-width: 440px;
+  position: relative;
+  z-index: 10;
+}
+
+@media (max-width: 480px) {
+  .drishya-auth-panel {
+    padding: 1.6rem 1.25rem;
+    border-radius: 14px;
+  }
+}
+
+/* Form Inputs */
+.drishya-input {
+  width: 100%;
+  min-height: 48px;
+  padding: 0.75rem 1rem;
+  background-color: var(--c-deep-ink);
+  border: 1px solid rgba(201, 154, 60, 0.28);
+  border-radius: 10px;
+  color: var(--c-ivory);
+  font-size: 1rem;
+  font-family: var(--font-body);
+  outline: none;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.drishya-input:focus {
+  border-color: var(--c-lamp-glow);
+  box-shadow: 0 0 0 2px rgba(242, 193, 78, 0.25);
+}
+
+.drishya-input::placeholder {
+  color: rgba(216, 199, 163, 0.4);
+}
+
+/* Primary CTA Button (Minimum 48px touch target) */
+.drishya-btn-primary {
+  width: 100%;
+  min-height: 50px;
+  padding: 0.75rem 1.5rem;
+  background: linear-gradient(135deg, var(--c-lamp-glow) 0%, var(--c-antique-gold) 60%, var(--c-bronze) 100%);
+  border: none;
+  border-radius: 10px;
+  color: var(--c-deep-ink);
+  font-weight: 700;
+  font-size: 1.05rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.6rem;
+  box-shadow: 0 6px 18px rgba(201, 154, 60, 0.3);
+  transition: transform 0.15s ease, box-shadow 0.15s ease, filter 0.15s ease;
+}
+
+.drishya-btn-primary:hover:not(:disabled) {
+  filter: brightness(1.06);
+  box-shadow: 0 8px 22px rgba(201, 154, 60, 0.45);
+}
+
+.drishya-btn-primary:active:not(:disabled) {
+  transform: scale(0.98);
+}
+
+.drishya-btn-primary:disabled {
+  opacity: 0.65;
+  cursor: not-allowed;
+}
+
+/* Accessible focus outline */
+:focus-visible {
+  outline: 2px solid var(--c-lamp-glow);
+  outline-offset: 2px;
+}
+
+/* Logout label must never wrap — single line always */
+.drishya-logout-label {
+  white-space: nowrap;
+}
+
+/* Mobile Bottom Navigation & Responsive Home Rules */
+@media (max-width: 820px) {
+  .drishya-header-nav-links {
+    display: none !important;
+  }
+}
+
+
+@media (max-width: 768px) {
+  .drishya-mobile-bottom-nav {
+    display: block !important;
+  }
+  .drishya-home-screen {
+    padding-bottom: 6rem !important;
+  }
+  .drishya-logout-label {
+    display: none !important;
+  }
+
+  .drishya-header-user-badge {
+    padding: 0.35rem 0.65rem !important;
+  }
+}
+
+/* Motion Preferences: Respect User Reduced Motion */
+@media (prefers-reduced-motion: reduce) {
+  *, ::before, ::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+

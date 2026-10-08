@@ -1,0 +1,1880 @@
+Dataset,Crop,Class,Image Count,Percentage of Dataset,Min Class Count,Max Class Count,Median Class Size,Imbalance Ratio
+A Citrus Fruits and Leaves Dataset for Detection and Classification of Citrus Diseases,citrus,Black spot,190,25.03%,1,204,77.0,204.0
+A Citrus Fruits and Leaves Dataset for Detection and Classification of Citrus Diseases,citrus,Canker,77,10.14%,1,204,77.0,204.0
+A Citrus Fruits and Leaves Dataset for Detection and Classification of Citrus Diseases,citrus,Canker (61).JPG,1,0.13%,1,204,77.0,204.0
+A Citrus Fruits and Leaves Dataset for Detection and Classification of Citrus Diseases,citrus,Greening,16,2.11%,1,204,77.0,204.0
+A Citrus Fruits and Leaves Dataset for Detection and Classification of Citrus Diseases,citrus,Melanose,13,1.71%,1,204,77.0,204.0
+A Citrus Fruits and Leaves Dataset for Detection and Classification of Citrus Diseases,citrus,Scab,15,1.98%,1,204,77.0,204.0
+A Citrus Fruits and Leaves Dataset for Detection and Classification of Citrus Diseases,citrus,canker,163,21.48%,1,204,77.0,204.0
+A Citrus Fruits and Leaves Dataset for Detection and Classification of Citrus Diseases,citrus,greening,204,26.88%,1,204,77.0,204.0
+A Citrus Fruits and Leaves Dataset for Detection and Classification of Citrus Diseases,citrus,healthy,80,10.54%,1,204,77.0,204.0
+Image Dataset for Turmeric Plant Leaf Disease Detection,turmeric,Aphids Disease,1068,24.49%,1034,1147,1090.0,1.11
+Image Dataset for Turmeric Plant Leaf Disease Detection,turmeric,Blotch,1147,26.3%,1034,1147,1090.0,1.11
+Image Dataset for Turmeric Plant Leaf Disease Detection,turmeric,Healthy Leaf,1034,23.71%,1034,1147,1090.0,1.11
+Image Dataset for Turmeric Plant Leaf Disease Detection,turmeric,Leaf Spot,1112,25.5%,1034,1147,1090.0,1.11
+Large-Scale Lemon Leaf Disease and Pest Image Data,citrus,Algal Leaf Spot,869,4.94%,244,2340,853.0,9.59
+Large-Scale Lemon Leaf Disease and Pest Image Data,citrus,Anthracnose,1079,6.14%,244,2340,853.0,9.59
+Large-Scale Lemon Leaf Disease and Pest Image Data,citrus,Bacterial Blight,244,1.39%,244,2340,853.0,9.59
+Large-Scale Lemon Leaf Disease and Pest Image Data,citrus,Black Spot,837,4.76%,244,2340,853.0,9.59
+Large-Scale Lemon Leaf Disease and Pest Image Data,citrus,Citrus Canker,1789,10.17%,244,2340,853.0,9.59
+Large-Scale Lemon Leaf Disease and Pest Image Data,citrus,Citrus Hindu Mite,544,3.09%,244,2340,853.0,9.59
+Large-Scale Lemon Leaf Disease and Pest Image Data,citrus,Citrus Leafminer,900,5.12%,244,2340,853.0,9.59
+Large-Scale Lemon Leaf Disease and Pest Image Data,citrus,Citrus Pest,542,3.08%,244,2340,853.0,9.59
+Large-Scale Lemon Leaf Disease and Pest Image Data,citrus,Citrus Scab,333,1.89%,244,2340,853.0,9.59
+Large-Scale Lemon Leaf Disease and Pest Image Data,citrus,Curl Leaf,1853,10.54%,244,2340,853.0,9.59
+Large-Scale Lemon Leaf Disease and Pest Image Data,citrus,Dry Leaf,390,2.22%,244,2340,853.0,9.59
+Large-Scale Lemon Leaf Disease and Pest Image Data,citrus,Greening,2340,13.31%,244,2340,853.0,9.59
+Large-Scale Lemon Leaf Disease and Pest Image Data,citrus,Healthy,1638,9.31%,244,2340,853.0,9.59
+Large-Scale Lemon Leaf Disease and Pest Image Data,citrus,Lemon Sooty Mold,1592,9.05%,244,2340,853.0,9.59
+Large-Scale Lemon Leaf Disease and Pest Image Data,citrus,Melanose,376,2.14%,244,2340,853.0,9.59
+Large-Scale Lemon Leaf Disease and Pest Image Data,citrus,Spider Mites,250,1.42%,244,2340,853.0,9.59
+Large-Scale Lemon Leaf Disease and Pest Image Data,citrus,Swallowtail Larval Herbivory (Deficiency),1340,7.62%,244,2340,853.0,9.59
+Large-Scale Lemon Leaf Disease and Pest Image Data,citrus,Yellow Spot,670,3.81%,244,2340,853.0,9.59
+Turmeric Plant Disease (1),turmeric,Dry Leaf00001.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00002.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00003.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00004.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00005.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00006.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00007.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00008.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00009.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00010.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00011.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00012.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00013.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00014.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00015.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00016.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00017.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00018.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00019.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00020.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00021.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00022.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00023.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00024.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00025.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00026.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00027.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00028.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00029.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00030.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00031.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00032.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00033.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00034.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00035.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00036.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00037.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00038.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00039.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00040.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00041.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00042.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00043.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00044.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00045.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00046.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00047.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00048.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00049.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00050.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00051.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00052.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00053.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00054.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00055.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00056.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00057.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00058.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00059.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00060.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00061.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00062.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00063.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00064.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00065.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00066.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00067.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00068.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00069.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00070.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00071.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00072.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00073.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00074.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00075.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00076.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00077.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00078.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00079.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00080.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00081.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00082.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00083.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00084.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00085.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00086.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00087.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00088.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00089.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00090.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00091.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00092.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00093.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00094.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00095.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00096.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00097.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00098.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00099.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00100.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00101.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00102.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00103.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00104.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00105.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00106.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00107.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00108.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00109.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00110.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00111.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00112.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00113.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00114.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00115.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00116.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00117.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00118.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00119.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00120.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00121.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00122.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00123.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00124.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00125.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00126.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00127.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00128.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00129.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00130.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00131.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00132.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00133.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00134.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00135.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00136.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00137.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00138.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00139.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00140.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00141.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00142.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00143.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00144.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00145.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00146.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00147.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00148.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00149.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00150.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00151.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00152.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00153.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00154.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00155.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00156.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00157.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00158.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00159.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00160.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00161.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00162.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00163.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00164.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00165.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00166.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00167.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00168.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00169.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00170.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00171.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00172.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00173.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00174.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00175.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00176.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00177.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00178.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00179.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00180.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00181.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00182.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00183.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00184.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00185.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00186.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00187.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00188.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00189.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00190.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00191.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00192.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00193.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00194.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00195.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00196.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00197.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00198.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00199.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00200.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00201.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00202.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Dry Leaf00203.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00001.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00002.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00003.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00004.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00005.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00006.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00007.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00008.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00009.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00010.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00011.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00012.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00013.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00014.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00015.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00016.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00017.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00018.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00019.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00020.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00021.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00022.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00023.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00024.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00025.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00026.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00027.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00028.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00029.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00030.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00031.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00032.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00033.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00034.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00035.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00036.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00037.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00038.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00039.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00040.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00041.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00042.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00043.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00044.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00045.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00046.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00047.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00048.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00049.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00050.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00051.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00052.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00053.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00054.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00055.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00056.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00057.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00058.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00059.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00060.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00061.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00062.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00063.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00064.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00065.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00066.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00067.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00068.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00069.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00070.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00071.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00072.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00073.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00074.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00075.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00076.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00077.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00078.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00079.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00080.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00081.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00082.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00083.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00084.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00085.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00086.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00087.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00088.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00089.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00090.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00091.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00092.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00093.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00094.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00095.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00096.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00097.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00098.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00099.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00100.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00101.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00102.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00103.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00104.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00105.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00106.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00107.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00108.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00109.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00110.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00111.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00112.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00113.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00114.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00115.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00116.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00117.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00118.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00119.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00120.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00121.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00122.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00123.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00124.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00125.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00126.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00127.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00128.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00129.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00130.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00131.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00132.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00133.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00134.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00135.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00136.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00137.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00138.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00139.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00140.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00141.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00142.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00143.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00144.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00145.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00146.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00147.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00148.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00149.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00150.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00151.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00152.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00153.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00154.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00155.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00156.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00157.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00158.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00159.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00160.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00161.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00162.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00163.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00164.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00165.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00166.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00167.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00168.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00169.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00170.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00171.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00172.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00173.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00174.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00175.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00176.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00177.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00178.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00179.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00180.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00181.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00182.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00183.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00184.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00185.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00186.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00187.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00188.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00189.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00190.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00191.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00192.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00193.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00194.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00195.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00196.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Healthy Leaf00197.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00001.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00002.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00003.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00004.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00005.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00006.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00007.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00008.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00009.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00010.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00011.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00012.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00013.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00014.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00015.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00016.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00017.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00018.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00019.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00020.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00021.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00022.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00023.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00024.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00025.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00026.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00027.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00028.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00029.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00030.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00031.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00032.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00033.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00034.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00035.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00036.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00037.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00038.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00039.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00040.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00041.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00042.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00043.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00044.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00045.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00046.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00047.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00048.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00049.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00050.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00051.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00052.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00053.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00054.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00055.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00056.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00057.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00058.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00059.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00060.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00061.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00062.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00063.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00064.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00065.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00066.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00067.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00068.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00069.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00070.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00071.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00072.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00073.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00074.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00075.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00076.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00077.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00078.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00079.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00080.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00081.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00082.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00083.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00084.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00085.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00086.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00087.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00088.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00089.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00090.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00091.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00092.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00093.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00094.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00095.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00096.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00097.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00098.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00099.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00100.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00101.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00102.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00103.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00104.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00105.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00106.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00107.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00108.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00109.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00110.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00111.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00112.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00113.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00114.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00115.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00116.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00117.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00118.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00119.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00120.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00121.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00122.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00123.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00124.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00125.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00126.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00127.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00128.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00129.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00130.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00131.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00132.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00133.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00134.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00135.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00136.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00137.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00138.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00139.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00140.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00141.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00142.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00143.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00144.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00145.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00146.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00147.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00148.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00149.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00150.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00151.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00152.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00153.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00154.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00155.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00156.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00157.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00158.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00159.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00160.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00161.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00162.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00163.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00164.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00165.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00166.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00167.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00168.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00169.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00170.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00171.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00172.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00173.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00174.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00175.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00176.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00177.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00178.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00179.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00180.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00181.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00182.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00183.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00184.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00185.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00186.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00187.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00188.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00189.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00190.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00191.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00192.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00193.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00194.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00195.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00196.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00197.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00198.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Leaf Blotch00199.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00001.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00002.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00003.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00004.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00005.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00006.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00007.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00008.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00009.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00010.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00011.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00012.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00013.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00014.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00015.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00016.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00017.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00018.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00019.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00020.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00021.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00022.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00023.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00024.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00025.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00026.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00027.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00028.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00029.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00030.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00031.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00032.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00033.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00034.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00035.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00036.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00037.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00038.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00039.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00040.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00041.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00042.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00043.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00044.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00045.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00046.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00047.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00048.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00049.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00050.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00051.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00052.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00053.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00054.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00055.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00056.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00057.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00058.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00059.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00060.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00061.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00062.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00063.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00064.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00065.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00066.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00067.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00068.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00069.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00070.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00071.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00072.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00073.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00074.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00075.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00076.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00077.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00078.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00079.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00080.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00081.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00082.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00083.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00084.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00085.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00086.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00087.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00088.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00089.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00090.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00091.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00092.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00093.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00094.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00095.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00096.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00097.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00098.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00099.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00100.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00101.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00102.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00103.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00104.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00105.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00106.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00107.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00108.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00109.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00110.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00111.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00112.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00113.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00114.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00115.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00116.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00117.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00118.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00119.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00120.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00121.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00122.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00123.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00124.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00125.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00126.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00127.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00128.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00129.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00130.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00131.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00132.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00133.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00134.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00135.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00136.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00137.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00138.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00139.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00140.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00141.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00142.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00143.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00144.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00145.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00146.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00147.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00148.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00149.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00150.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00151.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00152.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00153.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00154.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00155.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00156.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00157.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00158.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00159.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00160.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00161.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00162.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00163.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00164.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00165.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00166.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00167.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00168.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00169.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00170.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00171.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00172.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00173.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00174.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00175.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00176.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00177.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00178.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00179.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00180.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00181.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Disease Root00182.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00001.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00002.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00004.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00005.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00007.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00008.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00009.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00010.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00011.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00012.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00013.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00014.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00015.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00016.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00017.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00018.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00019.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00020.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00021.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00022.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00023.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00024.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00027.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00029.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00030.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00031.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00032.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00035.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00038.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00039.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00040.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00041.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00042.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00043.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00045.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00046.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00047.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00048.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00049.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00050.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00051.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00052.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00053.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00054.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00055.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00056.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00057.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00058.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00059.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00060.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00061.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00062.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00063.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00064.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00066.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00067.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00068.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00069.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00070.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00071.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00072.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00073.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00074.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00075.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00076.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00077.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00078.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00079.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00080.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00081.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00082.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00083.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00084.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00085.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00086.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00087.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00088.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00089.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00090.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00091.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00092.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00096.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00097.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00098.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00099.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00100.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00101.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00102.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00103.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00104.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00105.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00106.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00107.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00108.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00109.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00110.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00111.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00112.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00114.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00115.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00117.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00118.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00119.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00120.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00121.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00122.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00123.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00124.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00125.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00126.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00127.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00131.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00132.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00134.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00135.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00136.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00137.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00138.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00139.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00140.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00141.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00142.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00143.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00144.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00145.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00146.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00147.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00148.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00149.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00150.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00151.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00152.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00153.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00154.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00155.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00156.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00157.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00158.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00159.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00160.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00161.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00162.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00163.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00164.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00165.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00166.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00167.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00168.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00169.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00170.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00171.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00172.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00173.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00174.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00175.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00176.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00177.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00178.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00179.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00180.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00181.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00182.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00183.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00184.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00185.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00186.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00187.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00188.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00189.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00190.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00191.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00192.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00193.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00194.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00195.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00196.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00197.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00198.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00199.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00200.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00201.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00202.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00203.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00204.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00205.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00206.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00207.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00208.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00209.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00210.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00211.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00212.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00213.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00214.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00215.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00216.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00217.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00218.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00219.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00220.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00221.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00222.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00223.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00224.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00225.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00226.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00227.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00230.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00231.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00232.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00233.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00234.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00235.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00237.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00238.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00239.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00240.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00241.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00242.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00243.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00244.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00245.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00246.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00247.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00248.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00249.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00250.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00251.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00252.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00253.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00254.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00255.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00256.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00257.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00258.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00259.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00260.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00261.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00262.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00263.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00264.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00265.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00266.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00267.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00268.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00269.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00270.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00271.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00272.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00273.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00274.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00275.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00276.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00277.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00278.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00279.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00280.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00281.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00282.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00283.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00284.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00285.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00286.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00287.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00288.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00289.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00292.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00298.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00299.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00300.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00302.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00303.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00304.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00305.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00306.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00307.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00308.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00309.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00310.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00311.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00312.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease (1),turmeric,Rhizome Healthy Root00313.JPG,1,0.09%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00001.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00002.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00003.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00004.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00005.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00006.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00007.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00008.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00009.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00010.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00011.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00012.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00013.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00014.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00015.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00016.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00017.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00018.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00019.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00020.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00021.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00022.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00023.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00024.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00025.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00026.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00027.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00028.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00029.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00030.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00031.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00032.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00033.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00034.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00035.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00036.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00037.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00038.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00039.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00040.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00041.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00042.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00043.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00044.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00045.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00046.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00047.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00048.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00049.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00050.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00051.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00052.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00053.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00054.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00055.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00056.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00057.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00058.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00059.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00060.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00061.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00062.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00063.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00064.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00065.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00066.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00067.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00068.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00069.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00070.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00071.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00072.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00073.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00074.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00075.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00076.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00077.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00078.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00079.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00080.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00081.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00082.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00083.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00084.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00085.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00086.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00087.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00088.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00089.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00090.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00091.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00092.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00093.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00094.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00095.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00096.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00097.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00098.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00099.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00100.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00101.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00102.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00103.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00104.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00105.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00106.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00107.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00108.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00109.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00110.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00111.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00112.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00113.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00114.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00115.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00116.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00117.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00118.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00119.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00120.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00121.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00122.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00123.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00124.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00125.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00126.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00127.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00128.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00129.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00130.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00131.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00132.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00133.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00134.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00135.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00136.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00137.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00138.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00139.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00140.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00141.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00142.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00143.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00144.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00145.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00146.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00147.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00148.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00149.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00150.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00151.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00152.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00153.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00154.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00155.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00156.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00157.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00158.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00159.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00160.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00161.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00162.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00163.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00164.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00165.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00166.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00167.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00168.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00169.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00170.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00171.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00172.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00173.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00174.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00175.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00176.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00177.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00178.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00179.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00180.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00181.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00182.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00183.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00184.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00185.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00186.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00187.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00188.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00189.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00190.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00191.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00192.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00193.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00194.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00195.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00196.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00197.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00198.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00199.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00200.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00201.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00202.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Dry Leaf00203.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00001.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00002.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00003.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00004.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00005.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00006.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00007.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00008.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00009.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00010.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00011.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00012.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00013.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00014.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00015.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00016.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00017.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00018.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00019.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00020.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00021.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00022.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00023.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00024.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00025.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00026.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00027.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00028.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00029.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00030.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00031.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00032.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00033.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00034.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00035.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00036.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00037.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00038.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00039.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00040.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00041.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00042.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00043.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00044.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00045.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00046.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00047.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00048.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00049.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00050.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00051.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00052.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00053.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00054.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00055.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00056.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00057.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00058.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00059.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00060.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00061.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00062.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00063.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00064.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00065.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00066.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00067.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00068.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00069.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00070.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00071.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00072.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00073.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00074.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00075.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00076.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00077.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00078.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00079.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00080.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00081.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00082.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00083.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00084.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00085.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00086.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00087.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00088.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00089.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00090.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00091.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00092.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00093.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00094.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00095.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00096.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00097.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00098.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00099.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00100.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00101.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00102.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00103.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00104.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00105.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00106.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00107.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00108.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00109.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00110.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00111.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00112.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00113.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00114.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00115.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00116.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00117.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00118.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00119.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00120.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00121.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00122.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00123.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00124.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00125.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00126.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00127.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00128.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00129.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00130.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00131.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00132.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00133.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00134.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00135.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00136.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00137.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00138.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00139.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00140.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00141.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00142.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00143.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00144.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00145.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00146.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00147.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00148.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00149.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00150.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00151.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00152.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00153.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00154.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00155.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00156.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00157.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00158.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00159.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00160.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00161.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00162.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00163.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00164.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00165.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00166.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00167.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00168.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00169.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00170.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00171.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00172.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00173.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00174.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00175.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00176.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00177.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00178.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00179.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00180.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00181.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00182.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00183.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00184.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00185.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00186.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00187.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00188.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00189.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00190.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00191.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00192.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00193.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00194.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00195.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00196.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Healthy Leaf00197.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00001.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00002.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00003.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00004.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00005.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00006.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00007.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00008.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00009.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00010.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00011.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00012.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00013.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00014.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00015.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00016.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00017.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00018.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00019.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00020.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00021.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00022.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00023.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00024.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00025.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00026.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00027.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00028.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00029.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00030.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00031.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00032.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00033.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00034.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00035.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00036.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00037.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00038.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00039.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00040.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00041.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00042.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00043.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00044.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00045.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00046.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00047.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00048.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00049.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00050.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00051.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00052.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00053.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00054.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00055.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00056.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00057.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00058.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00059.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00060.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00061.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00062.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00063.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00064.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00065.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00066.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00067.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00068.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00069.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00070.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00071.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00072.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00073.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00074.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00075.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00076.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00077.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00078.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00079.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00080.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00081.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00082.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00083.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00084.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00085.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00086.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00087.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00088.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00089.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00090.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00091.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00092.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00093.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00094.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00095.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00096.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00097.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00098.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00099.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00100.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00101.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00102.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00103.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00104.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00105.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00106.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00107.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00108.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00109.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00110.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00111.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00112.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00113.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00114.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00115.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00116.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00117.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00118.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00119.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00120.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00121.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00122.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00123.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00124.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00125.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00126.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00127.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00128.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00129.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00130.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00131.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00132.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00133.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00134.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00135.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00136.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00137.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00138.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00139.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00140.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00141.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00142.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00143.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00144.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00145.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00146.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00147.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00148.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00149.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00150.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00151.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00152.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00153.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00154.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00155.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00156.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00157.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00158.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00159.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00160.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00161.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00162.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00163.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00164.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00165.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00166.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00167.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00168.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00169.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00170.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00171.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00172.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00173.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00174.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00175.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00176.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00177.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00178.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00179.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00180.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00181.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00182.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00183.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00184.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00185.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00186.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00187.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00188.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00189.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00190.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00191.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00192.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00193.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00194.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00195.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00196.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00197.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00198.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Leaf Blotch00199.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00001.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00002.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00003.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00004.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00005.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00006.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00007.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00008.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00009.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00010.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00011.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00012.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00013.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00014.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00015.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00016.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00017.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00018.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00019.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00020.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00021.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00022.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00023.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00024.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00025.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00026.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00027.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00028.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00029.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00030.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00031.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00032.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00033.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00034.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00035.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00036.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00037.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00038.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00039.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00040.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00041.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00042.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00043.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00044.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00045.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00046.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00047.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00048.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00049.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00050.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00051.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00052.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00053.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00054.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00055.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00056.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00057.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00058.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00059.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00060.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00061.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00062.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00063.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00064.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00065.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00066.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00067.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00068.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00069.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00070.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00071.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00072.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00073.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00074.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00075.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00076.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00077.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00078.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00079.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00080.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00081.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00082.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00083.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00084.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00085.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00086.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00087.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00088.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00089.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00090.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00091.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00092.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00093.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00094.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00095.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00096.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00097.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00098.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00099.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00100.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00101.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00102.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00103.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00104.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00105.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00106.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00107.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00108.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00109.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00110.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00111.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00112.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00113.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00114.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00115.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00116.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00117.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00118.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00119.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00120.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00121.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00122.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00123.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00124.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00125.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00126.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00127.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00128.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00129.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00130.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00131.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00132.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00133.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00134.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00135.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00136.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00137.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00138.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00139.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00140.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00141.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00142.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00143.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00144.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00145.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00146.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00147.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00148.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00149.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00150.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00151.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00152.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00153.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00154.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00155.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00156.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00157.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00158.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00159.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00160.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00161.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00162.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00163.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00164.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00165.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00166.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00167.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00168.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00169.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00170.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00171.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00172.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00173.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00174.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00175.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00176.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00177.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00178.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00179.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00180.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00181.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,Rhizome Rot00182.JPG,1,0.13%,1,1,1.0,1.0
+Turmeric Plant Disease Dataset Advancing AI (Augmented),turmeric,Dry Leaf,812,21.93%,812,995,947.5,1.23
+Turmeric Plant Disease Dataset Advancing AI (Augmented),turmeric,Healthy Leaf,985,26.61%,812,995,947.5,1.23
+Turmeric Plant Disease Dataset Advancing AI (Augmented),turmeric,Leaf Blotch,995,26.88%,812,995,947.5,1.23
+Turmeric Plant Disease Dataset Advancing AI (Augmented),turmeric,Rhizome Rot,910,24.58%,812,995,947.5,1.23

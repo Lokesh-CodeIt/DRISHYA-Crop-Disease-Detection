@@ -1,0 +1,204 @@
+[
+  {
+    "dataset_key": "citrus_fruits_leaves",
+    "dataset_name": "A Citrus Fruits and Leaves Dataset for Detection and Classification of Citrus Diseases",
+    "crop": "citrus",
+    "total_images": 759,
+    "corrupted_count": 0,
+    "zero_byte_count": 0,
+    "rgba_count": 0,
+    "grayscale_count": 0,
+    "tiny_count": 0,
+    "huge_count": 0,
+    "color_modes": {
+      "RGB": 759
+    },
+    "file_size_stats": {
+      "min_bytes": 18493,
+      "max_bytes": 1504948,
+      "mean_bytes": 88856,
+      "median_bytes": 66618
+    },
+    "common_dimensions": [
+      [
+        "256x256",
+        729
+      ],
+      [
+        "1890x1417",
+        9
+      ],
+      [
+        "1520x1417",
+        5
+      ],
+      [
+        "2699x2399",
+        4
+      ],
+      [
+        "1640x1417",
+        1
+      ]
+    ]
+  },
+  {
+    "dataset_key": "turmeric_leaf_disease",
+    "dataset_name": "Image Dataset for Turmeric Plant Leaf Disease Detection",
+    "crop": "turmeric",
+    "total_images": 4361,
+    "corrupted_count": 0,
+    "zero_byte_count": 0,
+    "rgba_count": 0,
+    "grayscale_count": 0,
+    "tiny_count": 3496,
+    "huge_count": 0,
+    "color_modes": {
+      "RGB": 4361
+    },
+    "file_size_stats": {
+      "min_bytes": 3029,
+      "max_bytes": 4897895,
+      "mean_bytes": 763353,
+      "median_bytes": 4663
+    },
+    "common_dimensions": [
+      [
+        "224x224",
+        3496
+      ],
+      [
+        "4000x3000",
+        863
+      ],
+      [
+        "1658x2210",
+        2
+      ]
+    ]
+  },
+  {
+    "dataset_key": "lemon_leaf_large_scale",
+    "dataset_name": "Large-Scale Lemon Leaf Disease and Pest Image Data",
+    "crop": "citrus",
+    "total_images": 17586,
+    "corrupted_count": 0,
+    "zero_byte_count": 0,
+    "rgba_count": 0,
+    "grayscale_count": 0,
+    "tiny_count": 1486,
+    "huge_count": 0,
+    "color_modes": {
+      "RGB": 17586
+    },
+    "file_size_stats": {
+      "min_bytes": 4086,
+      "max_bytes": 357411,
+      "mean_bytes": 74435,
+      "median_bytes": 25672
+    },
+    "common_dimensions": [
+      [
+        "640x480",
+        6046
+      ],
+      [
+        "1440x1080",
+        4665
+      ],
+      [
+        "512x512",
+        4386
+      ],
+      [
+        "256x256",
+        1258
+      ],
+      [
+        "700x700",
+        1231
+      ]
+    ]
+  },
+  {
+    "dataset_key": "turmeric_plant_disease_1",
+    "dataset_name": "Turmeric Plant Disease (1)",
+    "crop": "turmeric",
+    "total_images": 1063,
+    "corrupted_count": 0,
+    "zero_byte_count": 0,
+    "rgba_count": 0,
+    "grayscale_count": 0,
+    "tiny_count": 0,
+    "huge_count": 0,
+    "color_modes": {
+      "RGB": 1063
+    },
+    "file_size_stats": {
+      "min_bytes": 91360,
+      "max_bytes": 420505,
+      "mean_bytes": 245896,
+      "median_bytes": 240487
+    },
+    "common_dimensions": [
+      [
+        "1000x1000",
+        1063
+      ]
+    ]
+  },
+  {
+    "dataset_key": "turmeric_advancing_ai_original",
+    "dataset_name": "Turmeric Plant Disease Dataset Advancing AI (Original)",
+    "crop": "turmeric",
+    "total_images": 781,
+    "corrupted_count": 0,
+    "zero_byte_count": 0,
+    "rgba_count": 0,
+    "grayscale_count": 0,
+    "tiny_count": 0,
+    "huge_count": 0,
+    "color_modes": {
+      "RGB": 781
+    },
+    "file_size_stats": {
+      "min_bytes": 115488,
+      "max_bytes": 420505,
+      "mean_bytes": 232068,
+      "median_bytes": 222428
+    },
+    "common_dimensions": [
+      [
+        "1000x1000",
+        781
+      ]
+    ]
+  },
+  {
+    "dataset_key": "turmeric_advancing_ai_augmented",
+    "dataset_name": "Turmeric Plant Disease Dataset Advancing AI (Augmented)",
+    "crop": "turmeric",
+    "total_images": 3702,
+    "corrupted_count": 0,
+    "zero_byte_count": 0,
+    "rgba_count": 0,
+    "grayscale_count": 0,
+    "tiny_count": 0,
+    "huge_count": 0,
+    "color_modes": {
+      "RGB": 3702
+    },
+    "file_size_stats": {
+      "min_bytes": 178248,
+      "max_bytes": 871231,
+      "mean_bytes": 587260,
+      "median_bytes": 600657
+    },
+    "common_dimensions": [
+      [
+        "1000x1000",
+        3702
+      ]
+    ]
+  }
+]

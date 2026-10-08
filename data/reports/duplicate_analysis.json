@@ -1,0 +1,23 @@
+{
+  "total_images_analyzed": 28252,
+  "total_unique_sha256": 25006,
+  "total_exact_duplicate_groups": 3246,
+  "total_redundant_exact_images": 3246,
+  "internal_exact_duplicates_by_dataset": {
+    "lemon_leaf_large_scale": 2645,
+    "turmeric_plant_disease_1": 1,
+    "turmeric_advancing_ai_original": 1
+  },
+  "cross_dataset_exact_duplicates": {
+    "('turmeric_advancing_ai_original', 'turmeric_plant_disease_1')": 599
+  },
+  "total_identical_dhash_groups": 3879,
+  "turmeric_plant_disease_1_vs_advancing_ai_overlap": {
+    "description": "Specific forensic comparison between Turmeric Plant Disease (1) and Advancing AI",
+    "findings": "599 leaf images share 100% bit-for-bit SHA-256 identity. Rhizome Disease Root in Turmeric (1) corresponds to Rhizome Rot in Advancing AI with dHash Hamming distance <= 1."
+  },
+  "citrus_cross_overlap": {
+    "description": "Cross-dataset comparison between A Citrus Fruits and Leaves vs Large-Scale Lemon Leaf",
+    "findings": "0 exact SHA-256 overlap detected between the two Citrus datasets."
+  }
+}

@@ -1,0 +1,2 @@
+# Keep raw datasets directory tracked in Git.
+# Actual raw image datasets must remain uncommitted as per data governance rules.

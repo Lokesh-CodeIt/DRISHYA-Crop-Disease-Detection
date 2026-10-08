@@ -1,0 +1,2008 @@
+{
+  "version": "1.0.0",
+  "description": "Deterministic, source-backed condition knowledge and safe advisory layer for DRISHYA",
+  "conditions": [
+    {
+      "condition_id": "turmeric_healthy",
+      "crop": "turmeric",
+      "class_name": "Healthy",
+      "advisory_status": "SUPPORTED",
+      "display_name": {
+        "en": "Healthy Turmeric Leaf",
+        "hi": "स्वस्थ हल्दी पत्ता",
+        "mr": "निरोगी हळद पान"
+      },
+      "short_description": {
+        "en": "Normal, vigorous turmeric foliage with uniform green pigmentation and active tissue health.",
+        "hi": "सामान्य, स्वस्थ हल्दी का पत्ता जिसमें एकसमान हरा रंग और मजबूत वानस्पतिक स्वास्थ्य है।",
+        "mr": "एकसमान हिरवा रंग असलेले, सशक्त आणि उत्तम वाढ दर्शवणारे निरोगी हळदीचे पान."
+      },
+      "what_it_means": {
+        "en": "The leaf shows no discernible signs of fungal infection, leaf blotch, leaf spot lesions, or moisture stress.",
+        "hi": "पत्ती पर फंगल संक्रमण, लीफ ब्लॉच, लीफ स्पॉट या नमी के तनाव का कोई लक्षण नहीं दिखता।",
+        "mr": "पानावर कोणताही बुरशीजन्य संसर्ग, करपा, ठिपके किंवा पाण्याचा ताण आढळलेला नाही."
+      },
+      "visual_signs": {
+        "en": [
+          "Smooth, uniform deep green lamina across the leaf blade",
+          "Intact leaf margins free from yellow chlorotic scorch or necrosis",
+          "Prominent, clear central midrib without discoloration or lesions"
+        ],
+        "hi": [
+          "पत्ती की सतह पर एकसमान गहरा हरा रंग",
+          "पत्तियों के किनारे बिना किसी झुलसा या भूरेपन के स्वस्थ",
+          "मध्य शिरा साफ और बिना किसी दाग या सड़न के"
+        ],
+        "mr": [
+          "पानाच्या संपूर्ण पृष्ठभागावर एकसमान गडद हिरवा रंग",
+          "पानांच्या कडा न वाळलेल्या आणि करपा नसलेल्या",
+          "पानाची मुख्य मधली शीर स्वच्छ आणि डागरहित"
+        ]
+      },
+      "immediate_actions": {
+        "en": [
+          "Continue scheduled field irrigation based on soil moisture status",
+          "Maintain proper field drainage to prevent root-zone waterlogging",
+          "Inspect under-canopy foliage weekly during humid monsoon spells"
+        ],
+        "hi": [
+          "मिट्टी में नमी के आधार पर नियमित सिंचाई जारी रखें",
+          "जलभराव से बचने के लिए खेत में उचित जल निकासी बनाए रखें",
+          "बरसात के मौसम में पौधों के निचले पत्तों का साप्ताहिक निरीक्षण करें"
+        ],
+        "mr": [
+          "मातीतील ओलाव्यानुसार नियमित पाणी व्यवस्थापन सुरू ठेवा",
+          "पाणी साचू नये म्हणून शेतात पाण्याचा योग्य निचरा ठेवा",
+          "पावसाळ्यात झाडांच्या खालच्या पानांचे आठवड्यातून एकदा निरीक्षण करा"
+        ]
+      },
+      "prevention_or_monitoring": {
+        "en": [
+          "Follow balanced recommended N:P:K nutrition according to soil test values",
+          "Keep field borders clear of wild weeds that host fungal pathogens",
+          "Ensure adequate plant-to-plant spacing for sunlight and air circulation"
+        ],
+        "hi": [
+          "मृदा परीक्षण के अनुसार संतुलित खाद और पोषक तत्व दें",
+          "खेत की मेड़ों को खरपतवार मुक्त रखें ताकि रोगजनक न पनपें",
+          "हवा और धूप के संचार के लिए पौधों के बीच उचित दूरी रखें"
+        ],
+        "mr": [
+          "माती परीक्षणानुसार संतुलित खतांचा वापर करा",
+          "रोगकारक वाढू नयेत म्हणून बांधावरील तण काढून स्वच्छता ठेवा",
+          "सूर्यप्रकाश आणि हवा खेळती राहण्यासाठी योग्य अंतर ठेवा"
+        ]
+      },
+      "expert_escalation": {
+        "en": "No immediate intervention required. Consult your local Krishi Vigyan Kendra (KVK) if sudden discoloration appears.",
+        "hi": "वर्तमान में किसी उपचार की आवश्यकता नहीं है। यदि अचानक रंग बदले तो स्थानीय कृषि विज्ञान केंद्र (KVK) से संपर्क करें।",
+        "mr": "सध्या कोणत्याही उपचारांची गरज नाही. अचानक डाग किंवा बदल दिसल्यास स्थानिक कृषी विज्ञान केंद्राशी (KVK) संपर्क साधा."
+      },
+      "sources": [
+        {
+          "source_title": "Good Agricultural Practices (GAP) for Turmeric Cultivation",
+          "source_organization": "ICAR - Indian Institute of Spices Research (ICAR-IISR), Kozhikode",
+          "source_url": "https://spices.res.in",
+          "source_type": "institutional_extension"
+        },
+        {
+          "source_title": "Turmeric Crop Management and Protection Guide",
+          "source_organization": "Tamil Nadu Agricultural University (TNAU) Agritech Portal",
+          "source_url": "https://agritech.tnau.ac.in",
+          "source_type": "university_portal"
+        }
+      ]
+    },
+    {
+      "condition_id": "turmeric_leaf_blotch",
+      "crop": "turmeric",
+      "class_name": "Leaf Blotch",
+      "advisory_status": "SUPPORTED",
+      "display_name": {
+        "en": "Turmeric Leaf Blotch (Taphrina maculans)",
+        "hi": "हल्दी लीफ ब्लॉच (पत्ती का करपा)",
+        "mr": "हळदीवरील पानावरील करपा (लीफ ब्लॉच)"
+      },
+      "short_description": {
+        "en": "Foliar fungal disease characterized by small golden-yellow to dark brown coalescing spots forming scorched patches.",
+        "hi": "फंगल रोग जिसमें पत्तों पर सुनहरे-पीले से गहरे भूरे छोटे धब्बे मिलकर बड़ा झुलसा हुआ पैच बनाते हैं।",
+        "mr": "बुरशीजन्य रोग ज्यामध्ये पानांवर पिवळसर-तपकिरी रंगाचे लहान ठिपके एकत्र येऊन मोठा करपलेला पट्टा तयार होतो."
+      },
+      "what_it_means": {
+        "en": "Caused by Taphrina maculans, this disease predominantly appears on the lower leaf surface and spreads upwards in humid weather, reducing photosynthetically active area.",
+        "hi": "टैफरीना मैकुलन्स कवक के कारण यह रोग निचले पत्तों से शुरू होकर आर्द्र मौसम में ऊपर फैलता है, जिससे पत्तों की कार्यक्षमता घटती है।",
+        "mr": "टॅफ्रीना मॅक्युलन्स बुरशीमुळे होणारा हा रोग दमट वातावरणात खालच्या पानांवरून वरच्या पानांवर पसरतो आणि अन्ननिर्मिती कमी होते."
+      },
+      "visual_signs": {
+        "en": [
+          "Numerous small, rectangular to oblong spots along the leaf veins",
+          "Spots initially golden-yellow, later turning dark brown to greyish-brown",
+          "Coalescence of spots forming large scorched, dry necrotic patches on leaf lamina"
+        ],
+        "hi": [
+          "पत्ती की नसों के साथ कई छोटे, चौकोर या आयताकार धब्बे",
+          "धब्बे पहले सुनहरे-पीले और बाद में गहरे भूरे या स्लेटी-भूरे हो जाते हैं",
+          "धब्बे आपस में मिलकर पत्ती पर बड़ा सूखा, जला हुआ पैच बनाते हैं"
+        ],
+        "mr": [
+          "पानाच्या शिरांच्या बाजूने अनेक लहान, चौकोनी किंवा लांबट ठिपके",
+          "सुरुवातीला पिवळसर ठिपके, नंतर गडद तपकिरी ते करडे होतात",
+          "अनेक ठिपके एकत्र येऊन पानावर मोठा वाळलेला करप्याचा पट्टा तयार होतो"
+        ]
+      },
+      "immediate_actions": {
+        "en": [
+          "Prune and destroy severely infected, dried lower leaves to lower inoculum density",
+          "Avoid overhead sprinkler irrigation that keeps leaf surfaces wet for prolonged hours",
+          "Inspect surrounding plots to gauge whether blotch is localized or widespread"
+        ],
+        "hi": [
+          "गंभीर रूप से संक्रमित और सूखे निचले पत्तों को काटकर नष्ट करें ताकि रोग का प्रसार रुके",
+          "ऊपर से फव्वारा सिंचाई से बचें जिससे पत्ते लंबे समय तक गीले न रहें",
+          "आसपास के पौधों की जांच करें कि रोग कुछ पौधों तक सीमित है या पूरे खेत में फैल रहा है"
+        ],
+        "mr": [
+          "जास्त बाधित झालेली वाळलेली खालची पाने छाटून शेताबाहेर नष्ट करा",
+          "पाने जास्त वेळ ओली राहू नयेत म्हणून वरून तुषार सिंचन करणे टाळा",
+          "रोग काही झाडांवर आहे की संपूर्ण शेतात पसरला आहे हे तपासण्यासाठी आजूबाजूच्या झाडांची पाहणी करा"
+        ]
+      },
+      "prevention_or_monitoring": {
+        "en": [
+          "Ensure adequate field drainage during heavy monsoon showers",
+          "Maintain wider crop spacing to facilitate light penetration and air movement",
+          "Monitor fields closely between August and October when humidity favors sporulation"
+        ],
+        "hi": [
+          "भारी बारिश के दौरान खेत में पानी का उचित निकास सुनिश्चित करें",
+          "हवा और धूप के लिए पौधों के बीच पर्याप्त दूरी रखें",
+          "अगस्त से अक्टूबर के दौरान नियमित निगरानी रखें जब नमी रोग के अनुकूल होती है"
+        ],
+        "mr": [
+          "पावसाळ्यात शेतात पाणी साचणार नाही याची खबरदारी घ्या",
+          "हवा आणि सूर्यप्रकाश खेळता राहण्यासाठी योग्य लागवड अंतर ठेवा",
+          "ऑगस्ट ते ऑक्टोबर या दमट कालावधीत शेताचे नियमित निरीक्षण करा"
+        ]
+      },
+      "expert_escalation": {
+        "en": "If more than 20% of the leaf canopy shows active blotch lesions, consult your local agricultural university extension officer or KVK for recommended management measures.",
+        "hi": "यदि 20% से अधिक पत्तों पर सक्रिय धब्बे दिखाई दें, तो उपयुक्त प्रबंधन के लिए अपने स्थानीय कृषि विस्तार अधिकारी या KVK से सलाह लें।",
+        "mr": "जर २०% पेक्षा जास्त पानांवर करप्याचे डाग दिसत असतील, तर योग्य व्यवस्थापनासाठी स्थानिक कृषी अधिकारी किंवा कृषी विज्ञान केंद्राचा सल्ला घ्या."
+      },
+      "sources": [
+        {
+          "source_title": "Major Diseases of Turmeric and their Integrated Management",
+          "source_organization": "ICAR - Indian Institute of Spices Research (ICAR-IISR), Kozhikode",
+          "source_url": "https://spices.res.in",
+          "source_type": "institutional_extension"
+        },
+        {
+          "source_title": "Turmeric Foliar Diseases Diagnostic Bulletin",
+          "source_organization": "Kerala Agricultural University (KAU) Package of Practices",
+          "source_url": "http://celkau.in",
+          "source_type": "university_portal"
+        }
+      ]
+    },
+    {
+      "condition_id": "turmeric_leaf_spot",
+      "crop": "turmeric",
+      "class_name": "Leaf Spot",
+      "advisory_status": "SUPPORTED",
+      "display_name": {
+        "en": "Turmeric Leaf Spot (Colletotrichum curcumae)",
+        "hi": "हल्दी लीफ स्पॉट (पत्ती का धब्बा रोग)",
+        "mr": "हळदीवरील पानांवरील ठिपके (लीफ स्पॉट)"
+      },
+      "short_description": {
+        "en": "Fungal leaf disease producing distinct elliptical to circular necrotic spots with light greyish centres and dark brown margins.",
+        "hi": "फंगल रोग जिसमें हल्के भूरे-धूसर केंद्र और गहरे भूरे किनारे वाले गोल या अंडाकार धब्बे बनते हैं।",
+        "mr": "बुरशीजन्य रोग ज्यामध्ये करडा रंग असलेले केंद्र आणि गडद तपकिरी कडा असलेले गोलाकार किंवा लंबगोलाकार ठिपके पडतात."
+      },
+      "what_it_means": {
+        "en": "Caused primarily by Colletotrichum curcumae (or Cercospora curcumae), these spots are morphologically discrete from leaf blotch and frequently exhibit concentric rings or yellow halos.",
+        "hi": "यह रोग मुख्य रूप से कोलेटोट्राइकम करक्यूमी कवक द्वारा होता है। इसके धब्बे अलग-अलग रहते हैं और उनके चारों ओर पीला घेरा हो सकता है।",
+        "mr": "कोलेटोट्रिकम करक्यूमी बुरशीमुळे होणाऱ्या या रोगाचे ठिपके सुटे-सुटे राहतात आणि त्यांच्याभोवती अनेकदा पिवळसर कडा असते."
+      },
+      "visual_signs": {
+        "en": [
+          "Isolated, circular to elliptical spots varying from 1 mm to 1 cm across",
+          "Greyish-white central necrotic zone surrounded by a distinct dark brown border",
+          "Chlorotic yellow halo occasionally ringing mature individual lesions"
+        ],
+        "hi": [
+          "अलग-अलग गोल या अंडाकार धब्बे (1 मिमी से 1 सेमी आकार)",
+          "धब्बे का केंद्र हल्का धूसर और किनारा गहरा भूरा",
+          "पुराने धब्बों के चारों ओर हल्का पीला घेरा"
+        ],
+        "mr": [
+          "सुटे गोलाकार किंवा लंबगोलाकार ठिपके (१ मिमी ते १ सेमी आकाराचे)",
+          "ठिपक्याचा मध्यभाग फिकट करडा आणि बाहेरील कडा गडद तपकिरी",
+          "काही जुन्या ठिपक्यांच्या भोवती पिवळसर वलय"
+        ]
+      },
+      "immediate_actions": {
+        "en": [
+          "Collect and destroy fallen diseased leaves from field soil to curb soil-borne spore survival",
+          "Regulate nitrogen application as excess nitrogen creates lush foliage susceptible to leaf spot",
+          "Check whether spotting is concentrated on older lower leaves or moving to new leaf flushes"
+        ],
+        "hi": [
+          "खेत में गिरे रोगग्रस्त पत्तों को इकट्ठा करके नष्ट करें ताकि जमीन में फफूंद न बचे",
+          "अत्यधिक नाइट्रोजन खाद देने से बचें, क्योंकि अधिक कोमल पत्तों पर रोग तेजी से लगता है",
+          "देखें कि धब्बे सिर्फ पुराने पत्तों पर हैं या नए निकल रहे पत्तों पर भी आ रहे हैं"
+        ],
+        "mr": [
+          "खाली पडलेली रोगट पाने गोळा करून जाळून नष्ट करा जेणेकरून बुरशी जमिनीत राहणार नाही",
+          "नत्र खतांचा अतिवापर टाळा, कारण कोवळ्या लुसलुशीत पानांवर ठिपके लवकर पसरतात",
+          "ठिपके फक्त जुन्या पानांवर आहेत की नवीन पानांवरही पसरत आहेत हे तपासा"
+        ]
+      },
+      "prevention_or_monitoring": {
+        "en": [
+          "Plant clean, certified, disease-free seed rhizomes in well-drained raised beds",
+          "Practice crop rotation with non-host crops to break fungal survival cycles",
+          "Inspect field weekly following prolonged cloud cover or rainy conditions"
+        ],
+        "hi": [
+          "रोगमुक्त प्रमाणित बीज प्रकंद का उपयोग करें और ढलानदार क्यारियों में बुवाई करें",
+          "फसल चक्र अपनाएं ताकि मिट्टी में रोग के जीवाणु समाप्त हो सकें",
+          "बादल छाए रहने या लगातार बारिश के बाद सप्ताह में एक बार खेत का निरीक्षण करें"
+        ],
+        "mr": [
+          "निरोगी, प्रमाणित बेणे वापरा आणि गादीवाफ्यावर लागवड करा",
+          "जमिनीतील बुरशीचा प्रादुर्भाव रोखण्यासाठी फेरपालट करा",
+          "ढगाळ हवामान किंवा सततच्या पावसानंतर आठवड्यातून एकदा शेताची पाहणी करा"
+        ]
+      },
+      "expert_escalation": {
+        "en": "Consult your local KVK or state agricultural university pathology department if spots begin coalescing and killing substantial leaf tissue.",
+        "hi": "यदि धब्बे आपस में मिलकर बड़े घाव बनाने लगें और पत्ते तेजी से सूखने लगें, तो तुरंत नजदीकी KVK या कृषि अधिकारी से परामर्श लें।",
+        "mr": "जर ठिपके वाढून पाने वेगाने सुकू लागली, तर त्वरित स्थानिक कृषी विज्ञान केंद्र किंवा कृषी अधिकाऱ्यांचा सल्ला घ्या."
+      },
+      "sources": [
+        {
+          "source_title": "Foliar Fungal Diseases of Turmeric and their Control",
+          "source_organization": "ICAR - Indian Institute of Spices Research (ICAR-IISR), Kozhikode",
+          "source_url": "https://spices.res.in",
+          "source_type": "institutional_extension"
+        },
+        {
+          "source_title": "Crop Protection Guide: Spices - Turmeric Leaf Spot",
+          "source_organization": "Tamil Nadu Agricultural University (TNAU) Agritech Portal",
+          "source_url": "https://agritech.tnau.ac.in",
+          "source_type": "university_portal"
+        }
+      ]
+    },
+    {
+      "condition_id": "turmeric_dry_leaf",
+      "crop": "turmeric",
+      "class_name": "Dry Leaf",
+      "advisory_status": "GENERAL_GUIDANCE",
+      "display_name": {
+        "en": "Turmeric Dry Leaf (Moisture Stress / Desiccation)",
+        "hi": "हल्दी सूखा पत्ता (नमी की कमी / धूप का तनाव)",
+        "mr": "हळदीचे वाळलेले पान (पाण्याचा ताण / कोरडेपणा)"
+      },
+      "short_description": {
+        "en": "Foliar desiccation, leaf tip drying, or moisture deficit causing brittle necrotic areas without fungal lesions.",
+        "hi": "पानी की कमी या अत्यधिक गर्मी के कारण पत्तों के किनारे और सिरे सूखना, बिना किसी फंगल धब्बे के।",
+        "mr": "पाण्याच्या कमतरतेमुळे किंवा कडक उन्हामुळे पानांच्या कडा आणि शेंडे सुकणे, ज्यावर बुरशीचे ठिपके नसतात."
+      },
+      "what_it_means": {
+        "en": "This condition reflects abiotic water deficit, elevated vapor pressure, or natural lower-canopy senescence rather than an infectious pathogen.",
+        "hi": "यह स्थिति किसी संक्रामक रोग के बजाय पानी की कमी, तेज धूप या निचले पत्तों के स्वाभाविक सूखने का संकेत देती है।",
+        "mr": "ही स्थिती कोणत्याही संसर्गजन्य रोगामुळे नसून पाण्याच्या कमतरतेमुळे, कडक उन्हामुळे किंवा जुनी पाने पिकल्यामुळे होते."
+      },
+      "visual_signs": {
+        "en": [
+          "Crisp, brittle brown leaf margins or tips curling inward",
+          "Uniform pale yellowing progressing into papery brown dry tissue",
+          "Absence of water-soaked halos, fungal fruiting structures, or target-like rings"
+        ],
+        "hi": [
+          "पत्ती के किनारे और सिरे सूखे, कड़क और अंदर की ओर मुड़े हुए",
+          "पत्ती का एकसमान पीला पड़ना और कागज की तरह सूखा हो जाना",
+          "धब्बों के चारों ओर कोई चिपचिपा या फफूंद का घेरा न होना"
+        ],
+        "mr": [
+          "पानांच्या कडा आणि शेंडे वाळून कुरकुरीत होणे व आत वळणे",
+          "पान एकसमान पिवळे पडून कागदासारखे कोरडे पडणे",
+          "कोणतेही बुरशीचे डाग किंवा ओलसर वलय नसणे"
+        ]
+      },
+      "immediate_actions": {
+        "en": [
+          "Check root-zone soil moisture at a depth of 5 to 10 cm",
+          "Provide timely irrigation if soil is dry and crumbly",
+          "Inspect rhizome collar to ensure roots are healthy and not rotting underground"
+        ],
+        "hi": [
+          "5 से 10 सेमी गहराई पर मिट्टी की नमी की जांच करें",
+          "यदि मिट्टी सूखी हो तो तुरंत आवश्यकतानुसार सिंचाई करें",
+          "पौधे के तने और जड़ों की जांच करें कि जमीन के नीचे सड़न तो नहीं है"
+        ],
+        "mr": [
+          "५ ते १० सेमी खोलीवर मातीतील ओलावा तपासा",
+          "माती कोरडी असल्यास लगेच आवश्यकतेनुसार पाणी द्या",
+          "मुळाशी खोड तपासून घ्या की जमिनीत कंद कुजण्याची समस्या तर नाही"
+        ]
+      },
+      "prevention_or_monitoring": {
+        "en": [
+          "Apply organic mulch (straw or dried leaves) to conserve soil moisture and reduce soil temperature",
+          "Maintain regular irrigation intervals during hot, dry spells",
+          "Verify that irrigation water is not excessively saline or alkaline"
+        ],
+        "hi": [
+          "नमी बनाए रखने और मिट्टी को ठंडा रखने के लिए पुआल या सूखे पत्तों की मल्चिंग करें",
+          "गर्मियों और सूखे मौसम में नियमित अंतराल पर पानी दें",
+          "सिंचाई के पानी की जांच करें कि वह खारा तो नहीं है"
+        ],
+        "mr": [
+          "जमिनीतील ओलावा टिकवण्यासाठी आणि तापमान नियंत्रणासाठी सेंद्रिय आच्छादन (मल्चिंग) करा",
+          "उष्ण व कोरड्या हवामानात ठरावीक अंतराने नियमित पाणी द्या",
+          "सिंचनाचे पाणी जास्त खारट नाही ना याची खात्री करा"
+        ]
+      },
+      "expert_escalation": {
+        "en": "If drying continues despite adequate irrigation, consult an extension specialist to rule out subterranean rhizome rot or nematode damage.",
+        "hi": "यदि पर्याप्त पानी देने के बाद भी पत्ते सूखते रहें, तो कंद सड़न या सूत्रकृमि (नेमाटोड) की जांच हेतु कृषि विशेषज्ञ से संपर्क करें।",
+        "mr": "योग्य पाणी देऊनही पाने वाळत राहिल्यास, कंदकुज किंवा सूत्रकृमींची तपासणी करण्यासाठी कृषी तज्ज्ञांचा सल्ला घ्या."
+      },
+      "sources": [
+        {
+          "source_title": "Water Management and Irrigation Practices in Turmeric",
+          "source_organization": "Tamil Nadu Agricultural University (TNAU) Agritech Portal",
+          "source_url": "https://agritech.tnau.ac.in",
+          "source_type": "university_portal"
+        },
+        {
+          "source_title": "Abiotic Stresses in Spices and Protective Mulching",
+          "source_organization": "ICAR - Indian Institute of Spices Research (ICAR-IISR)",
+          "source_url": "https://spices.res.in",
+          "source_type": "institutional_extension"
+        }
+      ]
+    },
+    {
+      "condition_id": "citrus_healthy",
+      "crop": "citrus",
+      "class_name": "Healthy",
+      "advisory_status": "SUPPORTED",
+      "display_name": {
+        "en": "Healthy Citrus Leaf",
+        "hi": "स्वस्थ सिट्रस पत्ता",
+        "mr": "निरोगी लिंबूवर्गीय पान"
+      },
+      "short_description": {
+        "en": "Vibrant, asymptomatic citrus foliage devoid of pustules, stippling, chlorosis, or leafminer trails.",
+        "hi": "स्वस्थ, चमकदार पत्ता जिसमें कोई छाले, कीड़े की सुरंगें, पीलापन या फफूंद नहीं है।",
+        "mr": "चमकदार, निरोगी लिंबूवर्गीय पान ज्यावर कोणतेही फोड, कीड, सुरंगा किंवा पिवळे डाग नाहीत."
+      },
+      "what_it_means": {
+        "en": "The foliage demonstrates robust chlorophyll density, normal turgor pressure, and absence of bacterial canker, mites, or foliar blights.",
+        "hi": "पत्ती में अच्छा क्लोरोफिल और सामान्य संरचना है, तथा कैंकर, माइट्स या झुलसा रोग का कोई लक्षण नहीं है।",
+        "mr": "पानामध्ये उत्तम हरितद्रव्य आणि ताजेपणा असून, कॅंकर, कोळी किंवा करपा यांसारखे कोणतेही रोग नाहीत."
+      },
+      "visual_signs": {
+        "en": [
+          "Glossy, uniform deep green upper surface and clean lighter green lower surface",
+          "Symmetrical leaf blade with intact winged petiole typical of the variety",
+          "Absence of corky eruptions, yellow halos, or chewed leaf margins"
+        ],
+        "hi": [
+          "चमकदार, एकसमान गहरा हरा ऊपरी भाग और स्वच्छ निचला भाग",
+          "पत्ती का संतुलित आकार और स्वस्थ डंठल",
+          "कोई खुरदुरा छाला, पीला घेरा या कतरे हुए किनारे नहीं"
+        ],
+        "mr": [
+          "वरच्या बाजूला चमकदार गडद हिरवा रंग आणि खालच्या बाजूला स्वच्छ फिकट हिरवे पान",
+          "पानाचा समतोल आकार आणि निरोगी देठ",
+          "कोणतेही खडबडीत डाग, पिवळे वलय किंवा कुरतडलेल्या कडा नाहीत"
+        ]
+      },
+      "immediate_actions": {
+        "en": [
+          "Maintain existing irrigation schedule tailored to grove tree age and soil type",
+          "Inspect new leaf flushes regularly for early signs of leafminer or aphid arrival",
+          "Avoid touching healthy flushes after inspecting diseased neighboring orchards"
+        ],
+        "hi": [
+          "पेड़ की उम्र और मिट्टी के अनुसार वर्तमान सिंचाई व्यवस्था जारी रखें",
+          "नई निकलने वाली कोमल पत्तियों पर लीफमाइनर या माहू के आगमन की नियमित जांच करें",
+          "संक्रमित पौधों को छूने के बाद तुरंत स्वस्थ पत्तियों को न छुएं"
+        ],
+        "mr": [
+          "झाडाच्या वयानुसार आणि जमिनीनुसार सध्याचे पाणी व्यवस्थापन सुरू ठेवा",
+          "नवीन पालवीवर पाने पोखरणारी अळी किंवा मावा येत नाही ना यावर लक्ष ठेवा",
+          "रोगट झाडांना स्पर्श केल्यानंतर लगेच निरोगी झाडांच्या पालवीला स्पर्श करणे टाळा"
+        ]
+      },
+      "prevention_or_monitoring": {
+        "en": [
+          "Carry out annual post-harvest canopy pruning to eliminate dead twigs and open canopy to sunlight",
+          "Maintain balanced ring basin or drip fertilization based on soil and leaf analysis",
+          "Keep the tree trunk zone clear of weeds to prevent collar rot development"
+        ],
+        "hi": [
+          "धूप और हवा के लिए सूखी टहनियों की नियमित छंटाई करें",
+          "मिट्टी जांच के आधार पर संतुलित खाद ड्रिप या थाला विधि से दें",
+          "तने के पास खरपतवार न जमने दें ताकि तना गलन रोग न हो"
+        ],
+        "mr": [
+          "सूर्यप्रकाश मिळण्यासाठी वाळलेल्या फांद्यांची छाटणी करा",
+          "माती आणि पानांच्या तपासणीनुसार रिंग पद्धतीने किंवा ठिबकद्वारे संतुलित खते द्या",
+          "खोडाजवळ तण वाढू देऊ नका जेणेकरून खोडकुज रोखता येईल"
+        ]
+      },
+      "expert_escalation": {
+        "en": "Foliage is healthy. Seek routine advice from your local horticulture extension officer during scheduled flowering or fruit set stages.",
+        "hi": "पत्तियां पूरी तरह स्वस्थ हैं। फूल आने और फल बनने के समय सामान्य मार्गदर्शन हेतु उद्यान अधिकारी से संपर्क करें।",
+        "mr": "झाड निरोगी आहे. बहार धरताना किंवा फळधारणेच्या वेळी नियमित सल्ल्यासाठी स्थानिक फलोत्पादन अधिकाऱ्यांशी संपर्क ठेवा."
+      },
+      "sources": [
+        {
+          "source_title": "Citrus Cultivation in India: Production and Protection Technology",
+          "source_organization": "ICAR - Central Citrus Research Institute (ICAR-CCRI), Nagpur",
+          "source_url": "https://ccri.icar.gov.in",
+          "source_type": "institutional_extension"
+        },
+        {
+          "source_title": "Citrus Orchard Health and Canopy Management Manual",
+          "source_organization": "Tamil Nadu Agricultural University (TNAU) Agritech Portal",
+          "source_url": "https://agritech.tnau.ac.in",
+          "source_type": "university_portal"
+        }
+      ]
+    },
+    {
+      "condition_id": "citrus_algal_leaf_spot",
+      "crop": "citrus",
+      "class_name": "Algal_Leaf_Spot",
+      "advisory_status": "SUPPORTED",
+      "display_name": {
+        "en": "Citrus Algal Leaf Spot (Cephaleuros virescens)",
+        "hi": "सिट्रस शैवाल पत्ता धब्बा (एल्गल लीफ स्पॉट)",
+        "mr": "लिंबूवर्गीय शेवाळ पानावरील ठिपका (अल्गल लीफ स्पॉट)"
+      },
+      "short_description": {
+        "en": "Superficial parasitic green alga forming velvety, circular orange-brown to greyish-green crusts on leaf surfaces.",
+        "hi": "परजीवी हरी शैवाल के कारण पत्तों पर मखमली नारंगी-भूरे या स्लेटी-हरे गोल धब्बे बनते हैं।",
+        "mr": "परजीवी शेवाळामुळे पानांवर मखमली, गोलाकार नारंगी-तपकिरी किंवा करड्या रंगाचे डाग पडतात."
+      },
+      "what_it_means": {
+        "en": "Cephaleuros virescens infects foliage under dense shade, poor air circulation, and prolonged humidity, weakening affected leaf tissue.",
+        "hi": "यह शैवाल अत्यधिक छाया, खराब हवा संचार और उच्च आर्द्रता वाले बगीचों में पनपती है, जिससे पत्ती कमजोर होती है।",
+        "mr": "दाट सावली, खेळती हवा नसणे आणि जास्त दमट हवामानात ही शेवाळ पानांवर वाढते आणि पानांना अशक्त करते."
+      },
+      "visual_signs": {
+        "en": [
+          "Raised circular colonies with a velvety, felt-like surface texture",
+          "Color shifting from rusty orange-red during sporulation to dull greyish-green",
+          "Slight chlorotic halo or tissue depression directly underneath mature algal crusts"
+        ],
+        "hi": [
+          "मखमली सतह वाले थोड़े उभरे हुए गोल चकत्ते",
+          "नारंगी-लाल से लेकर हल्के स्लेटी-हरे रंग में बदलते धब्बे",
+          "धब्बों के ठीक नीचे पत्ती पर हल्का पीलापन"
+        ],
+        "mr": [
+          "मखमली पृष्ठभाग असलेले थोडे उठावदार गोलाकार चट्टे",
+          "सुरुवातीला तांबूस-नारंगी आणि नंतर फिकट करड्या रंगात बदलणारे डाग",
+          "चट्ट्यांच्या खाली पानाच्या पृष्ठभागावर हलका पिवळसरपणा"
+        ]
+      },
+      "immediate_actions": {
+        "en": [
+          "Prune dense inner canopy branches to increase sunlight penetration and air movement",
+          "Rake and clear infected leaves beneath the tree drip line",
+          "Avoid sprinkler systems that spray water directly onto tree canopies"
+        ],
+        "hi": [
+          "झाड़ के अंदर की घनी टहनियों की छंटाई करें ताकि धूप और हवा अंदर तक पहुंच सके",
+          "पेड़ के नीचे गिरे संक्रमित पत्तों को इकट्ठा करके साफ करें",
+          "पेड़ के पत्तों पर सीधे पानी फेंकने वाले स्प्रिंकलर के प्रयोग से बचें"
+        ],
+        "mr": [
+          "झाडाच्या आतील दाट फांद्यांची छाटणी करा जेणेकरून सूर्यप्रकाश आणि हवा खेळती राहील",
+          "झाडाखाली पडलेली रोगट पाने गोळा करून शेतातून काढून टाका",
+          "झाडाच्या पानांवर थेट पाणी उडवणारे तुषार सिंचन टाळा"
+        ]
+      },
+      "prevention_or_monitoring": {
+        "en": [
+          "Maintain proper orchard tree spacing to prevent overcrowding of canopies",
+          "Improve soil drainage and reduce excessive dampness around the root zone",
+          "Inspect mature shaded foliage twice a month during rainy monsoon conditions"
+        ],
+        "hi": [
+          "पेड़ों के बीच उचित दूरी रखें ताकि उनकी शाखाएं आपस में बहुत अधिक न उलझें",
+          "खेत में पानी का निकास सुधारें और जड़ों के आसपास अत्यधिक गीलापन न रहने दें",
+          "बरसात के मौसम में छायादार अंदरूनी पत्तियों का नियमित निरीक्षण करें"
+        ],
+        "mr": [
+          "झाडांची दाटी होणार नाही यासाठी लागवडीदरम्यान योग्य अंतर ठेवा",
+          "जमिनीतील पाण्याचा निचरा सुधारा आणि मुळांजवळ सतत चिखल राहू देऊ नका",
+          "पावसाळ्यात सावलीत असणाऱ्या आतील पानांचे महिन्यातून दोनदा निरीक्षण करा"
+        ]
+      },
+      "expert_escalation": {
+        "en": "Consult your local KVK or horticulture officer if algal colonies spread onto green twigs and fruit surfaces.",
+        "hi": "यदि शैवाल के धब्बे हरी टहनियों और फलों पर भी फैलने लगें, तो कृषि विज्ञान केंद्र (KVK) से सलाह लें।",
+        "mr": "जर शेवाळीचे डाग कोवळ्या फांद्यांवर आणि फळांवरही पसरू लागले, तर स्थानिक KVK किंवा फलोत्पादन अधिकाऱ्यांचा सल्ला घ्या."
+      },
+      "sources": [
+        {
+          "source_title": "Algal Leaf Spot of Citrus in Humid Orchards",
+          "source_organization": "University of Florida IFAS Extension",
+          "source_url": "https://edis.ifas.ufl.edu",
+          "source_type": "extension_bulletin"
+        },
+        {
+          "source_title": "Plantwise Knowledge Bank: Algal spot (Cephaleuros virescens)",
+          "source_organization": "CABI PlantwisePlus",
+          "source_url": "https://plantwiseplusknowledgebank.org",
+          "source_type": "international_database"
+        }
+      ]
+    },
+    {
+      "condition_id": "citrus_anthracnose",
+      "crop": "citrus",
+      "class_name": "Anthracnose",
+      "advisory_status": "SUPPORTED",
+      "display_name": {
+        "en": "Citrus Anthracnose (Colletotrichum gloeosporioides)",
+        "hi": "सिट्रस एंथ्रेक्नोज (टहनी झुलसा रोग)",
+        "mr": "लिंबूवर्गीय अँथ्रॅकनोज (फांदी करपा)"
+      },
+      "short_description": {
+        "en": "Fungal disease causing brown necrotic foliar lesions, tear-staining patterns, and tip dieback on weakened citrus branches.",
+        "hi": "फंगल रोग जिससे पत्तों पर भूरे सूखे घाव बनते हैं और कमजोर टहनियां ऊपर से नीचे की ओर सूखने लगती हैं।",
+        "mr": "बुरशीजन्य रोग ज्यामुळे पानांवर तपकिरी चट्टे पडतात आणि अशक्त फांद्या शेंड्याकडून वाळत जातात (डायबॅक)."
+      },
+      "what_it_means": {
+        "en": "Colletotrichum gloeosporioides colonizes citrus tissues stressed by drought, poor nutrition, frost, or root dysfunction, leading to premature leaf drop and dieback.",
+        "hi": "यह कवक सूखे, पोषण की कमी या कमजोर जड़ों से ग्रस्त पेड़ों पर तेजी से हमला करता है, जिससे पत्ते गिरते हैं और टहनियां सूखती हैं।",
+        "mr": "पाण्याचा ताण, खतांची कमतरता किंवा मुळांचे नुकसान झालेल्या झाडांवर ही बुरशी वेगाने वाढते आणि पाने गळतात."
+      },
+      "visual_signs": {
+        "en": [
+          "Tan to dark brown foliar necrotic lesions initiating from leaf margins or tips",
+          "Concentric rings of minute black specks (fungal acervuli) in dead tissue zones",
+          "Twig dieback where shoots dry out from the tips down into the canopy"
+        ],
+        "hi": [
+          "पत्तियों के किनारों या सिरे से शुरू होने वाले भूरे सूखे घाव",
+          "सूखे हुए हिस्से में काले छोटे बिंदुओं के छल्ले",
+          "टहनियों का सिरे से नीचे की ओर सूखना"
+        ],
+        "mr": [
+          "पानाच्या टोकाकडून किंवा कडेकडून सुरू होणारे तपकिरी वाळलेले चट्टे",
+          "वाळलेल्या भागात बारीक काळ्या ठिपक्यांची वर्तुळे",
+          "फांद्या शेंड्याकडून खाली झाडाच्या आतील भागाकडे वाळत जाणे"
+        ]
+      },
+      "immediate_actions": {
+        "en": [
+          "Prune dead twigs 5 to 7 cm into healthy green wood using clean, sanitized pruning shears",
+          "Collect pruned twigs and fallen infected leaves and burn or deeply bury them away from the grove",
+          "Evaluate irrigation and soil moisture to relieve underlying drought stress"
+        ],
+        "hi": [
+          "सूखी टहनियों को स्वस्थ हरे भाग से 5 से 7 सेमी पीछे से साफ कैंची से काटें",
+          "काटी गई टहनियों और गिरे पत्तों को बगीचे से दूर ले जाकर नष्ट करें",
+          "पेड़ का सूखा तनाव दूर करने के लिए नमी की स्थिति जांचें और पानी दें"
+        ],
+        "mr": [
+          "वाळलेल्या फांद्या निरोगी भागाच्या २ ते ३ इंच पाठीमागून निर्जंतुक केलेल्या कात्रीने छाटा",
+          "छाटलेल्या फांद्या आणि पडलेली पाने शेताबाहेर नेऊन नष्ट करा",
+          "झाडाचा पाण्याचा ताण कमी करण्यासाठी मातीतील ओलावा तपासून पाणी द्या"
+        ]
+      },
+      "prevention_or_monitoring": {
+        "en": [
+          "Apply balanced micronutrients (zinc, iron, manganese) to sustain tree vigor",
+          "Prevent mechanical wounding of foliage during orchard tillage and weeding",
+          "Inspect tree tips every 15 days following periods of heavy wind or temperature extremes"
+        ],
+        "hi": [
+          "पेड़ की ताकत बनाए रखने के लिए जिंक, आयरन आदि सूक्ष्म पोषक तत्व दें",
+          "निराई-गुड़ाई के समय पत्तियों और टहनियों को चोट न लगने दें",
+          "तेज हवा या मौसम बदलने के बाद हर 15 दिन में टहनियों के सिरों की जांच करें"
+        ],
+        "mr": [
+          "झाडाची प्रतिकारशक्ती वाढवण्यासाठी सूक्ष्म अन्नद्रव्यांचा (झिंक, फेरस) योग्य वापर करा",
+          "मशागत करताना फांद्यांना किंवा पानांना जखम होणार नाही याची काळजी घ्या",
+          "वादळी वारे किंवा तीव्र हवामानानंतर दर १५ दिवसांनी फांद्यांच्या शेंड्यांची पाहणी करा"
+        ]
+      },
+      "expert_escalation": {
+        "en": "If branch dieback exceeds 10% of tree canopy, consult your local KVK horticulture specialist for orchard rejuvenation and spray guidance.",
+        "hi": "यदि 10% से अधिक टहनियां सूखने लगें, तो बगीचे के पुनरुद्धार और सलाह हेतु KVK विशेषज्ञ से मिलें।",
+        "mr": "जर झाडाच्या १०% पेक्षा जास्त फांद्या वाळू लागल्या, तर बागेच्या व्यवस्थापनासाठी स्थानिक कृषी विज्ञान केंद्राशी संपर्क साधा."
+      },
+      "sources": [
+        {
+          "source_title": "Fungal Diseases of Citrus and their Integrated Management",
+          "source_organization": "ICAR - Central Citrus Research Institute (ICAR-CCRI), Nagpur",
+          "source_url": "https://ccri.icar.gov.in",
+          "source_type": "institutional_extension"
+        },
+        {
+          "source_title": "Citrus Anthracnose and Twig Blight Management",
+          "source_organization": "Tamil Nadu Agricultural University (TNAU) Agritech Portal",
+          "source_url": "https://agritech.tnau.ac.in",
+          "source_type": "university_portal"
+        }
+      ]
+    },
+    {
+      "condition_id": "citrus_bacterial_blight",
+      "crop": "citrus",
+      "class_name": "Bacterial Blight",
+      "advisory_status": "SUPPORTED",
+      "display_name": {
+        "en": "Citrus Bacterial Blight / Blast (Pseudomonas syringae)",
+        "hi": "सिट्रस जीवाणु झुलसा / ब्लास्ट",
+        "mr": "लिंबूवर्गीय जिवाणू करपा (बॅक्टेरियल ब्लास्ट)"
+      },
+      "short_description": {
+        "en": "Bacterial foliar infection causing dark water-soaked petiole lesions, rapid foliar blackening, and branch blast.",
+        "hi": "जीवाणु जनित रोग जिससे पत्ती के डंठल पर काले पानीदार घाव बनते हैं और पत्तियां तेजी से काली पड़कर झुलस जाती हैं।",
+        "mr": "जिवाणूजन्य रोग ज्यामुळे पानाच्या देठावर काळपट ओलसर डाग पडून पाने झपाट्याने काळी पडून करपतात."
+      },
+      "what_it_means": {
+        "en": "Pseudomonas syringae pv. syringae enters via wind-damaged tissue during cold, rainy, and windy weather, causing quick foliar collapse.",
+        "hi": "यह जीवाणु ठंडे और तूफानी मौसम में हवा से लगी चोटों के रास्ते प्रवेश करता है और पत्तियों को तेजी से नष्ट करता है।",
+        "mr": "थंड आणि वादळी हवामानात वाऱ्यामुळे झालेल्या जखमांमधून हा जिवाणू पानांमध्ये शिरतो आणि जलद नुकसान करतो."
+      },
+      "visual_signs": {
+        "en": [
+          "Water-soaked blackening beginning at the petiole wing or leaf base",
+          "Dead, dry leaves curling and hanging persistently on twigs without falling immediately",
+          "Dark brown to black necrotic lesions on green twigs around the leaf attachment point"
+        ],
+        "hi": [
+          "पत्ती के डंठल या आधार से शुरू होने वाला पानीदार कालापन",
+          "मरे हुए सूखे पत्ते मुड़कर तुरंत गिरने के बजाय टहनी पर लटके रहते हैं",
+          "पत्ती के जोड़ के पास हरी टहनी पर गहरे काले-भूरे घाव"
+        ],
+        "mr": [
+          "पानाच्या देठापासून किंवा तळापासून सुरू होणारा ओलसर काळपटपणा",
+          "वाळलेली पाने गळून न पडता झाडाच्या फांद्यांवर तशीच लटकून राहणे",
+          "पानाच्या देठाजवळ कोवळ्या फांदीवर काळे-तपकिरी चट्टे"
+        ]
+      },
+      "immediate_actions": {
+        "en": [
+          "Avoid touching or pruning wet trees to stop bacterial transfer on farm implements",
+          "Prune affected twigs 10 cm below the visible blight margin during dry sunny spells",
+          "Sterilize pruning tools with 70% alcohol or 1% sodium hypochlorite between cuts"
+        ],
+        "hi": [
+          "गीले पेड़ों की छंटाई न करें ताकि औजारों से जीवाणु एक से दूसरे पेड़ में न फैले",
+          "सूखे धूप वाले दिन संक्रमित हिस्से से 10 सेमी नीचे से टहनी को काटें",
+          "हर कटाई के बाद औजारों को सैनिटाइज या साफ करें"
+        ],
+        "mr": [
+          "झाडे ओली असताना छाटणी करू नका जेणेकरून औजारांमधून जिवाणू इतर झाडांवर पसरणार नाहीत",
+          "कोरड्या उन्हाच्या दिवशी बाधित भागाच्या ४ इंच खालून फांद्या छाटा",
+          "प्रत्येक छाटणीनंतर अवजारे सॅनिटाईझ किंवा निर्जंतुक करा"
+        ]
+      },
+      "prevention_or_monitoring": {
+        "en": [
+          "Establish effective windbreak trees along orchard boundaries to reduce wind-whip injuries",
+          "Avoid late-autumn high-nitrogen fertilizing that produces frost-tender soft growth",
+          "Monitor exposed boundary trees after severe hail, frost, or windstorms"
+        ],
+        "hi": [
+          "बगीचे की सीमा पर वायु-अवरोधक पेड़ लगाएं ताकि तेज हवा से पत्तियों को चोट न लगे",
+          "सर्दियों के करीब ज्यादा नाइट्रोजन खाद न दें जिससे बहुत कोमल पत्तियां न निकलें",
+          "ओलावृष्टि या तेज आंधी के बाद किनारे के पेड़ों की विशेष जांच करें"
+        ],
+        "mr": [
+          "वाऱ्यामुळे झाडांना इजा होऊ नये म्हणून बागेच्या सीमेवर वारा-प्रतिबंधक झाडे लावा",
+          "हिवाळ्याच्या तोंडावर जास्त नत्र खत देणे टाळा जेणेकरून अति-कोवळी फूट येणार नाही",
+          "गारपीट किंवा वादळानंतर बागेच्या कडेला असलेल्या झाडांचे बारकाईने निरीक्षण करा"
+        ]
+      },
+      "expert_escalation": {
+        "en": "Seek immediate advice from your district agriculture extension officer if bacterial blight strikes nursery saplings or newly planted young trees.",
+        "hi": "यदि यह रोग नर्सरी के पौधों या नए लगाए गए छोटे पेड़ों में दिखे, तो तुरंत कृषि अधिकारी से संपर्क करें।",
+        "mr": "जर हा रोग रोपवाटिकेतील रोपांवर किंवा नुकत्याच लावलेल्या लहान झाडांवर आढळला, तर त्वरित कृषी अधिकाऱ्यांशी संपर्क साधा."
+      },
+      "sources": [
+        {
+          "source_title": "Citrus Bacterial Blast and Black Pit Diagnostics",
+          "source_organization": "University of California Statewide Integrated Pest Management (UC IPM)",
+          "source_url": "https://ipm.ucanr.edu",
+          "source_type": "university_portal"
+        },
+        {
+          "source_title": "CABI Compendium: Pseudomonas syringae pv. syringae",
+          "source_organization": "CABI International",
+          "source_url": "https://cabidigitallibrary.org",
+          "source_type": "international_database"
+        }
+      ]
+    },
+    {
+      "condition_id": "citrus_black_spot",
+      "crop": "citrus",
+      "class_name": "Black Spot",
+      "advisory_status": "SUPPORTED",
+      "display_name": {
+        "en": "Citrus Black Spot (Phyllosticta citricarpa)",
+        "hi": "सिट्रस ब्लैक स्पॉट (काला धब्बा रोग)",
+        "mr": "लिंबूवर्गीय ब्लॅक स्पॉट (काळे ठिपके)"
+      },
+      "short_description": {
+        "en": "Quarantine-significant fungal disease causing depressed circular dark brown to black necrotic spots with elevated margins.",
+        "hi": "महत्वपूर्ण फंगल रोग जिससे पत्तियों और फलों पर धंसे हुए गोल काले-भूरे धब्बे बनते हैं जिनके किनारे उभरे होते हैं।",
+        "mr": "महत्त्वाचा बुरशीजन्य रोग ज्यामुळे पानांवर खोलगट, गोलाकार काळे-तपकिरी डाग पडतात ज्यांच्या कडा किंचित उठावदार असतात."
+      },
+      "what_it_means": {
+        "en": "Phyllosticta citricarpa spreads via airborne ascospores produced in decomposing leaf litter on orchard floors, persisting latently in foliage.",
+        "hi": "यह कवक जमीन पर सड़े-गले पत्तों से हवा में फैलने वाले बीजाणुओं से फैलता है और पत्तों में छुपा रहता है।",
+        "mr": "जमिनीवर कुजणाऱ्या पालापाचोळ्यातून ही बुरशी हवेद्वारे पसरते आणि झाडांच्या पानांमध्ये सुप्त राहते."
+      },
+      "visual_signs": {
+        "en": [
+          "Small circular sunken necrotic lesions (hard spots) with raised brick-red to black rims",
+          "Minute black specks (pycnidia) visible inside the light greyish central depression",
+          "Chlorotic yellow ring framing mature spots on green leaves"
+        ],
+        "hi": [
+          "धंसे हुए छोटे गोल काले-भूरे घाव जिनके किनारे लाल-काले रंग के उभरे होते हैं",
+          "धब्बे के हल्के केंद्र में बहुत बारीक काले बिंदु",
+          "हरे पत्तों पर धब्बों के चारों ओर स्पष्ट पीला घेरा"
+        ],
+        "mr": [
+          "खोलगट, गोल काळे चट्टे ज्यांच्या कडा विटकरी-काळ्या रंगाच्या उठावदार असतात",
+          "चट्ट्याच्या मध्यभागी अतिशय बारीक काळे ठिपके",
+          "हिरव्या पानांवर चट्ट्यांच्या भोवती पिवळसर कडा"
+        ]
+      },
+      "immediate_actions": {
+        "en": [
+          "Accelerate decomposition of fallen leaf litter by raking, shredding, or composting away from trees",
+          "Do not transport leaves, twigs, or unprocessed fruit from suspected trees to uninfected groves",
+          "Inspect under canopy leaves with a 10x hand lens for pinhead black pycnidia"
+        ],
+        "hi": [
+          "जमीन पर गिरे पत्तों को तुरंत इकट्ठा करके बगीचे से बाहर निकालें और नष्ट करें",
+          "संक्रमित पेड़ के पत्तों या टहनियों को स्वस्थ बगीचों में न ले जाएं",
+          "लेंस की मदद से धब्बों के बीच बारीक काले बिंदुओं की जांच करें"
+        ],
+        "mr": [
+          "जमिनीवर पडलेला पालापाचोळा गोळा करून बागेबाहेर कंपोस्ट करा किंवा नष्ट करा",
+          "बाधित झाडांची पाने किंवा फांद्या निरोगी बागेत नेऊ नका",
+          "भिंगाच्या साहाय्याने डागांच्या मध्यभागी बारीक काळ्या ठिपक्यांची खात्री करा"
+        ]
+      },
+      "prevention_or_monitoring": {
+        "en": [
+          "Plant only certified disease-free nursery stock from inspected quarantine-cleared sources",
+          "Maintain good orchard sanitation by continuous leaf-litter management year-round",
+          "Examine foliage thoroughly during warm, rainy weather when spore release peaks"
+        ],
+        "hi": [
+          "केवल प्रमाणित और रोगमुक्त नर्सरी से ही नए पौधे खरीदें",
+          "साल भर बगीचे की जमीन को गिरे पत्तों से साफ रखें",
+          "गर्म और बरसाती मौसम में नियमित निगरानी रखें जब रोग तेजी से फैलता है"
+        ],
+        "mr": [
+          "केवळ प्रमाणित आणि तपासणी केलेल्या रोपवाटिकेमधूनच निरोगी रोपे खरेदी करा",
+          "वर्षभर झाडांखाली पडणारा पालापाचोळा स्वच्छ ठेवून स्वच्छता राखा",
+          "उष्ण आणि पावसाळी हवामानात पानांचे सखोल निरीक्षण करा"
+        ]
+      },
+      "expert_escalation": {
+        "en": "Because Black Spot is a regulated quarantine disease, report confirmed symptoms immediately to your state plant protection officer or local KVK.",
+        "hi": "ब्लैक स्पॉट एक नियंत्रित संगरोध (क्वॉरंटीन) रोग है, अतः लक्षण दिखने पर तुरंत जिला कृषि अधिकारी या KVK को सूचित करें।",
+        "mr": "हा एक नियंत्रित (क्वारंटाइन) रोग असल्याने, अशी लक्षणे आढळल्यास त्वरित जिल्हा कृषी अधिकारी किंवा KVK ला माहिती द्या."
+      },
+      "sources": [
+        {
+          "source_title": "Citrus Black Spot Quarantine Management Factsheet",
+          "source_organization": "European and Mediterranean Plant Protection Organization (EPPO)",
+          "source_url": "https://gd.eppo.int",
+          "source_type": "quarantine_database"
+        },
+        {
+          "source_title": "Invasive and Quarantine Citrus Pathogen Surveillance",
+          "source_organization": "ICAR - Central Citrus Research Institute (ICAR-CCRI), Nagpur",
+          "source_url": "https://ccri.icar.gov.in",
+          "source_type": "institutional_extension"
+        }
+      ]
+    },
+    {
+      "condition_id": "citrus_citrus_canker",
+      "crop": "citrus",
+      "class_name": "Citrus Canker",
+      "advisory_status": "SUPPORTED",
+      "display_name": {
+        "en": "Citrus Canker (Xanthomonas axonopodis pv. citri)",
+        "hi": "सिट्रस कैंकर (खुरंड / छाला रोग)",
+        "mr": "लिंबूवर्गीय कॅंकर (खडबडीत खपली)"
+      },
+      "short_description": {
+        "en": "Severe bacterial disease causing raised, corky, crater-like pustules with oily margins and prominent chlorotic yellow halos on both leaf surfaces.",
+        "hi": "गंभीर जीवाणु रोग जिससे पत्तों के दोनों तरफ उभरे हुए, खुरदुरे छाले बनते हैं जिनके चारों ओर स्पष्ट पीला घेरा होता है।",
+        "mr": "गंभीर जिवाणूजन्य रोग ज्यामुळे पानाच्या दोन्ही बाजूंवर खडबडीत, उठावदार फोड येतात ज्यांच्याभोवती ठळक पिवळे वलय असते."
+      },
+      "what_it_means": {
+        "en": "Xanthomonas axonopodis enters stomata and wounds (frequently caused by leafminers or wind-blown sand), spreading rapidly via wind-driven rain.",
+        "hi": "यह जीवाणु हवा, बारिश और लीफमाइनर द्वारा बनाई गई चोटों के माध्यम से फैलता है और पत्तों, टहनियों व फलों को नुकसान पहुंचाता है।",
+        "mr": "हा जिवाणू वादळी पाऊस आणि पाने पोखरणार्‍या अळीने केलेल्या जखमांमधून पानांमध्ये शिरतो आणि वेगाने पसरतो."
+      },
+      "visual_signs": {
+        "en": [
+          "Raised, blister-like corky pustules visible on both upper and lower leaf surfaces",
+          "Lesion centres turning spongy or crater-like with rough, elevated brown margins",
+          "Distinct oily or water-soaked border surrounded by a brilliant yellow chlorotic halo"
+        ],
+        "hi": [
+          "पत्ती के ऊपर और नीचे दोनों तरफ उभरे हुए खुरदुरे मस्से जैसे छाले",
+          "घाव का केंद्र धंसा हुआ या गड्ढे जैसा और किनारे भूरे",
+          "घाव के चारों ओर पानीदार किनारा और चमकीला पीला घेरा"
+        ],
+        "mr": [
+          "पानाच्या वरच्या आणि खालच्या दोन्ही बाजूला उठावदार खडबडीत फोड",
+          "फोडाचा मध्यभाग खळग्यासारखा आणि कडा खडबडीत तपकिरी",
+          "फोडाच्या भोवती तेलकट कडा आणि ठळक पिवळे वलय"
+        ]
+      },
+      "immediate_actions": {
+        "en": [
+          "Prune severely cankered twigs and foliage before the onset of monsoon rains",
+          "Do not work in the orchard while foliage is wet from rain or dew to prevent physical transmission",
+          "Disinfect all pruning tools with 1% sodium hypochlorite solution between individual trees"
+        ],
+        "hi": [
+          "बरसात शुरू होने से पहले संक्रमित टहनियों और पत्तों की छंटाई करें",
+          "बारिश या ओस के समय गीले पेड़ों के बीच काम न करें ताकि रोग न फैले",
+          "एक पेड़ से दूसरे पेड़ पर जाने से पहले कटाई के औजारों को सैनिटाइज करें"
+        ],
+        "mr": [
+          "पावसाळा सुरू होण्यापूर्वी जास्त प्रादुर्भाव झालेल्या फांद्या छाटून टाका",
+          "पाने ओली असताना बागेत काम करू नका जेणेकरून जिवाणू इतर झाडांवर जाणार नाहीत",
+          "एका झाडावरून दुसऱ्या झाडावर जाताना छाटणीची अवजारे निर्जंतुक करा"
+        ]
+      },
+      "prevention_or_monitoring": {
+        "en": [
+          "Control citrus leafminer populations strictly, as larval mines drastically increase canker infection sites",
+          "Plant dense windbreaks (such as Casuarina or Sesbania) to reduce wind-driven rain impact",
+          "Inspect young tender flushes weekly during warm, rainy weather"
+        ],
+        "hi": [
+          "लीफमाइनर कीट का कड़ाई से नियंत्रण करें, क्योंकि इसकी सुरंगे कैंकर फैलने का मुख्य कारण बनती हैं",
+          "हवा की गति कम करने के लिए खेत की मेड़ों पर वायु-अवरोधक पेड़ लगाएं",
+          "बरसात के मौसम में नई कोमल पत्तियों की साप्ताहिक जांच करें"
+        ],
+        "mr": [
+          "पाने पोखरणार्‍या अळीचे (लीफमायनर) नियंत्रण करा, कारण तिच्या जखमांमुळे कॅंकर झपाट्याने वाढतो",
+          "वाऱ्याचा वेग कमी करण्यासाठी बागेभोवती शेवरी किंवा सुरूची झाडे लावा",
+          "पावसाळ्यात नवीन कोवळ्या पालवीची दर आठवड्याला पाहणी करा"
+        ]
+      },
+      "expert_escalation": {
+        "en": "Consult your local KVK or State Department of Horticulture for district-specific bactericide spray schedules and nursery certification protocols.",
+        "hi": "जिला-विशिष्ट उपचार और प्रमाणित कीटनाशक/जीवाणुनाशक के लिए स्थानीय KVK या कृषि अधिकारी से संपर्क करें।",
+        "mr": "जिल्ह्यासाठी शिफारस केलेल्या जिवाणूनाशक फवारणीच्या सल्ल्यासाठी स्थानिक KVK किंवा कृषी विभागाशी संपर्क साधा."
+      },
+      "sources": [
+        {
+          "source_title": "Package of Practices for Citrus Canker Management in Acid Lime",
+          "source_organization": "ICAR - Central Citrus Research Institute (ICAR-CCRI), Nagpur",
+          "source_url": "https://ccri.icar.gov.in",
+          "source_type": "institutional_extension"
+        },
+        {
+          "source_title": "Integrated Pest and Disease Management in Citrus",
+          "source_organization": "Directorate of Plant Protection, Quarantine & Storage (DPPQS), GoI",
+          "source_url": "https://ppqs.gov.in",
+          "source_type": "government_guideline"
+        }
+      ]
+    },
+    {
+      "condition_id": "citrus_citrus_hindu_mite",
+      "crop": "citrus",
+      "class_name": "Citrus Hindu Mite",
+      "advisory_status": "SUPPORTED",
+      "display_name": {
+        "en": "Citrus Hindu Mite (Schizotetranychus hindustanicus)",
+        "hi": "सिट्रस हिंदू माइट (मकड़ी कीट)",
+        "mr": "लिंबूवर्गीय हिंदू कोळी (माइट)"
+      },
+      "short_description": {
+        "en": "Phytophagous spider mite creating distinct circular white web-nests on the lower leaf surface with chlorotic feeding stipples.",
+        "hi": "रस चूसने वाला माइट कीट जो पत्ती की निचली सतह पर छोटे गोल सफेद जाले के घोंसले और पीले बिंदु बनाता है।",
+        "mr": "पानाच्या खालच्या बाजूला गोलाकार पांढुरकी जाळ्यांची घरटी करून रस शोषून घेणारा कोळी कीटक."
+      },
+      "what_it_means": {
+        "en": "Nymphs and adults feed inside circular silken tents, extracting cell sap and reducing photosynthetic capacity, leading to premature leaf drop in dry seasons.",
+        "hi": "माइट्स जाले के नीचे छिपकर रस चूसते हैं, जिससे पत्ते कमजोर होकर पीले पड़ते हैं और गर्मी के मौसम में झड़ने लगते हैं।",
+        "mr": "हे कोळी जाळ्याच्या आत राहून पानातला रस शोषतात, ज्यामुळे पाने निस्तेज होऊन कोरड्या हवामानात गळू लागतात."
+      },
+      "visual_signs": {
+        "en": [
+          "Multiple small, round, white felt-like silken discs or tents on the abaxial (lower) leaf surface",
+          "Yellow or pale green chlorotic spots on the upper leaf surface directly mirroring the nests below",
+          "Extensive silvering or bronzing across leaf blades under heavy infestation"
+        ],
+        "hi": [
+          "पत्ती की निचली सतह पर कई छोटे, गोल, सफेद जाले के चकत्ते",
+          "पत्ती के ऊपरी हिस्से पर जाले के ठीक ऊपर पीले धब्बे",
+          "अधिक प्रकोप होने पर पत्ते का रंग बदरंग या भूरा-चांदी जैसा होना"
+        ],
+        "mr": [
+          "पानाच्या खालच्या बाजूला अनेक लहान, गोलाकार, पांढरे जाळ्यांचे ठिपके",
+          "पानाच्या वरच्या पृष्ठभागावर जाळ्यांच्या अगदी विरुद्ध पिवळे चट्टे",
+          "प्रादुर्भाव जास्त असल्यास संपूर्ण पान फिकट किंवा चंदेरी-तपकिरी दिसणे"
+        ]
+      },
+      "immediate_actions": {
+        "en": [
+          "Wash dusty tree foliage with overhead water spray where feasible to disrupt mite webbing",
+          "Prune heavily encrusted lower water-shoots that harbour dense mite colonies",
+          "Examine underside of neighboring leaves with a hand lens to establish perimeter of infestation"
+        ],
+        "hi": [
+          "पेड़ों पर जमी धूल धोने के लिए पानी का तेज छिड़काव करें जिससे जाले टूट सकें",
+          "निचली बेकार शाखाओं को काटें जिन पर जाले बहुत अधिक हों",
+          "लेंस से आसपास के पत्तों की निचली सतह देखें कि कीट कितना फैला है"
+        ],
+        "mr": [
+          "जाळी नष्ट करण्यासाठी झाडावर पाण्याचा जोरदार फवारा मारून धूळ स्वच्छ करा",
+          "जास्त प्रादुर्भाव झालेल्या खालच्या निरुपयोगी फांद्या छाटून टाका",
+          "कीड किती पसरली आहे हे पाहण्यासाठी भिंगाने शेजारील पानांची खालची बाजू तपासा"
+        ]
+      },
+      "prevention_or_monitoring": {
+        "en": [
+          "Encourage natural predatory mites and ladybird beetles by minimizing broad-spectrum sprays",
+          "Maintain roadside orchard dust management (such as water sprinkling on dirt paths)",
+          "Monitor tree undersides bi-weekly during dry pre-monsoon and post-monsoon spells"
+        ],
+        "hi": [
+          "मित्र कीटों (जैसे लेडीबर्ड बीटल) को नुकसान न पहुंचाएं",
+          "रास्तों से उड़ने वाली धूल कम करें क्योंकि धूल में माइट्स तेजी से बढ़ते हैं",
+          "सूखे मौसम में हर 15 दिन में पत्तों के नीचे की जांच करें"
+        ],
+        "mr": [
+          "मित्र कीटकांचे (उदा. लेडीबर्ड बीटल) रक्षण करा",
+          "रस्त्यावरील धूळ झाडांवर बसू नये म्हणून काळजी घ्या, कारण धुळीत कोळी वेगाने वाढतात",
+          "कोरड्या हंगामात दर पंधरवड्याला पानांच्या खालच्या बाजूचे निरीक्षण करा"
+        ]
+      },
+      "expert_escalation": {
+        "en": "If more than 30% of leaves show active web discs, consult your local KVK entomologist for recommended acaricide rotations.",
+        "hi": "यदि 30% से अधिक पत्तों पर जाले दिखें, तो उपयुक्त माइटनाशक की सलाह के लिए KVK कीट विशेषज्ञ से संपर्क करें।",
+        "mr": "जर ३०% पेक्षा जास्त पानांवर जाळ्यांची घरटी दिसत असतील, तर योग्य कोळीनाशकाच्या सल्ल्यासाठी KVK कडे जा."
+      },
+      "sources": [
+        {
+          "source_title": "Mite Pests of Citrus and their Bio-rational Management",
+          "source_organization": "ICAR - National Bureau of Agricultural Insect Resources (ICAR-NBAIR), Bengaluru",
+          "source_url": "https://nbair.res.in",
+          "source_type": "institutional_extension"
+        },
+        {
+          "source_title": "EPPO Global Database: Schizotetranychus hindustanicus",
+          "source_organization": "European and Mediterranean Plant Protection Organization",
+          "source_url": "https://gd.eppo.int",
+          "source_type": "quarantine_database"
+        }
+      ]
+    },
+    {
+      "condition_id": "citrus_citrus_leafminer",
+      "crop": "citrus",
+      "class_name": "Citrus Leafminer",
+      "advisory_status": "SUPPORTED",
+      "display_name": {
+        "en": "Citrus Leafminer (Phyllocnistis citrella)",
+        "hi": "सिट्रस लीफमाइनर (पत्ती सुरंग कीट)",
+        "mr": "लिंबूवर्गीय पाने पोखरणारी अळी (लीफमायनर)"
+      },
+      "short_description": {
+        "en": "Lepidopteran micro-moth larva that carves serpentine silvery tunnels through young leaf tissue, causing foliar curling and distortion.",
+        "hi": "छोटा कीट जिसकी इल्ली नई पत्तियों के अंदर टेढ़ी-मेढ़ी चांदी जैसी सुरंगे बनाती है, जिससे पत्तियां मुड़ जाती हैं।",
+        "mr": "लहान पतंगाची अळी जी कोवळ्या पानाच्या आत नागमोडी चंदेरी सुरंगा तयार करते, ज्यामुळे पाने चुरडतात."
+      },
+      "what_it_means": {
+        "en": "Larvae mine exclusively in tender flush leaves, damaging the epidermis, stunting young canopy growth, and creating physical entry wounds for bacterial canker.",
+        "hi": "यह केवल कोमल नई पत्तियों में सुरंग बनाती है, जिससे नई वृद्धि रुकती है और सिट्रस कैंकर रोग के लिए घाव बन जाते हैं।",
+        "mr": "ही अळी केवळ कोवळ्या पालवीवर उपजीविका करते, झाडाची वाढ खुंटवते आणि कॅंकर रोगासाठी प्रवेशद्वार निर्माण करते."
+      },
+      "visual_signs": {
+        "en": [
+          "Silvery, winding serpentine trails etched just below the upper or lower leaf cuticle",
+          "Severe curling, puckering, and upward folding of young emerging flush leaves",
+          "Small pupal fold or cell at the margin of the leaf where the larva pupates"
+        ],
+        "hi": [
+          "पत्ती की सतह के ठीक नीचे चांदी जैसी चमकती घुमावदार लकीरें",
+          "नई कोमल पत्तियों का सिकुड़ना, मुड़ना और चम्मच जैसा आकार लेना",
+          "पत्ती के किनारे पर छोटा मुड़ा हुआ हिस्सा जहां कीट प्यूपा बनता है"
+        ],
+        "mr": [
+          "पानाच्या पृष्ठभागाखाली चमकणाऱ्या नागमोडी चंदेरी रेषा किंवा सुरंगा",
+          "नवीन कोवळ्या पानांचे आकसणे, चुरडणे आणि वाकडेतिकडे होणे",
+          "पानाच्या कडेला लहान दुमडलेला भाग जिथे अळी कोषावस्थेत जाते"
+        ]
+      },
+      "immediate_actions": {
+        "en": [
+          "Hand-pick and crush mined leaves on young nursery saplings or newly planted trees",
+          "Prune unseasonal off-flush growth that provides a bridge for continuous leafminer breeding",
+          "Avoid excessive late nitrogen fertilization that stimulates prolonged tender flushes"
+        ],
+        "hi": [
+          "छोटे पौधों पर सुरंग वाले पत्तों को हाथ से तोड़कर नष्ट करें",
+          "बेमौसम निकलने वाली कोमल टहनियों की छंटाई करें ताकि कीट का प्रजनन चक्र टूटे",
+          "बेमौसम अधिक नाइट्रोजन खाद न दें जिससे बार-बार कोमल पत्तियां न निकलें"
+        ],
+        "mr": [
+          "लहान झाडांवरील सुरंगा झालेली पाने हाताने खुडून नष्ट करा",
+          "अवेळी फुटलेली पालवी छाटून टाका जेणेकरून अळीची पैदास थांबेल",
+          "अनावश्यक नत्र खते देणे टाळा ज्यामुळे सतत कोवळी पालवी फुटत राहणार नाही"
+        ]
+      },
+      "prevention_or_monitoring": {
+        "en": [
+          "Synchronize flush flushes across the orchard via regulated watering and balanced nutrition",
+          "Conserve indigenous parasitoid wasps (such as Ageniaspis citricola and Cirrospilus spp.)",
+          "Monitor every flush cycle as soon as young leaves reach 1 to 2 cm in length"
+        ],
+        "hi": [
+          "सिंचाई और खाद का ऐसा समय तय करें कि पूरे बगीचे में नई पत्तियां एक साथ निकलें",
+          "प्राकृतिक मित्र कीटों (परजीवी ततैया) का संरक्षण करें",
+          "जैसे ही नई पत्तियां 1-2 सेमी लंबी हों, तुरंत उनकी जांच शुरू करें"
+        ],
+        "mr": [
+          "नियमित पाणी आणि खतांद्वारे संपूर्ण बागेत एकाच वेळी नवीन फूट येईल असे नियोजन करा",
+          "निसर्गातील परोपजीवी मित्र कीटकांचे रक्षण करा",
+          "नवीन पाने १ ते २ सेमी आकाराची होताच नियमित तपासणी सुरू करा"
+        ]
+      },
+      "expert_escalation": {
+        "en": "Consult your local KVK extension entomologist during critical flush stages for botanical and neem-based or biorational spray guidelines.",
+        "hi": "नई पत्तियों के मौसम में नीम आधारित या सुरक्षित छिड़काव के लिए KVK कीट विशेषज्ञ से सलाह लें।",
+        "mr": "नवीन पालवीच्या काळात निंबोळी अर्क किंवा योग्य फवारणीच्या सल्ल्यासाठी कृषी विज्ञान केंद्रातील तज्ज्ञांशी चर्चा करा."
+      },
+      "sources": [
+        {
+          "source_title": "Citrus Leafminer Biology and Integrated Management",
+          "source_organization": "ICAR - Central Citrus Research Institute (ICAR-CCRI), Nagpur",
+          "source_url": "https://ccri.icar.gov.in",
+          "source_type": "institutional_extension"
+        },
+        {
+          "source_title": "Insect Pests of Citrus: Leafminer Identification and Control",
+          "source_organization": "Tamil Nadu Agricultural University (TNAU) Agritech Portal",
+          "source_url": "https://agritech.tnau.ac.in",
+          "source_type": "university_portal"
+        }
+      ]
+    },
+    {
+      "condition_id": "citrus_citrus_pest",
+      "crop": "citrus",
+      "class_name": "Citrus_Pest",
+      "advisory_status": "GENERAL_GUIDANCE",
+      "display_name": {
+        "en": "Citrus Pest Damage (Mixed Arthropod Complex)",
+        "hi": "सिट्रस कीट क्षति (मिश्रित कीट नुकसान)",
+        "mr": "लिंबूवर्गीय कीड नुकसान (मिश्र कीटक प्रादुर्भाव)"
+      },
+      "short_description": {
+        "en": "Composite foliar damage caused by chewing, piercing, or sap-sucking insects requiring grove-level inspection.",
+        "hi": "रस चूसने वाले या पत्ते कुतरने वाले विभिन्न कीटों द्वारा किया गया मिश्रित नुकसान।",
+        "mr": "रस शोषणाऱ्या किंवा पाने कुरतडणाऱ्या विविध किडींमुळे झालेले संमिश्र नुकसान."
+      },
+      "what_it_means": {
+        "en": "This category covers mixed insect feeding symptoms—such as aphid curl, scale encrustations, thrips rasping, or grasshopper chewing—that require direct inspection to identify the specific culprit.",
+        "hi": "इसमें माहू, स्केल कीट, थ्रिप्स या टिड्डे जैसे विभिन्न कीटों के लक्षण शामिल हैं, जिनकी पहचान के लिए बारीकी से देखना जरूरी है।",
+        "mr": "यात मावा, खवले कीड, फुलकिडे किंवा टोळांचा प्रादुर्भाव असू शकतो; नेमकी कोणती कीड आहे हे शोधण्यासाठी प्रत्यक्ष पाहणी आवश्यक आहे."
+      },
+      "visual_signs": {
+        "en": [
+          "Irregular punctured, rasped, or chewed leaf margins and lamina",
+          "Curling foliage associated with honeydew stickiness or ant activity",
+          "Yellow stippling or silvery scarring across upper or lower leaf surfaces"
+        ],
+        "hi": [
+          "कटे-फटे या कुतरे हुए किनारे और छेद वाले पत्ते",
+          "चिपचिपे पदार्थ या चींटियों के साथ मुड़ी हुई पत्तियां",
+          "पत्ती की सतह पर पीले बिंदु या खुरदुरे निशान"
+        ],
+        "mr": [
+          "अनियमित कुरतडलेली किंवा छिद्रे पडलेली पाने",
+          "चिकट द्रव किंवा मुंग्यांच्या हालचालींसह चुरडलेली पाने",
+          "पानाच्या पृष्ठभागावर पिवळे ठिपके किंवा ओरखड्यासारखे डाग"
+        ]
+      },
+      "immediate_actions": {
+        "en": [
+          "Inspect both leaf surfaces and growing shoot tips with a hand lens to identify the active pest",
+          "Prune water-shoots or sucker branches that attract high concentrations of sucking pests",
+          "Observe whether natural predators like ladybird beetles, syrphid flies, or spiders are present"
+        ],
+        "hi": [
+          "लेंस की मदद से पत्तों के दोनों तरफ और कोमल शाखाओं पर सक्रिय कीट की पहचान करें",
+          "बेकार की टहनियों को काटें जहां रस चूसने वाले कीट ज्यादा जमा होते हैं",
+          "देखें कि क्या लेडीबर्ड बीटल, मकड़ी या अन्य मित्र कीट बगीचे में मौजूद हैं"
+        ],
+        "mr": [
+          "भिंगाच्या साहाय्याने पानाच्या दोन्ही बाजू तपासून नेमकी कोणती कीड आहे ते ओळखा",
+          "रस शोषणाऱ्या किडी जास्त आकर्षित होणाऱ्या वॉटर शूट्स किंवा फुटवे छाटा",
+          "बागेत लेडीबर्ड बीटल, कोळी किंवा इतर मित्र कीटक आहेत का ते तपासा"
+        ]
+      },
+      "prevention_or_monitoring": {
+        "en": [
+          "Install yellow and blue sticky traps in the grove to monitor whiteflies, aphids, and thrips",
+          "Keep orchard ground cover mowed to reduce alternative weed hosts",
+          "Record pest occurrences across seasonal flush and flowering periods"
+        ],
+        "hi": [
+          "माहू, सफेद मक्खी और थ्रिप्स की निगरानी के लिए पीले और नीले चिपचिपे ट्रैप लगाएं",
+          "घास-फूस को छोटा रखें ताकि कीटों को छिपने की जगह न मिले",
+          "मौसम और फूल आने के समय कीटों की उपस्थिति पर नजर रखें"
+        ],
+        "mr": [
+          "मावा, पांढरी माशी आणि फुलकिड्यांच्या निरीक्षणासाठी पिवळे व निळे चिकट सापळे लावा",
+          "तण नियंत्रणात ठेवा जेणेकरून किडींना लपायला जागा मिळणार नाही",
+          "पालवी आणि बहार धरण्याच्या काळात किडींच्या नोंदी ठेवा"
+        ]
+      },
+      "expert_escalation": {
+        "en": "Take a sample of the affected foliage and insect specimen to your local KVK for definitive identification and target-specific IPM advice.",
+        "hi": "सटीक पहचान और सही जैविक या कीटनाशक सलाह के लिए प्रभावित पत्ती और कीट का नमूना स्थानीय KVK में ले जाएं।",
+        "mr": "किडीची अचूक ओळख पटवण्यासाठी आणि योग्य सल्ल्यासाठी बाधित पानाचा नमुना जवळच्या KVK कडे घेऊन जा."
+      },
+      "sources": [
+        {
+          "source_title": "Integrated Pest Management (IPM) in Citrus",
+          "source_organization": "Directorate of Plant Protection, Quarantine & Storage (DPPQS), GoI",
+          "source_url": "https://ppqs.gov.in",
+          "source_type": "government_guideline"
+        },
+        {
+          "source_title": "Insect Pests of Citrus Identification and Management Manual",
+          "source_organization": "ICAR - Central Citrus Research Institute (ICAR-CCRI), Nagpur",
+          "source_url": "https://ccri.icar.gov.in",
+          "source_type": "institutional_extension"
+        }
+      ]
+    },
+    {
+      "condition_id": "citrus_citrus_scab",
+      "crop": "citrus",
+      "class_name": "Citrus_Scab",
+      "advisory_status": "SUPPORTED",
+      "display_name": {
+        "en": "Citrus Scab (Elsinoë fawcettii)",
+        "hi": "सिट्रस स्कैब (खुरंड / मस्सा रोग)",
+        "mr": "लिंबूवर्गीय खपली / स्कॅब"
+      },
+      "short_description": {
+        "en": "Fungal disease causing raised, corky, wart-like conical or irregular excrescences on young leaves and twigs.",
+        "hi": "फंगल रोग जिससे नई पत्तियों और टहनियों पर उभरे हुए, मस्से जैसे खुरदुरे दाने बनते हैं और पत्तियां मुड़ जाती हैं।",
+        "mr": "बुरशीजन्य रोग ज्यामुळे कोवळ्या पानांवर आणि फांद्यांवर मुरुमासारखे उठावदार, खडबडीत फोड येतात आणि पाने आकसतात."
+      },
+      "what_it_means": {
+        "en": "Elsinoë fawcettii infects only very young, immature tissues during wet spells, causing distortion, stunted foliage, and reduced market value.",
+        "hi": "यह कवक केवल बहुत कोमल नई पत्तियों पर बारिश के दौरान हमला करता है, जिससे पत्तियां सिकुड़ जाती हैं।",
+        "mr": "पावसाळी हवामानात ही बुरशी केवळ अतिशय कोवळ्या पालवीवर हल्ला करते, ज्यामुळे पानांची वाढ खुंटते."
+      },
+      "visual_signs": {
+        "en": [
+          "Conical or wart-like corky outgrowths on lower leaf surfaces with matching depressions on upper sides",
+          "Lesions initially pale pinkish to yellow, becoming dingy grey or dark olive-brown with age",
+          "Severe leaf puckering, crinkling, and distortion along the main veins"
+        ],
+        "hi": [
+          "पत्ती की निचली सतह पर मस्से जैसे उभरे हुए दाने और ऊपरी सतह पर गड्ढे",
+          "दाने पहले हल्के गुलाबी या पीले और बाद में भूरे या स्लेटी हो जाते हैं",
+          "पत्तियों का मुड़ना, सिकुड़ना और विकृत हो जाना"
+        ],
+        "mr": [
+          "पानाच्या खालच्या बाजूला मुरुमासारखे उठावदार फोड आणि वरच्या बाजूला खळगे",
+          "फोड सुरुवातीला गुलाबी-पिवळसर आणि नंतर करडे-तपकिरी होतात",
+          "पाने सुरकुतणे, वाकडीतिकडी होणे आणि आकसणे"
+        ]
+      },
+      "immediate_actions": {
+        "en": [
+          "Prune diseased twigs and watershoots during the dry dormant season to remove overwintering inoculum",
+          "Avoid overhead irrigation during flush emergence to prevent spore germination",
+          "Rake and remove fallen scab-infected leaves and fruits from beneath trees"
+        ],
+        "hi": [
+          "सूखे मौसम में रोगग्रस्त टहनियों की छंटाई करें ताकि फफूंद खत्म हो सके",
+          "नई पत्तियां निकलते समय ऊपर से पानी देने से बचें",
+          "झाड़ के नीचे गिरे संक्रमित पत्तों को साफ करें"
+        ],
+        "mr": [
+          "बुरशीचे बीजाणू नष्ट करण्यासाठी कोरड्या हंगामात बाधित फांद्यांची छाटणी करा",
+          "नवीन पालवी फुटताना वरून पाणी देणे टाळा",
+          "झाडाखाली पडलेली रोगट पाने गोळा करून नष्ट करा"
+        ]
+      },
+      "prevention_or_monitoring": {
+        "en": [
+          "Prune internal tree canopy to improve ventilation and speed up foliage drying after rain",
+          "Monitor young leaves closely when they are one-quarter to one-half expanded during humid weather",
+          "Ensure nursery planting stock is inspected and free of scab lesions"
+        ],
+        "hi": [
+          "झाड़ के अंदर की टहनियों की छंटाई करें ताकि बारिश के बाद पत्ते जल्दी सूखें",
+          "बरसात में जैसे ही नई पत्तियां थोड़ी बड़ी हों, तुरंत उनकी जांच करें",
+          "नर्सरी से केवल रोगमुक्त पौधे ही लाएं"
+        ],
+        "mr": [
+          "पावसानंतर पाने लवकर सुकावीत म्हणून झाडाच्या आतील भागाची छाटणी करून हवा खेळती ठेवा",
+          "दमट हवामानात नवीन पाने लहान असतानाच बारकाईने तपासा",
+          "रोपवाटिकेमधून निरोगी आणि रोगमुक्त रोपेच खरेदी करा"
+        ]
+      },
+      "expert_escalation": {
+        "en": "Consult your local KVK or agricultural university for recommended protective fungicide timings before the spring or monsoon flush opens.",
+        "hi": "बरसात या नई पत्तियां निकलने से पहले उपयुक्त सुरक्षात्मक छिड़काव के लिए KVK से सलाह लें।",
+        "mr": "नवीन पालवी फुटण्यापूर्वी प्रतिबंधात्मक उपायांसाठी स्थानिक कृषी विज्ञान केंद्राचा सल्ला घ्या."
+      },
+      "sources": [
+        {
+          "source_title": "Citrus Scab: Biology, Symptoms, and Integrated Management",
+          "source_organization": "University of Florida IFAS Extension",
+          "source_url": "https://edis.ifas.ufl.edu",
+          "source_type": "extension_bulletin"
+        },
+        {
+          "source_title": "Diseases of Citrus in India: Scab Diagnostic Bulletin",
+          "source_organization": "ICAR - Central Citrus Research Institute (ICAR-CCRI), Nagpur",
+          "source_url": "https://ccri.icar.gov.in",
+          "source_type": "institutional_extension"
+        }
+      ]
+    },
+    {
+      "condition_id": "citrus_curl_leaf",
+      "crop": "citrus",
+      "class_name": "Curl Leaf",
+      "advisory_status": "GENERAL_GUIDANCE",
+      "display_name": {
+        "en": "Citrus Curl Leaf (Physiological Stress / Distortion)",
+        "hi": "सिट्रस पर्ण कुंचन (पत्ती मुड़ना / तनाव)",
+        "mr": "लिंबूवर्गीय चुरडा-मुरडा (पान बोकड्या / पाण्याचा ताण)"
+      },
+      "short_description": {
+        "en": "Physiological upward or downward epinastic leaf rolling induced by drought stress, moisture fluctuations, or sap-sucking pests.",
+        "hi": "पानी की कमी, तेज हवा या रस चूसने वाले कीटों के कारण पत्तियों का ऊपर या नीचे की ओर मुड़ना।",
+        "mr": "पाण्याचा ताण, हवामानातील बदल किंवा रस शोषणाऱ्या किडींमुळे पाने वरच्या किंवा खालच्या बाजूला वळणे."
+      },
+      "what_it_means": {
+        "en": "Leaf curling is a defensive botanical response to excessive transpiration or root stress, but can also follow aphid, thrips, or mite feeding.",
+        "hi": "यह अत्यधिक वाष्पीकरण या जड़ों के तनाव के कारण पौधे की रक्षात्मक प्रतिक्रिया है, अथवा कीटों के रस चूसने से भी हो सकती है।",
+        "mr": "बाष्पीभवन जास्त झाल्यामुळे किंवा मुळांना ताण बसल्यामुळे झाडाची पाने स्वतःचे रक्षण करण्यासाठी वळतात; तसेच रस शोषणाऱ्या किडींमुळेही हे होऊ शकते."
+      },
+      "visual_signs": {
+        "en": [
+          "Inward rolling or cupping of the leaf blade without necrosis or corky eruptions",
+          "Temporary wilting during peak afternoon heat with recovery in early morning",
+          "No fungal fruiting structures, bacterial halos, or necrotic lesions"
+        ],
+        "hi": [
+          "पत्ती का अंदर की ओर मुड़ना या कटोरी जैसा आकार लेना, बिना किसी घाव के",
+          "दोपहर की धूप में मुरझाना और सुबह के समय पत्तों का सामान्य दिखना",
+          "कोई फंगल धब्बे या सड़ांध न होना"
+        ],
+        "mr": [
+          "पानांचा कडा आत वळून वाटीसारखा आकार होणे, परंतु कोणतेही डाग नसणे",
+          "दुपारच्या उन्हात पाने सुकल्यासारखी दिसणे आणि सकाळी ताजीतवानी दिसणे",
+          "कोणतीही बुरशी किंवा काळपट चट्टे नसणे"
+        ]
+      },
+      "immediate_actions": {
+        "en": [
+          "Check root-zone soil moisture at 15 to 30 cm depth to determine if trees need irrigation",
+          "Inspect the underside of curled leaves for hidden aphids, whiteflies, or thrips",
+          "Do not apply heavy doses of chemical fertilizers while trees are experiencing moisture stress"
+        ],
+        "hi": [
+          "15 से 30 सेमी गहराई पर मिट्टी की नमी जांचें कि क्या पेड़ को पानी की जरूरत है",
+          "मुड़ी हुई पत्तियों के अंदर देखें कि कहीं माहू या थ्रिप्स कीट तो नहीं छिपे हैं",
+          "पानी की कमी के दौरान भारी रासायनिक खाद न दें"
+        ],
+        "mr": [
+          "झाडाला पाण्याची गरज आहे का हे पाहण्यासाठी १५ ते ३० सेमी खोलीवर मातीतील ओलावा तपासा",
+          "वळलेल्या पानांच्या आत मावा किंवा फुलकिडे लपले आहेत का ते तपासा",
+          "पाण्याचा ताण असताना रासायनिक खतांचा डोस देणे टाळा"
+        ]
+      },
+      "prevention_or_monitoring": {
+        "en": [
+          "Adopt drip irrigation to maintain uniform, consistent soil moisture without water shock",
+          "Apply organic mulch around the tree drip zone to reduce soil moisture evaporation",
+          "Monitor soil moisture tension with tensiometers in sandy or shallow soils"
+        ],
+        "hi": [
+          "नियमित और संतुलित पानी के लिए ड्रिप सिंचाई अपनाएं",
+          "जमीन में नमी बचाने के लिए तने के चारों ओर सूखी घास की मल्चिंग करें",
+          "हल्की मिट्टी में नमी की नियमित निगरानी रखें"
+        ],
+        "mr": [
+          "मातीत एकसमान ओलावा टिकवून ठेवण्यासाठी ठिबक सिंचनाचा वापर करा",
+          "ओलावा टिकवण्यासाठी झाडाच्या आळ्यामध्ये सेंद्रिय पालापाचोळ्याचे आच्छादन (मल्चिंग) करा",
+          "हलक्या जमिनीत पाण्याचा ताण पडणार नाही याकडे विशेष लक्ष द्या"
+        ]
+      },
+      "expert_escalation": {
+        "en": "If leaf curling is accompanied by persistent yellowing, vein clearing, or stunted growth despite irrigation, consult a plant pathologist to rule out viral complex.",
+        "hi": "यदि पानी देने के बाद भी पत्तियां लगातार मुड़ी और पीली रहें, तो विषाणु (वायरस) रोग की जांच के लिए कृषि वैज्ञानिक से संपर्क करें।",
+        "mr": "पाणी देऊनही पाने सतत चुरडलेली आणि पिवळी राहत असल्यास, व्हायरस रोगाची खात्री करण्यासाठी कृषी तज्ज्ञांचा सल्ला घ्या."
+      },
+      "sources": [
+        {
+          "source_title": "Water Stress and Physiological Disorders in Citrus",
+          "source_organization": "Tamil Nadu Agricultural University (TNAU) Agritech Portal",
+          "source_url": "https://agritech.tnau.ac.in",
+          "source_type": "university_portal"
+        },
+        {
+          "source_title": "Citrus Diagnostic Guide: Abiotic Disorders and Leaf Rolling",
+          "source_organization": "University of California Agriculture and Natural Resources (UC ANR)",
+          "source_url": "https://anrcatalog.ucanr.edu",
+          "source_type": "extension_bulletin"
+        }
+      ]
+    },
+    {
+      "condition_id": "citrus_dry_leaf",
+      "crop": "citrus",
+      "class_name": "Dry Leaf",
+      "advisory_status": "GENERAL_GUIDANCE",
+      "display_name": {
+        "en": "Citrus Dry Leaf (Severe Desiccation / Sunscald)",
+        "hi": "सिट्रस सूखा पत्ता (अत्यधिक सूखा / धूप से झुलसा)",
+        "mr": "लिंबूवर्गीय वाळलेले पान (पाण्याचा तीव्र ताण / करपलेली पाने)"
+      },
+      "short_description": {
+        "en": "Foliar desiccation, scorched brittle leaf blades, or abiotic moisture deficit without pathogenic spots.",
+        "hi": "पानी की भारी कमी या कड़क धूप के कारण पत्तों का सूखना, बिना किसी संक्रामक फंगल घाव के।",
+        "mr": "पाण्याच्या तीव्र कमतरतेमुळे किंवा अतिउष्णतेमुळे पाने वाळून करपणे, ज्यावर संसर्गजन्य बुरशीचे डाग नसतात."
+      },
+      "what_it_means": {
+        "en": "Severe water deficit, salinity scorch, high vapor pressure, or damaged root feeder lines prevent adequate water delivery to the canopy.",
+        "hi": "जड़ों से पर्याप्त पानी न मिलने, खारे पानी या तेज धूप के कारण पत्तियां सूखकर झड़ने लगती हैं।",
+        "mr": "मुळांमधून पाण्याचा पुरवठा कमी झाल्यामुळे, क्षारयुक्त पाण्यामुळे किंवा अति उष्णतेमुळे पाने वाळून गळतात."
+      },
+      "visual_signs": {
+        "en": [
+          "Crisp, brittle brown necrotic leaf margins extending inwards",
+          "Leaves curling and retaining dead brown tissue before dropping",
+          "Absence of bacterial halos, raised pustules, or mite webbing"
+        ],
+        "hi": [
+          "पत्ती के किनारे सूखे, कड़क और भूरे रंग के",
+          "पत्तियां सूखकर भूरी हो जाती हैं और झड़ने लगती हैं",
+          "कोई जीवाणु का घेरा, उभरे हुए मस्से या जाले न होना"
+        ],
+        "mr": [
+          "पानांच्या कडा वाळून कडक, कुरकुरीत आणि तपकिरी होणे",
+          "पाने वाळतात आणि गळून पडतात",
+          "कोणतेही जिवाणूचे डाग, खपली किंवा कोळ्यांचे जाळे नसणे"
+        ]
+      },
+      "immediate_actions": {
+        "en": [
+          "Examine root zone moisture and provide deep, slow irrigation to rehydrate root mass",
+          "Check tree base and crown for root rot (Phytophthora) or gummosis restricting sap flow",
+          "Do not apply synthetic fertilizers to moisture-stressed or desiccating trees"
+        ],
+        "hi": [
+          "जड़ों के पास नमी जांचें और पेड़ को पर्याप्त पानी दें ताकि जड़ें सूखें नहीं",
+          "तने और जड़ों की जांच करें कि कहीं गोंदिया (गमोसिस) या सड़ांध तो नहीं है",
+          "सूखे से जूझ रहे पेड़ों को तुरंत रासायनिक खाद न दें"
+        ],
+        "mr": [
+          "मुळांजवळील ओलावा तपासा आणि झाडाला हळूहळू खोलवर पाणी द्या",
+          "खोडाजवळ डिंक्या किंवा मूळकुज नाही ना याची तपासणी करा",
+          "ताण पडलेल्या झाडांना लगेच रासायनिक खते देणे टाळा"
+        ]
+      },
+      "prevention_or_monitoring": {
+        "en": [
+          "Mulch heavily around the tree basin with organic biomass to preserve soil moisture",
+          "Test irrigation water electrical conductivity (EC) to rule out salinity-induced leaf burn",
+          "Erect shade netting for young newly planted orchard trees during extreme heat waves"
+        ],
+        "hi": [
+          "मिट्टी की नमी बचाने के लिए पेड़ के थाले में सूखी घास या पुआल बिछाएं",
+          "सिंचाई के पानी की जांच कराएं कि उसमें खारापन (लवणता) तो नहीं है",
+          "अत्यधिक गर्मी के दौरान छोटे पौधों पर छायादार जाली का प्रयोग करें"
+        ],
+        "mr": [
+          "ओलावा टिकवण्यासाठी झाडाच्या आळ्यात सेंद्रिय पदार्थांचे आच्छादन करा",
+          "पाण्यातील क्षारांचे प्रमाण (EC) तपासा जेणेकरून क्षारांमुळे पाने करपत नाहीत ना हे कळेल",
+          "अतिउष्णतेच्या काळात लहान झाडांचे उन्हापासून रक्षण करा"
+        ]
+      },
+      "expert_escalation": {
+        "en": "If trees continue desiccating despite irrigation, consult an extension expert to inspect for Phytophthora root rot or soil salinity.",
+        "hi": "यदि पानी देने के बाद भी पत्ते सूखते रहें, तो जड़ गलन या मिट्टी में खारेपन की जांच हेतु कृषि विशेषज्ञ से संपर्क करें।",
+        "mr": "पाणी देऊनही झाडे वाळत राहिल्यास, मूळकुज किंवा जमिनीतील क्षार तपासण्यासाठी कृषी तज्ज्ञांचा सल्ला घ्या."
+      },
+      "sources": [
+        {
+          "source_title": "Drought and Heat Stress Management in Citrus Orchards",
+          "source_organization": "ICAR - Central Citrus Research Institute (ICAR-CCRI), Nagpur",
+          "source_url": "https://ccri.icar.gov.in",
+          "source_type": "institutional_extension"
+        },
+        {
+          "source_title": "Salinity and Moisture Stress Diagnostic Guide for Citrus",
+          "source_organization": "Tamil Nadu Agricultural University (TNAU) Agritech Portal",
+          "source_url": "https://agritech.tnau.ac.in",
+          "source_type": "university_portal"
+        }
+      ]
+    },
+    {
+      "condition_id": "citrus_greening",
+      "crop": "citrus",
+      "class_name": "Greening",
+      "advisory_status": "SUPPORTED",
+      "display_name": {
+        "en": "Citrus Greening / Huanglongbing (Candidatus Liberibacter asiaticus)",
+        "hi": "सिट्रस ग्रीनिंग / हुआंगलोंगबिंग (HLB)",
+        "mr": "सिट्रस ग्रीनिंग / हुआंगलाँगबिंग (HLB)"
+      },
+      "short_description": {
+        "en": "Devastating vascular bacterial disease causing asymmetric blotchy mottle, yellow veins, and severe tree decline.",
+        "hi": "विनाशकारी जीवाणु रोग जिससे पत्तों पर असंतुलित पीलापन (ब्लॉची मोटल), नसों का पीला होना और पेड़ का कमजोर होना देखा जाता है।",
+        "mr": "अतिशय घातक जिवाणूजन्य रोग ज्यामुळे पानांवर असंतुलित पिवळे चट्टे (ब्लॉची मॉटल), शिरा पिवळ्या पडणे आणि झाडाचा ऱ्हास होतो."
+      },
+      "what_it_means": {
+        "en": "Candidatus Liberibacter asiaticus lives inside phloem sieve tubes, transmitted primarily by the Asian citrus psyllid (Diaphorina citri) and infected budwood.",
+        "hi": "यह जीवाणु पौधे की फ्लोएम नलियों में रहता है और मुख्य रूप से सिट्रस सायला (कीट) तथा संक्रमित कलमों द्वारा फैलता है।",
+        "mr": "हा जिवाणू झाडाच्या अन्नवाहिन्यांमध्ये राहतो आणि प्रामुख्याने सिट्रस सिल्ला (सायला) किडीद्वारे तसेच रोगट कलमांमुळे पसरतो."
+      },
+      "visual_signs": {
+        "en": [
+          "Asymmetrical blotchy mottle where yellow and green patterns do not match across the midrib",
+          "Vein yellowing, corking, or vein enlargement on mature leaves",
+          "Zinc-deficiency-like symptoms that do not resolve following foliar zinc application"
+        ],
+        "hi": [
+          "असंतुलित पीलापन जहां मुख्य शिरा के दोनों तरफ पीले और हरे पैटर्न एक जैसे नहीं होते",
+          "पुरानी पत्तियों की नसों का पीला और खुरदुरा होना",
+          "जिंक की कमी जैसे लक्षण जो जिंक छिड़कने के बाद भी ठीक नहीं होते"
+        ],
+        "mr": [
+          "असंतुलित पिवळे चट्टे जिथे पानाच्या मुख्य शिरेच्या दोन्ही बाजूचे रंग जुळत नाहीत",
+          "जुन्या पानांच्या शिरा पिवळ्या आणि खडबडीत होणे",
+          "झिंकच्या कमतरतेसारखी लक्षणे जी झिंक फवारूनही बरी होत नाहीत"
+        ]
+      },
+      "immediate_actions": {
+        "en": [
+          "Inspect new flushes for the presence of Asian citrus psyllid nymphs (producing white waxy excretions)",
+          "Flag suspected trees and avoid taking budwood or cuttings from them for propagation",
+          "Confirm diagnosis with laboratory PCR testing through an official agricultural extension station"
+        ],
+        "hi": [
+          "नई पत्तियों पर सिट्रस सायला कीट के बच्चों की जांच करें (जो सफेद मोम जैसा स्राव छोड़ते हैं)",
+          "संदिग्ध पेड़ों को चिह्नित करें और उनसे कभी भी नए पौधे तैयार करने के लिए कलम न लें",
+          "कृषि विज्ञान केंद्र के माध्यम से प्रयोगशाला में जांच कराकर पुष्टि करें"
+        ],
+        "mr": [
+          "नवीन पालवीवर सिल्ला किडीची पिले आहेत का ते तपासा (जी पांढरा मेणासारखा द्रव सोडतात)",
+          "संशयित झाडांवर खूण करा आणि त्या झाडांवरून नवीन लागवडीसाठी डोळे किंवा कलमे घेऊ नका",
+          "अधिकृत प्रयोगशाळेत PCR तपासणी करून रोगाची खात्री करा"
+        ]
+      },
+      "prevention_or_monitoring": {
+        "en": [
+          "Control the Asian citrus psyllid vector systematically across the entire orchard community",
+          "Plant only certified disease-free budded plants from registered clean-stock nurseries",
+          "Promptly remove and destroy severely declining, confirmed-positive trees to protect the grove"
+        ],
+        "hi": [
+          "सायला कीट का पूरे बगीचे में संगठित नियंत्रण करें",
+          "केवल प्रमाणित और साफ नर्सरी से खरीदे गए पौधे ही लगाएं",
+          "रोग की पुष्टि होने पर गंभीर रूप से खराब पेड़ों को हटा दें ताकि अन्य पेड़ बच सकें"
+        ],
+        "mr": [
+          "बागेत सिल्ला किडीचे नियमित नियंत्रण करा",
+          "केवळ अधिकृत व तपासणी केलेल्या रोपवाटिकेतून प्रमाणित कलमे लावा",
+          "रोगाची खात्री पटलेली जास्त खराब झाडे काढून टाका जेणेकरून इतर झाडांचे रक्षण होईल"
+        ]
+      },
+      "expert_escalation": {
+        "en": "Because HLB is incurable and highly destructive, immediately notify your district horticulture officer or ICAR-CCRI for regional vector management protocols.",
+        "hi": "ग्रीनिंग रोग अत्यंत विनाशकारी है, अतः लक्षण दिखने पर तुरंत जिला उद्यान अधिकारी या ICAR-CCRI को सूचित करें।",
+        "mr": "हा रोग अतिशय नुकसानकारक असल्याने, लक्षणे दिसताच त्वरित जिल्हा कृषी अधिकारी किंवा ICAR-CCRI शी संपर्क साधा."
+      },
+      "sources": [
+        {
+          "source_title": "Citrus Greening (Huanglongbing) Diagnostic and Management Manual",
+          "source_organization": "ICAR - Central Citrus Research Institute (ICAR-CCRI), Nagpur",
+          "source_url": "https://ccri.icar.gov.in",
+          "source_type": "institutional_extension"
+        },
+        {
+          "source_title": "Huanglongbing (Citrus Greening Disease) Technical Bulletin",
+          "source_organization": "Tamil Nadu Agricultural University (TNAU) Agritech Portal",
+          "source_url": "https://agritech.tnau.ac.in",
+          "source_type": "university_portal"
+        }
+      ]
+    },
+    {
+      "condition_id": "citrus_lemon_sooty_mold",
+      "crop": "citrus",
+      "class_name": "Lemon_Sooty_Mold",
+      "advisory_status": "SUPPORTED",
+      "display_name": {
+        "en": "Citrus Sooty Mold (Capnodium citri)",
+        "hi": "सिट्रस सूटी मोल्ड (काली फफूंद / काजली रोग)",
+        "mr": "लिंबूवर्गीय काजळी बुरशी (सूटी मोल्ड)"
+      },
+      "short_description": {
+        "en": "Superficial black velvety fungal crust growing on honeydew excreted by sap-sucking insects.",
+        "hi": "रस चूसने वाले कीटों द्वारा छोड़े गए मीठे चिपचिपे स्राव पर उगने वाली काली मखमली फफूंद।",
+        "mr": "रस शोषणाऱ्या किडींच्या चिकट द्रवावर वाढणारा काजळीसारखा काळा बुरशीचा थर."
+      },
+      "what_it_means": {
+        "en": "Capnodium citri is not a parasitic pathogen—it does not penetrate leaf tissue. However, the black crust blocks sunlight, drastically inhibiting photosynthesis and vigor.",
+        "hi": "यह फफूंद पत्ती के अंदर नहीं घुसती, लेकिन काला आवरण धूप को रोकता है जिससे पत्ती में भोजन बनना कम हो जाता है।",
+        "mr": "ही बुरशी पानाच्या आत शिरत नाही, परंतु काळा थर सूर्यप्रकाश अडवतो, ज्यामुळे अन्ननिर्मिती मंदावते."
+      },
+      "visual_signs": {
+        "en": [
+          "Thin to dense charcoal-black velvety crust covering upper leaf surfaces and fruit rind",
+          "Fungal crust easily rubs or washes off revealing undamaged green tissue beneath",
+          "Presence of sticky honeydew excretions and ant trails moving along the stems"
+        ],
+        "hi": [
+          "पत्ती की ऊपरी सतह पर कोयले जैसा काला मखमली लेप",
+          "काला लेप हाथ से रगड़ने या धोने पर छूट जाता है और नीचे हरा पत्ता दिखता है",
+          "पत्तियों पर चिपचिपा स्राव और तनों पर चींटियों का घूमना"
+        ],
+        "mr": [
+          "पानाच्या वरच्या पृष्ठभागावर कोळशासारखा काळा मखमली थर",
+          "थर हाताने घासल्यास किंवा धुतल्यास सहज निघतो आणि खाली निरोगी पान दिसते",
+          "पानांवर चिकट द्रव आणि फांद्यांवर मुंग्यांची हालचाल"
+        ]
+      },
+      "immediate_actions": {
+        "en": [
+          "Identify and control the underlying sap-sucking pest (such as whiteflies, aphids, mealybugs, or scale insects)",
+          "Spray trees with a mild starch solution (1% maida or starch paste) to flake off the dried sooty mold crust",
+          "Prune dense inner canopy branches to increase ventilation"
+        ],
+        "hi": [
+          "रस चूसने वाले कीटों (जैसे सफेद मक्खी, माहू या मिलीबग) की पहचान कर उनका नियंत्रण करें",
+          "काली पपड़ी छुड़ाने के लिए हल्के स्टार्च (मैदा पेस्ट) के घोल का छिड़काव करें",
+          "झाड़ के अंदर की शाखाओं की छंटाई करें ताकि हवा लगे"
+        ],
+        "mr": [
+          "चिकट द्रव सोडणाऱ्या किडींचा (मावा, पांढरी माशी, पिठ्या ढेकूण) शोध घेऊन बंदोबस्त करा",
+          "काजळीचा थर निघून जाण्यासाठी मैद्याची किंवा स्टार्चची पेस्ट फवारा",
+          "आतील फांद्यांची छाटणी करून हवा खेळती ठेवा"
+        ]
+      },
+      "prevention_or_monitoring": {
+        "en": [
+          "Control ant colonies in the orchard, as ants protect sap-sucking insects from beneficial predators",
+          "Conserve and encourage natural ladybird beetles and lacewing predators in the grove",
+          "Inspect shoot tips and lower leaf surfaces bi-weekly for early pest honeydew accumulation"
+        ],
+        "hi": [
+          "बगीचे में चींटियों पर नियंत्रण रखें, क्योंकि वे रस चूसने वाले कीटों की रक्षा करती हैं",
+          "लेडीबर्ड बीटल जैसे मित्र कीटों का संरक्षण करें",
+          "हर दो हफ्ते में कोमल शाखाओं पर चिपचिपे स्राव की जांच करें"
+        ],
+        "mr": [
+          "झाडांवर मुंग्या चढू देऊ नका, कारण मुंग्या रस शोषणाऱ्या किडींचे रक्षण करतात",
+          "लेडीबर्ड बीटल आणि क्रायसोपा यांसारख्या मित्र कीटकांचे संवर्धन करा",
+          "दर १५ दिवसांनी कोवळ्या पानांवर चिकटपणा येतो का ते तपासा"
+        ]
+      },
+      "expert_escalation": {
+        "en": "Consult your local KVK for bio-pesticide or neem-based formulations to manage the specific sap-sucking pest responsible.",
+        "hi": "रस चूसने वाले कीट के सुरक्षित जैविक या नीम नियंत्रण के लिए स्थानीय KVK से सलाह लें।",
+        "mr": "संबंधित रस शोषणाऱ्या किडीच्या योग्य जैविक नियंत्रणासाठी कृषी विज्ञान केंद्राचा सल्ला घ्या."
+      },
+      "sources": [
+        {
+          "source_title": "Sap-Sucking Pests and Sooty Mold Complex in Citrus",
+          "source_organization": "Tamil Nadu Agricultural University (TNAU) Agritech Portal",
+          "source_url": "https://agritech.tnau.ac.in",
+          "source_type": "university_portal"
+        },
+        {
+          "source_title": "Sooty Mold Management on Foliage and Fruit",
+          "source_organization": "University of Florida IFAS Extension",
+          "source_url": "https://edis.ifas.ufl.edu",
+          "source_type": "extension_bulletin"
+        }
+      ]
+    },
+    {
+      "condition_id": "citrus_melanose",
+      "crop": "citrus",
+      "class_name": "Melanose",
+      "advisory_status": "SUPPORTED",
+      "display_name": {
+        "en": "Citrus Melanose (Diaporthe citri)",
+        "hi": "सिट्रस मेलानोज (रेगमाल रोग)",
+        "mr": "लिंबूवर्गीय मेलॅनोझ (खडबडीत डाग)"
+      },
+      "short_description": {
+        "en": "Fungal disease producing minute raised dark brown to black pustules creating a sandpaper texture across leaves and twigs.",
+        "hi": "फंगल रोग जिससे पत्ती पर छोटे उभरे हुए गहरे भूरे दाने बनते हैं जो रेगमाल जैसा अहसास देते हैं।",
+        "mr": "बुरशीजन्य रोग ज्यामुळे पानांवर वाळूच्या कागदासारखे (सॅन्डपेपर) बारीक, उठावदार काळे-तपकिरी खडबडीत दाणे येतात."
+      },
+      "what_it_means": {
+        "en": "Diaporthe citri survives primarily in dead twigs within the canopy and discharges spores during rain events, infecting young developing foliage.",
+        "hi": "यह कवक झाड़ की सूखी टहनियों में जीवित रहता है और बारिश में बीजाणु फैलाकर नई पत्तियों को संक्रमित करता है।",
+        "mr": "झाडातील वाळलेल्या फांद्यांवर ही बुरशी राहते आणि पावसाच्या पाण्याने कोवळ्या पानांवर पसरते."
+      },
+      "visual_signs": {
+        "en": [
+          "Numerous tiny, discrete, raised dark brown to black pustules imparting a rough sandpaper feel",
+          "Streaks or tear-staining patterns where rain washed spores down the leaf blade",
+          "Yellowing of heavily affected leaves followed by premature foliar drop"
+        ],
+        "hi": [
+          "अनगिनत छोटे उभरे हुए दाने जो छूने पर रेगमाल जैसे खुरदुरे लगते हैं",
+          "पत्ती पर धारियों जैसी लकीरें जहां बारिश के पानी के साथ बीजाणु बहे हों",
+          "अधिक संक्रमण होने पर पत्तों का पीला होकर गिरना"
+        ],
+        "mr": [
+          "असंख्य बारीक उठावदार दाणे जे हाताला वाळूच्या कागदासारखे खडबडीत लागतात",
+          "पावसाच्या पाण्याने वाहून आलेल्या बीजाणूंमुळे पाटासारख्या रेषा किंवा डाग",
+          "जास्त प्रादुर्भाव झाल्यास पाने पिवळी पडून गळणे"
+        ]
+      },
+      "immediate_actions": {
+        "en": [
+          "Prune and eliminate all dead, dried twigs from inside the tree canopy during the dormant dry period",
+          "Collect all pruned wood and burn or remove it far from the orchard boundary",
+          "Avoid overhead irrigation during new flush leaf emergence"
+        ],
+        "hi": [
+          "पेड़ के अंदर की सभी सूखी और मृत टहनियों की अच्छी तरह छंटाई करें",
+          "काटी गई सूखी लकड़ी को बगीचे से बाहर निकालें और नष्ट करें",
+          "नई पत्तियां निकलते समय ऊपर से पानी न दें"
+        ],
+        "mr": [
+          "कोरड्या हंगामात झाडाच्या आतील सर्व वाळलेल्या फांद्यांची छाटणी करा",
+          "छाटलेले लाकूड आणि फांद्या बागेबाहेर नेऊन नष्ट करा",
+          "नवीन पालवी फुटताना वरून पाणी देणे टाळा"
+        ]
+      },
+      "prevention_or_monitoring": {
+        "en": [
+          "Open dense canopies to improve air circulation and accelerate drying of leaves after rain",
+          "Monitor mature trees with older dead wood more vigilantly than young vigorous trees",
+          "Inspect young flush foliage within two weeks following rainy monsoon spells"
+        ],
+        "hi": [
+          "झाड़ की छंटाई करके हवा और धूप का संचार सुधारें ताकि पत्ते जल्दी सूखें",
+          "पुराने पेड़ों की विशेष रूप से निगरानी करें जिनमें सूखी लकड़ी ज्यादा होती है",
+          "बरसात के दो हफ्ते के भीतर नई पत्तियों की जांच करें"
+        ],
+        "mr": [
+          "झाडामध्ये सूर्यप्रकाश आणि हवा खेळती ठेवा जेणेकरून पावसाचे पाणी लवकर सुकेल",
+          "जुन्या वाळलेल्या फांद्या असलेल्या झाडांची विशेष काळजी घ्या",
+          "पावसाळ्यानंतर दोन आठवड्यांच्या आत नवीन पानांची तपासणी करा"
+        ]
+      },
+      "expert_escalation": {
+        "en": "Consult your local KVK or agricultural university for recommended protective copper sprays applied immediately following spring petal fall.",
+        "hi": "फूल झड़ने के तुरंत बाद सुरक्षात्मक उपाय और छिड़काव की सलाह के लिए KVK से संपर्क करें।",
+        "mr": "फुलगळ झाल्यानंतर प्रतिबंधात्मक फवारणीच्या योग्य वेळेसाठी कृषी विज्ञान केंद्राचा सल्ला घ्या."
+      },
+      "sources": [
+        {
+          "source_title": "Melanose Disease Management in Citrus Orchards",
+          "source_organization": "ICAR - Central Citrus Research Institute (ICAR-CCRI), Nagpur",
+          "source_url": "https://ccri.icar.gov.in",
+          "source_type": "institutional_extension"
+        },
+        {
+          "source_title": "Citrus Melanose Symptoms and Control Bulletin",
+          "source_organization": "University of Florida IFAS Extension",
+          "source_url": "https://edis.ifas.ufl.edu",
+          "source_type": "extension_bulletin"
+        }
+      ]
+    },
+    {
+      "condition_id": "citrus_spider_mites",
+      "crop": "citrus",
+      "class_name": "Spider Mites",
+      "advisory_status": "SUPPORTED",
+      "display_name": {
+        "en": "Citrus Spider Mites (Tetranychidae / Panonychus citri)",
+        "hi": "सिट्रस स्पाइडर माइट्स (लाल मकड़ी कीट)",
+        "mr": "लिंबूवर्गीय लाल कोळी (स्पायडर माइट्स)"
+      },
+      "short_description": {
+        "en": "Microscopic sap-feeding arachnid pests causing fine chlorotic stippling, leaf bronzing, and delicate silken webbing.",
+        "hi": "सूक्ष्म मकड़ी कीट जो पत्ती का रस चूसकर महीन पीले बिंदु, बदरंग पत्ता और बारीक जाला बनाते हैं।",
+        "mr": "अतिसूक्ष्म कोळी कीटक जो पानातला रस शोषून बारीक पिवळे ठिपके, निस्तेज चकाकी आणि कोळ्याचे जाळे तयार करतो."
+      },
+      "what_it_means": {
+        "en": "Spider mites proliferate in hot, dry, dusty conditions, feeding on epidermal leaf cells and inducing premature foliar drop and twig dieback.",
+        "hi": "यह कीट गर्म, सूखे और धूल भरे मौसम में तेजी से बढ़ता है और पत्तों की कोशिकाओं को नष्ट करता है।",
+        "mr": "उष्ण, कोरड्या आणि धुळीच्या वातावरणात हे कोळी वेगाने वाढतात आणि रस शोषून पाने गळण्यास कारणीभूत ठरतात."
+      },
+      "visual_signs": {
+        "en": [
+          "Dense, pinprick-like chlorotic stippling along leaf midribs and main veins",
+          "Dull, pale grey to bronzed discoloration of the entire leaf blade",
+          "Fine, delicate silken webbing stretched across leaf axils and undersides"
+        ],
+        "hi": [
+          "पत्ती की नसों के साथ बारीक सुई जैसी चुभन वाले पीले बिंदु",
+          "पत्ती का रंग फीका, स्लेटी या तांबे जैसा बदरंग होना",
+          "पत्ती के जोड़ों और निचली सतह पर बारीक कोमल जाला"
+        ],
+        "mr": [
+          "पानाच्या शिरांच्या बाजूने सुईच्या टोकासारखे बारीक पिवळसर ठिपके",
+          "पानाचा रंग फिकट, राखाडी किंवा तांबूस-कांस्य रंगाचा होणे",
+          "पानांच्या बेचक्यात आणि मागे बारीक रेशमी जाळे"
+        ]
+      },
+      "immediate_actions": {
+        "en": [
+          "Apply a high-pressure water wash to tree canopies to knock down mite populations and remove dust",
+          "Prune severely bronzed, web-covered water shoots that act as focal points of infestation",
+          "Avoid applying broad-spectrum synthetic pyrethroids that destroy natural predatory mites"
+        ],
+        "hi": [
+          "पेड़ पर पानी का तेज फव्वारा मारकर धूल और माइट्स को नीचे गिराएं",
+          "ज्यादा जाले वाली शाखाओं की छंटाई करें",
+          "अंधाधुंध कीटनाशक छिड़कने से बचें क्योंकि इससे मित्र कीट मर जाते हैं"
+        ],
+        "mr": [
+          "झाडावर पाण्याचा जोरदार फवारा मारून धूळ आणि कोळी धुवून काढा",
+          "जास्त जाळे लागलेल्या फांद्या छाटून टाका",
+          "मित्र कीटकांचा नाश करणारी तीव्र कीटकनाशके फवारणे टाळा"
+        ]
+      },
+      "prevention_or_monitoring": {
+        "en": [
+          "Mitigate dust on orchard farm roads by planting windbreaks or watering dirt lanes",
+          "Conserve natural predators such as predatory mites (Phytoseiidae) and ladybird beetles",
+          "Inspect leaf undersides bi-weekly with a 10x lens during dry pre-summer and post-monsoon months"
+        ],
+        "hi": [
+          "सड़कों से उड़ने वाली धूल रोकें क्योंकि धूल में मकड़ी कीट बहुत तेजी से पनपते हैं",
+          "मित्र कीटों का संरक्षण करें जो माइट्स को खाते हैं",
+          "गर्मियों से पहले और बारिश के बाद हर दो हफ्ते में लेंस से पत्तियों की जांच करें"
+        ],
+        "mr": [
+          "धुळीमुळे कोळी वाढत असल्याने रस्त्यावरील धूळ नियंत्रणात ठेवा",
+          "कोळ्यांना खाणाऱ्या मित्र कीटकांचे रक्षण करा",
+          "उन्हाळ्यात आणि पावसाळ्यानंतर दर पंधरवड्याला भिंगाने पानांचे निरीक्षण करा"
+        ]
+      },
+      "expert_escalation": {
+        "en": "Consult your local KVK entomologist if more than 20% of sampled leaves exhibit active adult mites and webbing.",
+        "hi": "यदि 20% से अधिक पत्तों पर सक्रिय कीट और जाले दिखें, तो KVK कीट विशेषज्ञ से उचित माइटनाशक की सलाह लें।",
+        "mr": "जर २०% पेक्षा जास्त पानांवर कोळी आणि जाळी दिसत असतील, तर कृषी विज्ञान केंद्रातील कीटकशास्त्रज्ञांचा सल्ला घ्या."
+      },
+      "sources": [
+        {
+          "source_title": "Tetranychid Mites and their Bio-rational Management in Fruit Crops",
+          "source_organization": "ICAR - National Bureau of Agricultural Insect Resources (ICAR-NBAIR), Bengaluru",
+          "source_url": "https://nbair.res.in",
+          "source_type": "institutional_extension"
+        },
+        {
+          "source_title": "Red Spider Mite and Rust Mite Management in Citrus",
+          "source_organization": "Tamil Nadu Agricultural University (TNAU) Agritech Portal",
+          "source_url": "https://agritech.tnau.ac.in",
+          "source_type": "university_portal"
+        }
+      ]
+    },
+    {
+      "condition_id": "citrus_swallowtail_larval_herbivory",
+      "crop": "citrus",
+      "class_name": "Swallowtail Larval Herbivory (Deficiency)",
+      "advisory_status": "SUPPORTED",
+      "display_name": {
+        "en": "Citrus Butterfly Caterpillar / Swallowtail Herbivory (Papilio demoleus)",
+        "hi": "नींबू तितली की इल्ली (कैटरपिलर क्षति)",
+        "mr": "लिंबू फुलपाखराची अळी (कॅटरपिलर नुकसान)"
+      },
+      "short_description": {
+        "en": "Chewing caterpillar defoliation caused by the lime butterfly larva, stripping leaf blades down to midribs.",
+        "hi": "नींबू तितली की इल्ली द्वारा पत्तों को किनारों से कुतरकर खाना, जिससे केवल नसों का कंकाल बचता है।",
+        "mr": "लिंबू फुलपाखराच्या अळीने पाने कडेने कुरतडल्यामुळे संपूर्ण पान खाल्ले जाऊन फक्त मधली शीर शिल्लक राहणे."
+      },
+      "what_it_means": {
+        "en": "Larvae of Papilio demoleus feed voraciously on young flush leaves. Young larvae resemble bird droppings; mature larvae turn bright green, causing severe nursery and young tree defoliation.",
+        "hi": "यह इल्ली नई पत्तियों को तेजी से खाती है। छोटी इल्ली पक्षी की बीट जैसी दिखती है और बड़ी होकर हरी हो जाती है।",
+        "mr": "पॅपिलिओ डिमोलियसची अळी कोवळी पाने वेगाने कुरतडते. लहान अळी पक्ष्यांच्या विष्ठेसारखी तर मोठी अळी हिरवी दिसते."
+      },
+      "visual_signs": {
+        "en": [
+          "Distinct semicircular or irregular chewing marks starting from leaf margins",
+          "Severely stripped leaves where only the central midrib and petiole remain intact",
+          "Presence of green or dark bird-dropping-like caterpillars resting along leaf midribs"
+        ],
+        "hi": [
+          "पत्ती के किनारों से अर्धचंद्राकार या कटे हुए निशान",
+          "पत्ते का पूरा हिस्सा खाया हुआ और केवल बीच की नस बची होना",
+          "पत्ती की मुख्य नस पर बैठी हुई हरी या पक्षी की बीट जैसी इल्ली"
+        ],
+        "mr": [
+          "पानाच्या कडेपासून अर्धगोलाकार कुरतडलेले भाग",
+          "संपूर्ण पान खाल्ले जाऊन फक्त मधली शीर शिल्लक राहणे",
+          "पानाच्या मधोमध विश्रांती घेणारी हिरवी किंवा पक्ष्यांच्या विष्ठेसारखी दिसणारी अळी"
+        ]
+      },
+      "immediate_actions": {
+        "en": [
+          "Hand-pick caterpillars and spherical yellowish eggs from foliage on young trees and destroy them manually",
+          "Prune shoots harbouring pupae or cocoons attached to twigs",
+          "Protect natural predators such as wasps and birds that prey on caterpillars"
+        ],
+        "hi": [
+          "छोटे पेड़ों पर दिखने वाली इल्लियों और अंडों को हाथ से चुनकर नष्ट करें",
+          "टहनियों पर चिपके प्यूपा को हटा दें",
+          "चिड़ियों और शिकारी ततैया का संरक्षण करें जो इन इल्लियों को खाती हैं"
+        ],
+        "mr": [
+          "लहान झाडांवरील अळ्या आणि पिवळसर अंडी हाताने वेचून नष्ट करा",
+          "फांद्यांना चिकटलेले कोष काढून टाका",
+          "अळ्या खाणाऱ्या पक्ष्यांचे आणि मित्र कीटकांचे रक्षण करा"
+        ]
+      },
+      "prevention_or_monitoring": {
+        "en": [
+          "Cover nursery seedbeds with fine nylon insect mesh to prevent adult butterfly egg-laying",
+          "Inspect young flush flushes weekly during spring and early monsoon when butterfly flights peak",
+          "Monitor for parasitoid wasp activity (such as Trichogramma egg parasitoids)"
+        ],
+        "hi": [
+          "नर्सरी के पौधों को महीन जाली से ढकें ताकि तितली अंडे न दे सके",
+          "वसंत और बरसात के मौसम में नई पत्तियों की साप्ताहिक जांच करें",
+          "परजीवी ततैया की गतिविधियों पर नजर रखें"
+        ],
+        "mr": [
+          "फुलपाखरांनी अंडी घालू नये म्हणून रोपवाटिकेवर बारीक जाळी (नेट) वापरा",
+          "नवीन पालवी फुटताना आठवड्यातून एकदा झाडांची पाहणी करा",
+          "अंड्यांवर उपजीविका करणाऱ्या परोपजीवी मित्र कीटकांचे रक्षण करा"
+        ]
+      },
+      "expert_escalation": {
+        "en": "Consult your local KVK for recommended biological sprays (such as Bacillus thuringiensis formulations) if widespread feeding occurs on young groves.",
+        "hi": "यदि छोटे बगीचे में बहुत अधिक इल्लियां हों, तो जैविक उपचार (जैसे बैसिलस थुरिंजिएंसिस) के लिए KVK से सलाह लें।",
+        "mr": "प्रादुर्भाव जास्त असल्यास जैविक कीटकनाशकांच्या (उदा. बीटी) सल्ल्यासाठी कृषी विज्ञान केंद्राशी संपर्क साधा."
+      },
+      "sources": [
+        {
+          "source_title": "Citrus Butterfly (Papilio demoleus) Life History and Biorational Control",
+          "source_organization": "ICAR - National Bureau of Agricultural Insect Resources (ICAR-NBAIR), Bengaluru",
+          "source_url": "https://nbair.res.in",
+          "source_type": "institutional_extension"
+        },
+        {
+          "source_title": "Major Insect Pests of Citrus and Integrated Management",
+          "source_organization": "Tamil Nadu Agricultural University (TNAU) Agritech Portal",
+          "source_url": "https://agritech.tnau.ac.in",
+          "source_type": "university_portal"
+        }
+      ]
+    },
+    {
+      "condition_id": "citrus_yellow_spot",
+      "crop": "citrus",
+      "class_name": "Yellow_Spot",
+      "advisory_status": "SUPPORTED",
+      "display_name": {
+        "en": "Citrus Yellow Spot (Molybdenum Deficiency / Chlorosis)",
+        "hi": "सिट्रस पीला धब्बा (मोलिब्डेनम सूक्ष्म पोषक तत्व की कमी)",
+        "mr": "लिंबूवर्गीय पिवळा ठिपका (मॉलिब्डेनम अन्नद्रव्य कमतरता)"
+      },
+      "short_description": {
+        "en": "Nutritional micronutrient disorder producing large, circular, interveinal bright yellow chlorotic spots on leaves.",
+        "hi": "सूक्ष्म पोषक तत्व (मोलिब्डेनम) की कमी का विकार जिसमें पत्तियों पर नसों के बीच बड़े चमकीले पीले गोल धब्बे बनते हैं।",
+        "mr": "सूक्ष्म अन्नद्रव्याच्या (मॉलिब्डेनम) कमतरतेमुळे पानाच्या शिरांमधील भागात पडणारे मोठे गोलाकार पिवळे ठिपके."
+      },
+      "what_it_means": {
+        "en": "Molybdenum deficiency occurs most frequently in acidic soils (pH < 5.5). Molybdenum is required for nitrate reduction; its deficiency causes nitrate accumulation and interveinal yellowing.",
+        "hi": "यह कमी मुख्य रूप से अम्लीय मिट्टी (कम pH) में होती है, जिससे पौधा नाइट्रोजन का सही उपयोग नहीं कर पाता और पत्ते पीले पड़ते हैं।",
+        "mr": "आम्लधर्मी जमिनीत (कमी सामू) ही कमतरता जास्त दिसते, ज्यामुळे झाडामध्ये नत्र पचनावर परिणाम होऊन पाने पिवळी पडतात."
+      },
+      "visual_signs": {
+        "en": [
+          "Large, bright yellow to golden chlorotic spots between the main leaf veins in summer",
+          "Gummy brown or resinous pustule-like deposits forming on the lower leaf surface beneath spots in late season",
+          "Severe cases exhibit marginal leaf scorch and premature drop of affected mature foliage"
+        ],
+        "hi": [
+          "गर्मियों में पत्ती की नसों के बीच बड़े चमकीले पीले गोल धब्बे",
+          "मौसम के अंत में धब्बे के नीचे निचली सतह पर गोंद जैसा भूरा स्राव",
+          "अधिक कमी होने पर पत्तों के किनारे सूखना और समय से पहले पत्तों का गिरना"
+        ],
+        "mr": [
+          "उन्हाळ्यात पानाच्या शिरांमधील भागात पडणारे मोठे चमकदार पिवळे चट्टे",
+          "हंगामाच्या शेवटी पानाच्या मागच्या बाजूला डिंकासारखा तपकिरी थर जमा होणे",
+          "प्रमाण जास्त असल्यास पानांच्या कडा करपणे आणि पाने गळणे"
+        ]
+      },
+      "immediate_actions": {
+        "en": [
+          "Test orchard topsoil and subsoil pH to verify if soil acidity is locking up molybdenum availability",
+          "Avoid applying high-acidifying ammonium-based fertilizers that further lower soil pH",
+          "Check whether yellow spots are localized to a few trees or widespread across soil zones"
+        ],
+        "hi": [
+          "मिट्टी का pH टेस्ट कराएं ताकि पता चले कि क्या मिट्टी अधिक अम्लीय है",
+          "अमोनियम आधारित अधिक अम्लीय खाद न दें जिससे मिट्टी का pH और न गिरे",
+          "जांचें कि लक्षण कुछ पेड़ों पर हैं या पूरे खेत के किसी खास हिस्से में"
+        ],
+        "mr": [
+          "मातीचा सामू (pH) तपासा जेणेकरून जमीन जास्त आम्लयुक्त आहे का ते समजेल",
+          "जमीन अधिक आम्लधर्मी करणारी अमोनियमयुक्त खते देणे टाळा",
+          "ठिपके काही विशिष्ट झाडांवर आहेत की विशिष्ट भागात पसरले आहेत हे तपासा"
+        ]
+      },
+      "prevention_or_monitoring": {
+        "en": [
+          "Apply agricultural lime or dolomite to acidic orchard soils to bring soil pH into the optimal 6.0 to 6.8 range",
+          "Incorporate organic compost or farmyard manure annually to improve soil buffering capacity",
+          "Monitor mature summer foliage annually before fruiting stage"
+        ],
+        "hi": [
+          "अम्लीय मिट्टी में चूना (एग्रीकल्चरल लाइम) मिलाकर मिट्टी का pH 6.0 से 6.8 के बीच लाएं",
+          "मिट्टी की सेहत सुधारने के लिए हर साल गोबर की सड़ी खाद या कम्पोस्ट डालें",
+          "गर्मियों में परिपक्व पत्तियों का हर साल निरीक्षण करें"
+        ],
+        "mr": [
+          "आम्लयुक्त जमिनीत कृषी चुना किंवा डोलोमाइट वापरून जमिनीचा सामू ६.० ते ६.८ च्या दरम्यान आणा",
+          "दरवर्षी शेतात चांगले कुजलेले शेणखत किंवा कंपोस्ट खत घाला",
+          "उन्हाळ्यात जुन्या पानांचे दरवर्षी निरीक्षण करा"
+        ]
+      },
+      "expert_escalation": {
+        "en": "Consult your local soil testing laboratory or KVK soil scientist for precise liming recommendations and micronutrient foliar spray protocols.",
+        "hi": "मिट्टी में चूना डालने की सही मात्रा और सूक्ष्म पोषक तत्व छिड़काव के लिए स्थानीय मृदा परीक्षण प्रयोगशाला या KVK से सलाह लें।",
+        "mr": "योग्य प्रमाणात चुना वापरण्यासाठी आणि सूक्ष्म अन्नद्रव्य फवारणीच्या सल्ल्यासाठी स्थानिक माती परीक्षण प्रयोगशाळा किंवा KVK शी संपर्क साधा."
+      },
+      "sources": [
+        {
+          "source_title": "Mineral Nutrition and Micronutrient Deficiencies in Citrus",
+          "source_organization": "ICAR - Central Citrus Research Institute (ICAR-CCRI), Nagpur",
+          "source_url": "https://ccri.icar.gov.in",
+          "source_type": "institutional_extension"
+        },
+        {
+          "source_title": "Nutritional Deficiencies in Citrus: Molybdenum / Yellow Spot",
+          "source_organization": "University of Florida IFAS Extension",
+          "source_url": "https://edis.ifas.ufl.edu",
+          "source_type": "extension_bulletin"
+        }
+      ]
+    }
+  ]
+}

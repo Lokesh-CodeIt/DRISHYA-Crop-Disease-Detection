@@ -1,0 +1,13 @@
+{
+  "crop": "citrus",
+  "model": "efficientnet_v2_s",
+  "seed": 42,
+  "best_epoch": 38,
+  "total_training_epochs": 40,
+  "best_val_macro_f1": 0.891946,
+  "best_val_accuracy": 0.92349,
+  "img_size": 384,
+  "num_classes": 18,
+  "source_archive": "PROJECT_ARTIFACTS/citrus/CROP_DETECTION_CHECKPOINTS-20261006T101034Z-1-001.zip",
+  "internal_archive_path": "CROP_DETECTION_CHECKPOINTS/citrus/efficientnet_v2_s/seed_42/best_model.pt"
+}

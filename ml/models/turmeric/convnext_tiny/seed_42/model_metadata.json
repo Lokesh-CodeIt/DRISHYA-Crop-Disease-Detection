@@ -1,0 +1,18 @@
+{
+  "crop": "turmeric",
+  "model": "convnext_tiny",
+  "seed": 42,
+  "img_size": 224,
+  "num_classes": 4,
+  "class_to_idx": {
+    "Dry Leaf": 0,
+    "Healthy": 1,
+    "Leaf Blotch": 2,
+    "Leaf Spot": 3
+  },
+  "best_epoch": 2,
+  "best_val_macro_f1": 1.0,
+  "best_val_accuracy": 1.0,
+  "source_origin_path": "ml/experiments/turmeric/convnext_tiny/seed_42/best_model.pt",
+  "checkpoint_filename": "best_model.pt"
+}

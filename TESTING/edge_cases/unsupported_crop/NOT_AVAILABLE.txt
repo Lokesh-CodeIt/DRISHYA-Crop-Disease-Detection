@@ -1,0 +1,2 @@
+unsupported_crop: not available in existing source data.
+No external downloads or synthetic images used per project rules.

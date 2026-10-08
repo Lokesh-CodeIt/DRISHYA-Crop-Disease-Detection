@@ -1,0 +1,77 @@
+{
+  "title": "DRISHYA Step A: Trustworthy Confidence Calibration Report",
+  "methodology": "Post-Hoc Temperature Scaling (Guo et al., 2017) via L-BFGS on validation NLL",
+  "generated_at": "2026-10-07T11:00:32Z",
+  "crops": {
+    "citrus": {
+      "temperature": 2.218093,
+      "validation_split": {
+        "n_samples": 2235,
+        "ece_before": 0.062936,
+        "ece_after": 0.032162,
+        "ece_reduction_percent": 48.9,
+        "nll_before": 0.472167,
+        "nll_after": 0.277218,
+        "brier_before": 0.136019,
+        "brier_after": 0.11669,
+        "accuracy": 0.92349,
+        "macro_f1": 0.892396,
+        "mean_confidence_before": 0.986172,
+        "mean_confidence_after": 0.939451,
+        "rejection_rate_before": 0.01387,
+        "rejection_rate_after": 0.042506
+      },
+      "test_split": {
+        "n_samples": 2241,
+        "ece_before": 0.058998,
+        "ece_after": 0.026995,
+        "ece_reduction_percent": 54.24,
+        "nll_before": 0.450731,
+        "nll_after": 0.270024,
+        "brier_before": 0.131394,
+        "brier_after": 0.114409,
+        "accuracy": 0.927265,
+        "macro_f1": 0.886348,
+        "mean_confidence_before": 0.985113,
+        "mean_confidence_after": 0.93723,
+        "rejection_rate_before": 0.013387,
+        "rejection_rate_after": 0.048193
+      }
+    },
+    "turmeric": {
+      "temperature": 0.101698,
+      "validation_split": {
+        "n_samples": 187,
+        "ece_before": 0.006385,
+        "ece_after": 0.0,
+        "ece_reduction_percent": 100.0,
+        "nll_before": 0.006612,
+        "nll_after": 0.0,
+        "brier_before": 0.000752,
+        "brier_after": 0.0,
+        "accuracy": 1.0,
+        "macro_f1": 1.0,
+        "mean_confidence_before": 0.993615,
+        "mean_confidence_after": 1.0,
+        "rejection_rate_before": 0.0,
+        "rejection_rate_after": 0.0
+      },
+      "test_split": {
+        "n_samples": 186,
+        "ece_before": 0.005247,
+        "ece_after": 0.010745,
+        "ece_reduction_percent": -104.78,
+        "nll_before": 0.042529,
+        "nll_after": 0.317621,
+        "brier_before": 0.017589,
+        "brier_after": 0.021498,
+        "accuracy": 0.989247,
+        "macro_f1": 0.989735,
+        "mean_confidence_before": 0.990852,
+        "mean_confidence_after": 0.999992,
+        "rejection_rate_before": 0.0,
+        "rejection_rate_after": 0.0
+      }
+    }
+  }
+}

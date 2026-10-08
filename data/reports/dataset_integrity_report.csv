@@ -1,0 +1,7 @@
+Dataset Key,Dataset Name,Crop,Total Images,Corrupted,Zero Byte,RGBA,Grayscale,Tiny (<100px/<10KB),Huge (>4000px/>10MB),Median File Size (KB),Most Common Dimensions
+citrus_fruits_leaves,A Citrus Fruits and Leaves Dataset for Detection and Classification of Citrus Diseases,citrus,759,0,0,0,0,0,0,65.06,256x256
+turmeric_leaf_disease,Image Dataset for Turmeric Plant Leaf Disease Detection,turmeric,4361,0,0,0,0,3496,0,4.55,224x224
+lemon_leaf_large_scale,Large-Scale Lemon Leaf Disease and Pest Image Data,citrus,17586,0,0,0,0,1486,0,25.07,640x480
+turmeric_plant_disease_1,Turmeric Plant Disease (1),turmeric,1063,0,0,0,0,0,0,234.85,1000x1000
+turmeric_advancing_ai_original,Turmeric Plant Disease Dataset Advancing AI (Original),turmeric,781,0,0,0,0,0,0,217.21,1000x1000
+turmeric_advancing_ai_augmented,Turmeric Plant Disease Dataset Advancing AI (Augmented),turmeric,3702,0,0,0,0,0,0,586.58,1000x1000
